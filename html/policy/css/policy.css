@@ -1,0 +1,88 @@
+﻿#header {
+/*position: relative;*/
+width:100%;
+/*text-align:center;*/
+background-color:#fff;
+white-space:nowrap;
+color:Lavender;
+}
+
+
+
+
+h1{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%,-50%);
+  -webkit-transform: translate(-50%,-50%);
+  transform: translate(-50%,-50%);
+  margin:0;
+  padding:0;
+  font-family:ＭＳ Ｐ明朝;
+}
+
+#container {
+position: relative;
+width:100%;
+text-align:center;
+background-color:#ffffff;
+}
+
+
+#policy {
+position: relative;
+width:100%;
+text-align:center;
+font-size:10px;
+background-color:#ffffff;
+}
+
+#text{
+display: inline-block;
+text-align: left;
+}
+
+
+#policy p{
+position: relative;
+width:100%;
+text-align:center;
+font-size:10px;
+background-color:#ffffff;
+}
+
+
+
+
+h4{
+  top: 50%;
+  left: 50%;
+  margin:0;
+  padding:0;
+  font-family:ＭＳ Ｐ明朝;
+}
+
+}
+
+
+strong{
+color:glay;font-size:50px;
+font-family:ＭＳ Ｐ明朝;
+
+}
+
+dt em{
+color:blue;font-size:30px;
+}
+
+dt{
+color:glay;font-size:20px;
+}
+
+dt.align_center{
+   text-align:center;
+}
+
+
+

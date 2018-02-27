@@ -1,0 +1,11 @@
+﻿body{
+  padding:10px 30px;
+  font-family: 'Oswald', sans-serif;
+}
+
+.box1 {
+    padding: 0.5em 1em;
+    margin: 1em 0.2em;
+    color: #2c2c2f;
+    background: #F0FFF0;
+}

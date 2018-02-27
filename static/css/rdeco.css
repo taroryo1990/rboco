@@ -1,0 +1,138 @@
+/*** Header ************
+ ***/
+
+/* normal */
+.rdeco_normal_header {
+    text-align:center;
+    vertical-align:baseline;
+	background-repeat:no-repeat;
+	background-color:white;
+	padding:5px;
+	width:350px;
+	height:90px;
+    text-align:center;
+}
+
+/* solid */
+.rdeco_solid_header {
+    position:fixed;
+	background-color:white;
+}
+
+
+/*** Menu **************
+ ***/
+/* normal */
+.rdeco_normal_menu {
+    white-space:nowrap;
+	background-repeat:no-repeat;
+	background-color:White;
+	padding:5px;
+}
+
+/* solid */
+.rdeco_solid_menu {
+    position:fixed;
+    text-align:center;
+	background-color:White;
+}
+
+/*** Body **************
+ ***/
+div.rdeco_normal_body {
+    padding:10px;
+	background-repeat:no-repeat;
+	background-color:White;
+}
+
+/*** Banner ************
+ ***/
+div.rdeco_normal_banner {
+    padding:10px;
+	background-repeat:no-repeat;
+	background-color:White;
+}
+
+/*** Footer ************
+ ***/
+
+/*** Like Tool *********
+ ***/
+/* センタリング */
+.align_center{
+   text-align:center;
+}
+
+/* 位置調整 */
+.align_top{
+   vertical-align:top;
+}
+
+/* 位置調整 */
+.align_bottom{
+   vertical-align:bottom;
+}
+
+/* レスポンシブ画像 */
+p.resizeimage img{
+    height: auto;
+}
+
+/* メニューリスト */
+rdeco ul li a{
+    text-align:center;
+}
+/* メニューリスト：オーバー */
+rdeco ul li:hover a{
+    text-align:center;
+}
+
+/* 見出し */
+tm {
+    font-size: 35px;
+    color: black;
+}
+tm2 {
+    font-size: 30px;
+    color: black;
+}
+tm3 {
+    font-size: 25px;
+    color: black;
+}
+
+/* TOP画像 */
+.topimg {
+  position: relative;
+}
+.topimg p {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%,-50%);
+  -webkit-transform: translate(-50%,-50%);
+  transform: translate(-50%,-50%);
+  margin:0;
+  padding:0;
+  color: white;/*文字は白に*/
+  font-weight: bold; /*太字に*/
+  font-size: 1.6em;/*サイズ*/
+  font-family :Quicksand, sans-serif;/*Google Font*/
+}
+.topimg img {
+  width: 100%;
+  height: auto;
+}
+
+/* カルーセル　サイズ調節 */
+
+.carousel{
+  width:40%;
+  margin:auto;
+}
+
+.carousel img{
+  width:50%;
+}
+
+
