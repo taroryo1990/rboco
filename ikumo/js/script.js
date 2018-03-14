@@ -76,7 +76,7 @@ $(function() {
 			category: "育毛トニック",
 			nayami: "ふけ・かゆみ",
 			tag: ["育毛トニック","ふけ・かゆみ"],
-			description: "・「ISO認証取得済の国内工場で製造」<br>・「大満足レビュー続出」<br>・「返金保証付き」<br>・ノーベル賞受賞成分のフラーレンの抗酸化作用で頭皮を柔らかく<br>・45日間全額返金保証",
+			description: "・「ISO認証取得済の国内工場で製造」<br>・「大満足レビュー続出」<br>・「返金保証付き」<br>・ノーベル賞受賞成分のフラーレン使用<br>・45日間全額返金保証",
 			link: "https://px.a8.net/svt/ejp?a8mat=2ZAWNG+FG2VSI+1XEW+1NJRXE"
 		},
 		{
@@ -91,7 +91,7 @@ $(function() {
 			category: "育毛剤",
 			nayami: "頭頂部",
 			tag: ["育毛剤","頭頂部"],
-			description: "・微細なナノ粒子で髪に必要な成分を届けるため、効果が出やすい<br>・全額返金キャンペーン実施中",
+			description: "・微細なナノ粒子で髪に必要な成分を届ける<br>・全額返金キャンペーン実施中",
 			link: "https://link-a.net/gate.php?guid=on&mcode=mxzaz4qn&acode=4brgdnzvyyw2&itemid=0"
 		},
 		{
@@ -106,7 +106,7 @@ $(function() {
 			category: "育毛剤",
 			nayami: "抜け毛",
 			tag: ["育毛剤","抜け毛"],
-			description: "・業界最大級50種類の育毛成分配合<br>・100％無添加・無香料<br>・全額返金保証！保証書付き",
+			description: "・50種類の育毛成分配合<br>・全額返金保証！保証書付き",
 			link: "https://px.a8.net/svt/ejp?a8mat=2ZAUAS+CCQTO2+2TZO+61RIB"
 		},
 		{
@@ -121,7 +121,7 @@ $(function() {
 			category: "育毛剤",
 			nayami: "抜け毛",
 			tag: ["育毛剤","抜け毛"],
-			description: "・幹細胞に働きかける新成分リデンシル配合の今までなかった新しい育毛剤（医薬部外品）<br>・効果実証済みの臨床データと同じ”Redensyl3%配合”<br>・天然由来にこだわって作られた安心成分<br>・通常価格12,800円（税抜）⇒【23％OFFの初回9,800円（税抜）】送料無料",
+			description: "・幹細胞に働きかける新成分リデンシル配合<br>・通常価格12,800円（税抜）⇒【23％OFFの初回9,800円（税抜）】送料無料",
 			link: "https://link-a.net/gate.php?guid=on&mcode=mxzaz4qn&acode=9rwpvxihecjp&itemid=0"
 		}
 	];
