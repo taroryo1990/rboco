@@ -61,7 +61,7 @@ $(function() {
 			category: "育毛トニック",
 			nayami: "抜け毛",
 			tag: ["育毛トニック","抜け毛"],
-			description: "・アンケート調査で実感満足度95％<br>・ノンシリコン<br>・無香料・無着色",
+			description: "・アンケート調査で実感満足度95％<br>・抜け毛予防<br>",
 			link: "https://px.a8.net/svt/ejp?a8mat=2ZAUAS+2T7PMA+2UOE+1HL85U"
 		},
 		{
@@ -76,7 +76,7 @@ $(function() {
 			category: "育毛剤",
 			nayami: "M字型",
 			tag: ["育毛剤","M字型"],
-			description: "・頭頂部専用男性用育毛剤",
+			description: "・頭頂部専用の男性用育毛剤",
 			link: "https://px.a8.net/svt/ejp?a8mat=2ZAWNG+F75DPU+1GVC+25DPHV&a8ejpredirect=http%3A%2F%2Fwww.danpatsuryoku.com%2Fa8"
 		},
 
@@ -122,7 +122,7 @@ $(function() {
 			category: "育毛剤",
 			nayami: "抜け毛",
 			tag: ["育毛剤","抜け毛"],
-			description: "・幹細胞に働きかける新成分リデンシル配合<br>・通常価格12,800円（税抜）⇒【23％OFFの初回9,800円（税抜）】送料無料",
+			description: "・新成分リデンシル配合<br>・通常価格12,800円（税抜）⇒【23％OFFの初回9,800円（税抜）】送料無料",
 			link: "https://link-a.net/gate.php?guid=on&mcode=mxzaz4qn&acode=9rwpvxihecjp&itemid=0"
 		}
 	];
