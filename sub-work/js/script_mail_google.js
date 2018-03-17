@@ -2,26 +2,28 @@ $(function() {
 	/*================================================================
 	情報
 	================================================================*/
+
 	var allList = [
 
 		{
-			id: "id004",
-			name: "THE SCALP 5.0C",
-			life: 140,
-			list_price: "10,000円<br class=\"br-400px\">(税込)",
-			price: "4,980円<br class=\"br-400px\">(税込)&nbsp;<br class=\"spbr\"><span>50%OFF!</span>",
-			warranty: "あり",
-			title: "<a target=\"_blank\" href=\"https://px.a8.net/svt/ejp?a8mat=2ZAWNH+7TM1WY+2TKE+1BNYOX\">THE SCALP 5.0C</a>",
+			id: "id003",
+			name: "DMMライブチャット",
+			life: 24,
+			list_price: "200万円超え<br class=\"br-400px\">",
+			price: "7,000円以上<br class=\"br-400px\">&nbsp;<class=\"spbr\"><span>即日振込</span>",
+			warranty: "なし可能",
+			title: 
+"<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=139667&affID=92390&siteID=180061\">DMMライブチャット</a>",
 			star: "3.5",
-			category: "育毛トニック",
-			nayami: "抜け毛",
-			tag: ["育毛トニック","抜け毛"],
-			description: "・3年連続モンドセレクション金賞<br>・通常定期10000円→定期初回半額4980円<br>・キャピキシル配合",
-			link: "https://px.a8.net/svt/ejp?a8mat=2ZAWNH+7TM1WY+2TKE+1BNYOX"
+			category: "チャットレディ",
+			nayami: "稼ぐ",
+			tag: ["チャットレディ","メールレディ"],
+			description: "・24時間年中無休でサポート!ノンアダルトで安全<br>・各種商品券、美容グッズなどと交換可能なポイントも溜まる<br>・Wi-Fi環境でスマホだけでお仕事可能",
+			link: "https://track.bannerbridge.net/click.php?APID=139667&affID=92390&siteID=180061"
 		},
 		{
 			id: "id006",
-			name: "ナノインパクト100",
+			name: "ナノイン",
 			life: 240,
 			list_price: "7,560円<br class=\"br-400px\">(税込)",
 			price: "3,780円<br class=\"br-400px\">(税込)&nbsp;<br class=\"spbr\"><span>50%OFF!</span>",
@@ -176,15 +178,15 @@ $(function() {
 				outputHtml += '		</div>';
 				outputHtml += '		<div class="detail-list">';
 				outputHtml += '			<table>';
-				outputHtml += '				<tr><td class="amount">容量</td><td>:' + line.life + 'ml</td></tr>';
-				outputHtml += '				<tr><td class="warranty">返金保証</td><td>:' + line.warranty + '</td></tr>';
-				outputHtml += '				<tr><td class="list_price">定価</td><td>:' + line.list_price + '</td></tr>';
-				outputHtml += '				<tr><td class="price">価格</td><td class="price">:' + line.price + '</td></tr>';
+				outputHtml += '				<tr><td class="amount">サポート体制</td><td>:' + line.life + '時間</td></tr>';
+				outputHtml += '				<tr><td class="warranty">顔出し</td><td>:' + line.warranty + '</td></tr>';
+				outputHtml += '				<tr><td class="list_price">月額最高</td><td>:' + line.list_price + '</td></tr>';
+				outputHtml += '				<tr><td class="price">時給</td><td class="price">:' + line.price + '</td></tr>';
 				outputHtml += '			</table>';
 				outputHtml += '		</div>';
 				outputHtml += '	</div><div class="clear"></div>';
 				outputHtml += '<div class="description-box"><p class="description">' + line.description + '</p></div>';
-				outputHtml += '<div class="conversion"><a class="myButton hvr-grow-shadow" target="_blank" href="' + line.link + '">この商品の詳細を見る</a></div>';
+				outputHtml += '<div class="conversion"><a class="myButton hvr-grow-shadow" target="_blank" href="' + line.link + '">詳しくはこちら</a></div>';
 				outputHtml += '<div class="clear"></div></div>';
 				outputHtml += '<!--/.product--></div>';
 			});
@@ -289,9 +291,9 @@ $(function() {
 		return _.filter(list, function(item) {
 			switch (value) {
 				case '1':
-					return item.category == "育毛剤";
+					return item.category == "メールレディ";
 				case '2':
-					return item.category == "育毛トニック";
+					return item.category == "チャットレディ";
 			}
 		});
 	}
@@ -307,13 +309,13 @@ $(function() {
 		return _.filter(list, function(item) {
 			switch (value) {
 				case '1':
-					return item.nayami == "抜け毛";
+					return item.nayami == "顔出しなし";
 				case '2':
-					return item.nayami == "ふけ・かゆみ";
+					return item.nayami == "通勤";
 				case '3':
-					return item.nayami == "頭頂部";
+					return item.nayami == "高時給";
 				case '4':
-					return item.nayami == "M字型";
+					return item.nayami == "振込早い";
 			}
 		});
 	}
