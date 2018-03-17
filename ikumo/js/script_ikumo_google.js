@@ -89,9 +89,9 @@ $(function() {
 			warranty: "あり",
 			title: "<a target=\"_blank\" href=\"https://link-a.net/gate.php?guid=on&mcode=mxzaz4qn&acode=ujfzlcywjmbz&itemid=0\">フィンジア</a>",
 			star: "5",
-			category: "育毛剤",
+			category: "育毛トニック",
 			nayami: "ふけ・かゆみ",
-			tag: ["育毛剤","ふけ・かゆみ"],
+			tag: ["育毛トニック","ふけ・かゆみ"],
 			description: "・スカルプケア商品支持率第1位<br>・友人におすすめしたいスカルプケア商品第1位<br>・全額返金制度あり",
 			link: "https://link-a.net/gate.php?guid=on&mcode=mxzaz4qn&acode=ujfzlcywjmbz&itemid=0"
 		},

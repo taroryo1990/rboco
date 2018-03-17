@@ -115,6 +115,15 @@ header
 .psbr {
 	display:  none;
 }
+.kondofontsize{
+　　　　border: 3px solid skyblue;
+	font-size: 20px;
+	color: #45B6CC;
+}
+.kondofontsize2{
+　　　　border: 3px solid skyblue;
+	font-size: 15px;
+}
 /*================================================================
 /header
 ================================================================*/
