@@ -112,6 +112,17 @@ header
 	border-radius: 20px;
 	background-color: skyblue;
 }
+
+.topbutton {
+	border: 3px solid skyblue;
+	color: #fff;
+	font-size: 15px;
+	text-align: center;
+	display: none;
+	margin: 10px 20px;
+	border-radius: 20px;
+	background-color: skyblue;
+}
 .psbr {
 	display:  none;
 }
@@ -216,6 +227,13 @@ main
 	padding: 5px;
 	background-color: #eaffea
 }
+.filterkondo {
+	border: 3px solid #FFC0CB;
+	padding: 5px;
+	background-color: #eaffea
+}
+
+
 .filterArea span.category {
 	width:  30%;
 	display: inline-block ;

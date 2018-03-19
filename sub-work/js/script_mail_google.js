@@ -5,128 +5,6 @@ $(function() {
 
 	var allList = [
 
-		{
-			id: "id003",
-			name: "DMMライブチャット",
-			life: 24,
-			list_price: "200万円超え<br class=\"br-400px\">",
-			price: "7,000円以上<br class=\"br-400px\">&nbsp;<class=\"spbr\"><span>即日振込</span>",
-			warranty: "なし可能",
-			title: 
-"<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=139667&affID=92390&siteID=180061\">DMMライブチャット</a>",
-			star: "3.5",
-			category: "チャットレディ",
-			nayami: "稼ぐ",
-			tag: ["チャットレディ","メールレディ"],
-			description: "・24時間年中無休でサポート!ノンアダルトで安全<br>・各種商品券、美容グッズなどと交換可能なポイントも溜まる<br>・Wi-Fi環境でスマホだけでお仕事可能",
-			link: "https://track.bannerbridge.net/click.php?APID=139667&affID=92390&siteID=180061"
-		},
-		{
-			id: "id006",
-			name: "ナノイン",
-			life: 240,
-			list_price: "7,560円<br class=\"br-400px\">(税込)",
-			price: "3,780円<br class=\"br-400px\">(税込)&nbsp;<br class=\"spbr\"><span>50%OFF!</span>",
-			warranty: "あり",
-			title: "<a target=\"_blank\" href=\"https://link-a.net/gate.php?guid=on&mcode=mxzaz4qn&acode=4brgdnzvyyw2&itemid=0\">ナノインパクト100</a>",
-			star: "4.5",
-			category: "育毛剤",
-			nayami: "頭頂部",
-			tag: ["育毛剤","頭頂部"],
-			description: "・微細なナノ粒子で髪に必要な成分を届ける<br>・全額返金キャンペーン実施中",
-			link: "https://link-a.net/gate.php?guid=on&mcode=mxzaz4qn&acode=4brgdnzvyyw2&itemid=0"
-		},
-		{
-			id: "id008",
-			name: "BOSTONスカルプエッセンス",
-			life: 230,
-			list_price: "9,800円<br class=\"br-400px\">(税抜)",
-			price: "8,800円<br class=\"br-400px\">(税抜)&nbsp;<br class=\"spbr\"><span class=\"discount\">1000円OFF!</span>",
-			warranty: "あり",
-			title: "<a target=\"_blank\" href=\"https://px.a8.net/svt/ejp?a8mat=2ZAWNG+FG2VSI+1XEW+1NJRXE\">BOSTONスカルプエッセンス</a>",
-			star: "5",
-			category: "育毛トニック",
-			nayami: "ふけ・かゆみ",
-			tag: ["育毛トニック","ふけ・かゆみ"],
-			description: "・「ISO認証取得済の国内工場で製造」<br>・「大満足レビュー続出」<br>・「返金保証付き」<br>・ノーベル賞受賞成分のフラーレン使用<br>・45日間全額返金保証",
-			link: "https://px.a8.net/svt/ejp?a8mat=2ZAWNG+FG2VSI+1XEW+1NJRXE"
-		},
-		{
-			id: "id005",
-			name: "MONOVOヘアトニックグロウジェル",
-			life: 70,
-			list_price: "6,600円<br class=\"br-400px\">(税抜)",
-			price: "6,200円<br class=\"br-400px\">(税抜)&nbsp;<br class=\"spbr\"><span>600円OFF！</span>",
-			warranty: "あり",
-			title: "<a target=\"_blank\" href=\"https://px.a8.net/svt/ejp?a8mat=2ZAUAS+2T7PMA+2UOE+1HL85U\">MONOVOヘアトニックグロウジェル</a>",
-			star: "4",
-			category: "育毛トニック",
-			nayami: "抜け毛",
-			tag: ["育毛トニック","抜け毛"],
-			description: "・アンケート調査で実感満足度95％<br>・抜け毛予防<br>",
-			link: "https://px.a8.net/svt/ejp?a8mat=2ZAUAS+2T7PMA+2UOE+1HL85U"
-		},
-		{
-			id: "id003",
-			name: "MSTT1",
-			life: 160,
-			list_price: "9,800円<br class=\"br-400px\">(税込)",
-			price: "5,980円<br class=\"br-400px\">(税込)&nbsp;<br class=\"spbr\"><span>38%OFF!</span>",
-			warranty: "あり",
-			title: "<a target=\"_blank\" href=\"https://px.a8.net/svt/ejp?a8mat=2ZAWNG+F75DPU+1GVC+25DPHV&a8ejpredirect=http%3A%2F%2Fwww.danpatsuryoku.com%2Fa8\">MSTT1</a>",
-			star: "3",
-			category: "育毛剤",
-			nayami: "M字型",
-			tag: ["育毛剤","M字型"],
-			description: "・頭頂部専用の男性用育毛剤",
-			link: "https://px.a8.net/svt/ejp?a8mat=2ZAWNG+F75DPU+1GVC+25DPHV&a8ejpredirect=http%3A%2F%2Fwww.danpatsuryoku.com%2Fa8"
-		},
-
-		{
-			id: "id002",
-			name: "フィンジア",
-			life: 210,
-			list_price: "12,800円<br class=\"br-400px\">(税込)",
-			price: "9,980円<br class=\"br-400px\">(税込)&nbsp;<br class=\"spbr\"><span>22%OFF!</span>",
-			warranty: "あり",
-			title: "<a target=\"_blank\" href=\"https://link-a.net/gate.php?guid=on&mcode=mxzaz4qn&acode=ujfzlcywjmbz&itemid=0\">フィンジア</a>",
-			star: "5",
-			category: "育毛トニック",
-			nayami: "ふけ・かゆみ",
-			tag: ["育毛トニック","ふけ・かゆみ"],
-			description: "・スカルプケア商品支持率第1位<br>・友人におすすめしたいスカルプケア商品第1位<br>・全額返金制度あり",
-			link: "https://link-a.net/gate.php?guid=on&mcode=mxzaz4qn&acode=ujfzlcywjmbz&itemid=0"
-		},
-		{
-			id: "id001",
-			name: "チャップアップ",
-			life: 150,
-			list_price: "13,360円<br class=\"br-400px\">(税込)",
-			price: "9,090円<br class=\"br-400px\">(税込)&nbsp;<br class=\"spbr\"><span>31%OFF!</span>",
-			warranty: "あり",
-			title: "<a target=\"_blank\" href=\"https://px.a8.net/svt/ejp?a8mat=2ZAUAS+CCQTO2+2TZO+61RIB\">チャップアップ</a>",
-			star: "4.5",
-			category: "育毛剤",
-			nayami: "抜け毛",
-			tag: ["育毛剤","抜け毛"],
-			description: "・50種類の育毛成分配合<br>・全額返金保証！保証書付き",
-			link: "https://px.a8.net/svt/ejp?a8mat=2ZAUAS+CCQTO2+2TZO+61RIB"
-		},
-		{
-			id: "id007",
-			name: "リデン（REDEN)",
-			life: 300,
-			list_price: "12,800円<br class=\"br-400px\">(税込)",
-			price: "9,800円<br class=\"br-400px\">(税込)&nbsp;<br class=\"spbr\"><span>23%OFF!</span>",
-			warranty: "あり",
-			title: "<a target=\"_blank\" href=\"https://link-a.net/gate.php?guid=on&mcode=mxzaz4qn&acode=9rwpvxihecjp&itemid=0\">リデン（REDEN)</a>",
-			star: "5",
-			category: "育毛剤",
-			nayami: "抜け毛",
-			tag: ["育毛剤","抜け毛"],
-			description: "・新成分リデンシル配合<br>・通常価格12,800円（税抜）⇒【23％OFFの初回9,800円（税抜）】送料無料",
-			link: "https://link-a.net/gate.php?guid=on&mcode=mxzaz4qn&acode=9rwpvxihecjp&itemid=0"
-		}
 	];
 
 	/*================================================================
@@ -190,17 +68,13 @@ $(function() {
 				outputHtml += '<div class="clear"></div></div>';
 				outputHtml += '<!--/.product--></div>';
 			});
-		} else {
-			outputHtml += '<div class="noproduct"><p>条件に当てはまる商品を検索できませんでした。</p></div>';
-		}
+		} else 
 
 		//HTML出力（フェードインアニメーションつき）
 		$('.productArea').html(outputHtml);
 		$('.productArea .product').css({opacity: 0}).each(function(i){$(this).delay(100 * i).animate({opacity:1}, 300);
 		});
 
-		//検索件数表示
-		$('.productCntArea').html('<p id="serch-result">' + allList.length + '件中' + list.length + '件を表示しています。</p>');
 	}
 
 	/*================================================================
