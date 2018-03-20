@@ -29,16 +29,16 @@ a:hover {
 header
 ================================================================*/
 .sub-title {
-	background-color: #3cb371;
+	background-color: #FF99FF;
 	min-width: 1210px;
-	text-shadow: 2px 2px 10px #333;
+	text-shadow: 2px 2px 15px #333;
 }
 .sub-title p {
 	color: #fff;
 }
 .logo {
 	margin-bottom: 20px;
-	border: 15px solid #7fff7f;
+	border: 15px solid #FFAAFF;
 	position: relative;
 	height: 200px;
 }
@@ -58,7 +58,7 @@ header
 	color: #6cb4e4;
 	text-align: center;
 	padding: 0.25em;
-	border-top: solid 2px #3cb371;
+	border-top: solid 2px #3cb37;
 	border-bottom: solid 2px #3cb371;
 	background: -webkit-repeating-linear-gradient(-45deg, #f0f8ff, #f0f8ff 3px,#e9f4ff 3px, #e9f4ff 7px);
 	background: repeating-linear-gradient(-45deg, #f0f8ff, #f0f8ff 3px,#e9f4ff 3px, #e9f4ff 7px);
@@ -82,12 +82,12 @@ header
 	position: absolute;
 	top: 40px;
 	left: 20px;
-	color: #45B6CC;
-	font-size: 50px;
-	text-shadow: 2px 2px 1px #97CFC1,
-	-2px 2px 1px #97CFC1,
-	2px -2px 1px #97CFC1,
-	-2px -2px 1px #97CFC1,
+	color: 45B6CC;
+	font-size: 40px;
+	text-shadow: 2px 2px 1px #FF22FF,
+	-2px 2px 1px #FF22FF,
+	2px -2px 1px #FF22FF,
+	-2px -2px 1px #FF22FF,
 	3px 3px 6px #383636;
 	font-weight: bold;
 	font-style: oblique;
@@ -128,8 +128,8 @@ header
 }
 .kondofontsize{
 　　　　border: 3px solid skyblue;
-	font-size: 20px;
-	color: #45B6CC;
+	font-size: 13px;
+	color: black;
 }
 .kondofontsize2{
 　　　　border: 3px solid skyblue;
@@ -143,7 +143,7 @@ header
 main
 ================================================================*/
 .serch-head {
-	background-color: #7fff7f;
+	background-color: #FF82B2;
 	color: #fff;
 	text-shadow: 2px 2px 3px #333;
 	text-align: center;
@@ -223,14 +223,14 @@ main
 	line-height: 1.7;
 }
 .filterArea {
-	border: 3px solid #7fff7f;
+	border: 3px solid #FFAAFF;
 	padding: 5px;
-	background-color: #eaffea
+	background-color: white
 }
 .filterkondo {
 	border: 3px solid #FFC0CB;
 	padding: 5px;
-	background-color: #eaffea
+	background-color: white
 }
 
 
@@ -358,15 +358,15 @@ ranking
 .right {
 	width: 300px;
 	float: left;
-	background-color: #eaffea;
+	background-color: #FFEEFF;
 	box-sizing: border-box;
 	padding:5px;
 	border-radius: 10px;
-	border: 5px solid #7fff7f;
+	border: 5px solid #FFAAFF;
 }
 .rank-product {
 	margin: 5px;
-	border-top: 2px solid #7fff7f;
+	border-top: 2px solid #FFAAFF;
 }
 .product-img {
 }
@@ -398,6 +398,10 @@ ranking
 }
 .target {
 	font-weight: bold;
+	font-size: 17px
+}
+.ktext{
+	font-size: 14px
 }
 .rank-left {
 	float: left;
@@ -414,7 +418,7 @@ ranking
     position: fixed;
     bottom: 90px;
     right: 40px;
-    background-color: #7fff7f;
+    background-color: #FFAAFF;
     text-decoration: none;
     color: #000;
     padding: 20px;
@@ -575,7 +579,7 @@ footer {
 		display:inline-block;
 	}
 	.filterArea span.category {
-		width: 40%;
+		width: 45%;
 		display: inline-block;
 	}
 	input[type="text"] {
