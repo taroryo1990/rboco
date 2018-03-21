@@ -223,7 +223,7 @@ main
 	line-height: 1.7;
 }
 .filterArea {
-	border: 3px solid #FFAAFF;
+	border: 3px solid #DFEDFF;
 	padding: 5px;
 	background-color: white
 }
@@ -469,7 +469,7 @@ footer {
 .title, .sub-title {
 	min-width: 100%;
 }
-.container, .left, .right {
+.#FFAAFF, .left, .right {
 	width: 100%;
 }
 .left {
@@ -561,7 +561,7 @@ footer {
 	}
 }
 @media only screen and (max-width:600px) {
-	.container {
+	.#FFAAFF {
 		padding: 10px 0;
 	}
 		.price {
