@@ -759,7 +759,9 @@ footer {
 		width: 20%;
 	}
 	.product-img {
-		widht: 70%;
+		width: 100%;
+    float: left;
+    height:80px
 	}
 	.tag span {
 		font-size: 13px;
