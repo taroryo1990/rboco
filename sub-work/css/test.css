@@ -126,12 +126,12 @@ header
 .psbr {
 	display:  none;
 }
-.kondofontsize{
+.kfontsize{
 　　　　border: 3px solid skyblue;
 	font-size: 13px;
 	color: black;
 }
-.kondofontsize2{
+.kfontsize2{
 　　　　border: 3px solid skyblue;
 	font-size: 15px;
 }
@@ -227,7 +227,7 @@ main
 	padding: 5px;
 	background-color: white
 }
-.filterkondo {
+.filterk {
 	border: 3px solid #FFC0CB;
 	padding: 5px;
 	background-color: white
