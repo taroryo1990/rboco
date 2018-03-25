@@ -112,6 +112,16 @@ header
 	border-radius: 20px;
 	background-color: skyblue;
 }
+.go-to-rankingpage {
+	border: 3px solid #b0ffb0;
+	color: #fff;
+	font-size: 30px;
+	text-align: center;
+	display: none;
+	margin: 10px 20px;
+	border-radius: 20px;
+	background-color: #b0ffb0;
+}
 
 .topbutton {
 	border: 3px solid skyblue;
@@ -693,6 +703,14 @@ footer {
 		opacity: 0.7;
 		cursor: pointer;
 	}
+  .go-to-rankingpage {
+    display: block;
+    font-size: 16px;
+  }
+  .go-to-rankingpage:hover {
+    opacity: 0.7;
+    cursor: pointer;
+  }
 	#page-top {
 		padding: 20px;
 		font-size: 20px;
