@@ -387,7 +387,7 @@ ranking
 	width: 50%;
 }
 .ranking-title {
-	color: #ffd700;
+	color: red;
 	text-shadow: 2px 2px 3px #800000;
 	text-align: center;
 	font-size: 30px
