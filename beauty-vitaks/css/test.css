@@ -25,6 +25,7 @@ a:hover {
 	clear: both;
 }
 
+
 /*================================================================
 header
 ================================================================*/
@@ -134,6 +135,10 @@ header
 /*================================================================
 main
 ================================================================*/
+
+
+
+
 .serch-head {
 	background-color: #7fff7f;
 	color: #fff;
@@ -585,6 +590,27 @@ footer {
 	.title h1{
 		font-size: 24px;
 	}
+  .articletitle{
+    font-size: 20px;
+  }
+  .boldpink{
+    font-size: 20px;
+    font-weight: bold;
+    color: #ffb6c1
+  }
+
+  .boldred{
+    font-size: 20px;
+    font-weight: bold;
+    color:red
+  }
+  .bold{
+    font-size: 20px;
+    font-weight: bold;
+    color:black
+  }
+
+
 	.angle {
 		font-size: 18px;
 	}

@@ -411,7 +411,9 @@ ranking
 	font-size: 17px
 }
 .ktext{
-	font-size: 14px
+	font-size: 22px
+  text-align: center;
+  font-weight: bold;
 }
 .rank-left {
 	float: left;
