@@ -40,6 +40,17 @@ header
 	color: #FA8072;
   font-size: 16px;
 }
+
+.k-sub-title {
+	background-color: #f0f8ff  ;
+}
+.k-sub-title p {
+	color: black;
+  font-size: 24px;
+  font-weight:bold;
+  font-weight:bolder;
+}
+
 .logo {
 	margin-bottom: 20px;
 	border: 15px solid #7fff7f;
