@@ -411,7 +411,12 @@ ranking
 	font-size: 17px
 }
 .ktext{
-	font-size: 22px
+	font-size: 18px
+  text-align: center;
+}
+
+.ktext p{
+	font-size: 18px
   text-align: center;
   font-weight: bold;
 }
