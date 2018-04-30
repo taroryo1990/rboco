@@ -148,8 +148,6 @@ main
 ================================================================*/
 
 
-
-
 .serch-head {
 	background-color: #7fff7f;
 	color: #fff;
@@ -604,10 +602,10 @@ footer {
   .articletitle{
     font-size: 20px;
   }
-  .boldpink{
+  .boldblue{
     font-size: 20px;
     font-weight: bold;
-    color: #ffb6c1
+    color: blue
   }
 
   .boldred{
