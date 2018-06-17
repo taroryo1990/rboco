@@ -61,7 +61,7 @@ $wdate = date("Y-m-d", $unix01);
 <p class="center"><span class="txt18 pink"><span class="txt22">10</span>kgの減量に成功したのだとか!!!</span></p>
 <p class="right"><img src="images/img_005.jpg" />
 <span class="txt16"><span class="marker">「黒汁公式サイト」</span>はコチラ▼</span><br />
-<a class="fix" href="https://ad-fam.com/ad/p/r?_site=1162&_article=881"><span class="link">https://lp.kuro-jiru.jp/</span></a></p>
+<a class="fix" href="https://ad-fam.com/ad/p/r?_site=1963&_article=881"><span class="link">https://lp.kuro-jiru.jp/</span></a></p>
 </section>
 
 <section>
@@ -129,7 +129,7 @@ $wdate = date("Y-m-d", $unix01);
 <p><span class="txt16">黒汁を早速試したいという方は<br />
 コチラの公式サイトからぜひどうぞ♪</span></p>
 <p  class="right"><span class="txt16"><span class="marker">「黒汁公式サイト」</span>はコチラ▼</span><br />
-<a class="fix" href="https://ad-fam.com/ad/p/r?_site=1162&_article=881"><span class="link">https://lp.kuro-jiru.jp/</span></a></p>
+<a class="fix" href="https://ad-fam.com/ad/p/r?_site=1963&_article=881"><span class="link">https://lp.kuro-jiru.jp/</span></a></p>
 </section>
 
 <section>
@@ -183,7 +183,7 @@ SNSでも成功者が続出中!!!</p>
 <img src="images/red_arrow_t_txt.png" width="200" height="50" />
 <img src="images/red_arrow_t.png" width="50" height="50" />
 </div>
-<a href="https://ad-fam.com/ad/p/r?_site=1162&_article=881">
+<a href="https://ad-fam.com/ad/p/r?_site=1963&_article=881">
 <img src="images/btn_main.png" width="320" height="140" class="btn_scale" />
 </a>
 </div><!-- ボタン -->
@@ -221,7 +221,7 @@ SNSでも成功者が続出中!!!</p>
 <img src="images/red_arrow_t_txt.png" width="200" height="50" />
 <img src="images/red_arrow_t.png" width="50" height="50" />
 </div>
-<a href="https://ad-fam.com/ad/p/r?_site=1162&_article=881">
+<a href="https://ad-fam.com/ad/p/r?_site=1963&_article=881">
 <img src="images/btn_main.png" width="320" height="140" class="btn_scale" />
 </a>
 </div><!-- ボタン -->
@@ -229,7 +229,7 @@ SNSでも成功者が続出中!!!</p>
 
 <div class="footer center">
 &copy; <?php echo $dateyear ?> Beauty collection All rights reserved.
-<p><a href="https://ad-fam.com/ad/p/r?_site=1162&_article=881">関連リンク</a>  |  <a href="#">TOPに戻る</a></p>
+<p><a href="https://ad-fam.com/ad/p/r?_site=1963&_article=881">関連リンク</a>  |  <a href="#">TOPに戻る</a></p>
 </div>
 </body>
 </html>
