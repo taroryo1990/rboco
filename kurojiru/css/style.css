@@ -1,0 +1,404 @@
+/*
+当サイトのテキスト及び画像、それに伴う全ての無断転載は禁止いたします。
+発見した場合は法的処置も視野にいれております。絶対に無断転載はお止めください。
+*/
+/* 全体効果指定 -----------------------------*/
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	-webkit-text-size-adjust: 100%;
+	word-break: break-all;
+	font-family: Helvetica;
+	font-size: 14px;
+	line-height: 18px;
+}
+section {
+	margin-bottom: 35px;
+}
+#title {
+	font-size: 21px;
+	color: #000;
+	line-height: 1.4em;
+	font-weight: bold;
+	margin: 0 0 10px 0;
+	border-bottom: 1px solid #d5d5d5;
+	padding: 10px 10px 10px 15px;
+}
+.attention {
+	font-size: 12px;
+	font-weight: bold;
+	color: #000;
+	text-align: left;
+	margin: 0px 0px -19px 15px;
+}
+.date {
+	font-size: 12px;
+	color: #a4a4a4;
+	text-align: right;
+	margin: 0px 15px 10px 15px;
+}
+.box {
+	margin: 8px;
+}
+.box img {
+	margin-bottom: 10px;
+	width: 100%;
+}
+.box img.photo {
+	width: 90%;
+}
+.box p {
+	padding: 5px 5px 15px 5px;
+	line-height: 1.8em;
+	font-size: 15px;
+	color: #454545;
+}
+.box p span {
+	font-weight: bold;
+	line-height: 1.8em;
+}
+/* 色指定 -----------------------------*/
+.marker {
+	background-color: #ffffad;
+}
+.lightblue_marker {
+	background-color: #AAFFFF;
+}
+.blue {
+	color: #3399FF;
+}
+.red {
+	color: #ff4d4d;
+}
+.pink {
+	color: #ff6aad;
+}
+.gray {
+	color: #8d8c8c;
+}
+/* フォントサイズ指定 -----------------------------*/
+.txt16 {
+	font-size: 16px;
+}
+.txt17 {
+	font-size: 17px;
+}
+.txt18 {
+	font-size: 18px;
+}
+.txt19 {
+	font-size: 19px;
+}
+.txt20 {
+	font-size: 20px;
+}
+.txt21 {
+	font-size: 21px
+}
+.txt22 {
+	font-size: 22px
+}
+.txt23 {
+	font-size: 23px
+}
+.txt24 {
+	font-size: 24px
+}
+.txt25 {
+	font-size: 25px;
+}
+.txt26 {
+	font-size: 26px;
+}
+.txt30 {
+	font-size: 30px;
+}
+/* 部分効果指定 -----------------------------*/
+.center {
+	text-align: center;
+}
+.right {
+	text-align: right;
+}
+.uline {
+	text-decoration: underline;
+}
+a.fix, a.fix:visited {
+	color : #508ae3;
+}
+.link {
+	font-size: 18px;
+	font-weight: bold;
+}
+.sub_title_box {
+	margin: -20px 0 25px;
+	padding: 5px 5px 3px;
+	border-top: 2px solid #898485;
+	border-bottom: 2px solid #898485;
+	background-color: #fcfcfc;
+}
+.sub_title_box p {
+	font-size: 20px;
+	font-weight: bold;
+	line-height: 1.5em;
+	color: #454545;
+	padding: 5px;
+	margin: 5px;
+}
+.image_box {
+	border: dotted 3px #a4a4a4;
+	padding: 10px 4px 0;
+	margin: 0 4px 10px;
+}
+.image_box p span {
+	font-size: 15px;
+}
+.image_box p span.num {
+	font-size: 19px;
+}
+.list_box {
+	padding: 7px 0 0;
+	margin: 3px 0 13px;
+	background: #fff;
+	border: 3px double #b1b0b2;
+}
+.list_box p span {
+	font-size: 15px;
+}
+.list_box p span.num {
+	font-size: 19px;
+}
+.sns_box, .review_box {
+	border: solid 1px #acacac;
+	margin: 0 5px 23px;
+}
+.review_box {
+	margin-top: 13px;
+	margin-bottom: 15px;
+}
+.pop_box {
+	background-color: #fcfcb4;
+	padding: 18px 0;
+	width: 88%;
+	margin: 0 auto;
+}
+.pop_box p {
+	padding: 0;
+}
+.pop_box p span {
+	line-height: 1.2em;
+}
+.footer {
+	color: #4B4B4B;
+	line-height: 40px;
+	font-size: 12px;
+	background-color: #F0F0F0;
+	border-top: 1px solid #B1B1B1;
+	padding-top: 40px;
+	padding-bottom: 20px;
+}
+.footer p {
+	font-size: 10px;
+	text-align: center;
+	line-height: 30px;
+}
+/*上矢印+ボタン拡大/縮小 ---------------------------------------------------------*/
+.tarr_scale{
+	overflow: hidden;
+	margin-top: -20px;
+}
+.tarr_scale a{
+	position: relative;
+	width: 100%;
+	max-width: 400px;
+	display: block;
+	height: 140px;
+	margin-right: auto;
+	margin-left: auto;
+	padding-bottom: 10px;
+}
+/*ﾎﾞﾀﾝ(拡大/縮小)---------------------------------------------------------*/
+.tarr_scale a .btn_scale{
+	position: absolute;
+	left: 50%;
+	bottom: 10px;
+	width: 300px;
+	height: 131px;
+	margin-left: -150px;
+	z-index: 1;
+	transform: scale(1);
+	-webkit-transform: scale(1);
+	-moz-transform: scale(1);
+
+	animation-name: btn_scale;
+	animation-duration: 1.2s;
+	animation-timing-function: ease-in-out;
+	animation-iteration-count: infinite;
+	animation-direction: alternate;
+
+	-webkit-animation-name: btn_scale;
+	-webkit-animation-duration: 1.2s;
+	-webkit-animation-timing-function: ease-in-out;
+	-webkit-animation-iteration-count: infinite;
+	-webkit-animation-direction: alternate;
+
+	-moz-animation-name: btn_scale;
+	-moz-animation-duration: 1.2s;
+	-moz-animation-timing-function: ease-in-out;
+	-moz-animation-iteration-count: infinite;
+	-moz-animation-direction: alternate;
+}
+@keyframes btn_scale {0% {transform:scale(1);}100% {transform:scale(1.1);}}
+@-webkit-keyframes btn_scale {0% {-webkit-transform:scale(1);}100% {-webkit-transform:scale(1.1);}}
+@-moz-keyframes btn_scale {0% {-moz-transform:scale(1);}100% {-moz-transform:scale(1.1);}}
+/*矢印(上)---------------------------------------------------------*/
+.tarr_scale .arr_t{
+	position: relative;
+	width: 300px;
+	margin: 0px auto;
+	height: 40px;
+}
+.tarr_scale .arr_t img{
+	position: absolute;
+	z-index: 2;
+	width: 50px;
+	height: 50px;
+	top: 0px;
+	
+	animation-name: arr_t;
+	animation-duration: 0.6s;
+	animation-timing-function: ease-in-out;
+	animation-iteration-count: infinite;
+	animation-direction: alternate;
+	
+	-webkit-animation-name: arr_t;
+	-webkit-animation-duration: 0.6s;
+	-webkit-animation-timing-function: ease-in-out;
+	-webkit-animation-iteration-count: infinite;
+	-webkit-animation-direction: alternate;
+	
+	-moz-animation-name: arr_t;
+	-moz-animation-duration: 0.6s;
+	-moz-animation-timing-function: ease-in-out;
+	-moz-animation-iteration-count: infinite;
+	-moz-animation-direction: alternate;
+
+}
+.tarr_scale .arr_t img:nth-child(1){
+	left: 0px;
+}
+.tarr_scale .arr_t img:nth-child(2){
+	left: 50%;
+	width: 200px;
+	height: 50px;
+	margin-left: -100px;
+}
+.tarr_scale .arr_t img:nth-child(3){
+	right: 0px;
+}
+@keyframes arr_t {0% {top: 0px;}100% {top: 20px;}}
+@-webkit-keyframes arr_t {0% {top: 0px;}100% {top: 20px;}}
+@-moz-keyframes arr_t {0% {top: 0px;}100% {top: 20px;}}
+/*テキスト blink---------------------------------------------------------*/
+.blink{
+	animation-name: blinkanime;
+	animation-duration: 0.5s;
+	animation-timing-function: linear;
+	animation-iteration-count: infinite;
+	animation-direction: alternate;
+	
+	-webkit-animation-name: blinkanime;
+	-webkit-animation-duration: 0.5s;
+	-webkit-animation-timing-function: linear;
+	-webkit-animation-iteration-count: infinite;
+	-webkit-animation-direction: alternate;
+	
+	-moz-animation-name: blinkanime;
+	-moz-animation-duration: 0.5s;
+	-moz-animation-timing-function: linear;
+	-moz-animation-iteration-count: infinite;
+	-moz-animation-direction: alternate;
+	
+	-o-animation-name: blinkanime;
+	-o-animation-duration: 0.5s;
+	-o-animation-timing-function: linear;
+	-o-animation-iteration-count: infinite;
+	-o-animation-direction: alternate;
+	
+	-ms-animation-name: blinkanime;
+	-ms-animation-duration: 0.5s;
+	-ms-animation-timing-function: linear;
+	-ms-animation-iteration-count: infinite;
+	-ms-animation-direction: alternate;
+}
+@keyframes blinkanime {
+0% {color: #FF4848;}
+70%{color: #FF4848;}
+71%{color: #fff;}
+100% {color: #fff;}
+}
+@-webkit-keyframes blinkanime {
+0% {color: #FF4848;}
+70%{color: #FF4848;}
+71%{color: #fff;}
+100% {color: #fff;}
+}
+@-moz-keyframes blinkanime {
+0% {color: #FF4848;}
+70%{color: #FF4848;}
+71%{color: #fff;}
+100% {color: #fff;}
+}
+@-o-keyframes blinkanime {
+0% {color: #FF4848;}
+70%{color: #FF4848;}
+71%{color: #fff;}
+100% {color: #fff;}
+}
+@-ms-keyframes blinkanime {
+0% {color: #FF4848;}
+70%{color: #FF4848;}
+71%{color: #fff;}
+100% {color: #fff;}
+}
+/*--------------------メディアクエリ--------------------*/
+@media screen and (min-width:375px) {
+.image_box p span{font-size: 19px;}
+.image_box p span.num{font-size: 23px;}
+.list_box p span{font-size: 19px;}
+.list_box p span.num{font-size: 23px;}
+}
+/*--------------------clearfix--------------------*/
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+	}
+* html .clearfix { zoom: 1; } /* IE6 */
+.clear {
+	clear: both;
+}
+*:first-child+html .clearfix { zoom: 1; } /* IE7 */
+/*--------------------slide_img--------------------*/
+#slide_area {
+	width: 294px;
+	overflow: hidden;
+	margin: 0 auto;
+	max-width: 495px;
+}
+.slide_img {
+	width: 1500px;
+	list-style: none;
+	overflow: hidden;
+}
+.slide_img li {
+	display: inline;
+	float: left;
+	width: 294px;
+	max-width: 495px;
+}
