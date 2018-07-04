@@ -387,10 +387,10 @@ ranking
 	width: 50%;
 }
 .ranking-title {
-	color: red;
-	text-shadow: 2px 2px 3px #800000;
+	color: blue;
+  font-weight:bold;
 	text-align: center;
-	font-size: 30px
+	font-size: 35px
 }
 .rank-img {
 	width:20%;
