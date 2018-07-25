@@ -29,16 +29,16 @@ a:hover {
 header
 ================================================================*/
 .sub-title {
-	background-color: #33FF33;
+	background-color: #CCFFFF;
 	min-width: 1210px;
 	text-shadow: 2px 2px 15px #333;
 }
 .sub-title p {
-	color: #fff;
+	color: blue;
 }
 .logo {
 	margin-bottom: 20px;
-	border: 15px solid #99FF66;
+	border: 15px solid #CCFFFF;
 	position: relative;
 	height: 200px;
 }
