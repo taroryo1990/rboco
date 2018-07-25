@@ -5,7 +5,7 @@ $(function() {
 	var allList = [
 
 		{
-			id: "id005",
+			id: "asobo",
 			name: "MONOVOヘアトニックグロウジェル",
 			life: 70,
 			list_price: "6,600円<br class=\"br-400px\">(税抜)",
