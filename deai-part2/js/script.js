@@ -10,13 +10,13 @@ $(function() {
 			life: "20代女性が多数",
 			price: "美人OL系が多い",
 			warranty: "迷惑メールなし",
-			title: "<a target=\"_blank\" href=\"https://px.a8.net/svt/ejp?a8mat=2ZAUAS+2T7PMA+2UOE+1HL85U\">ASOBO</a>",
+			title: "<a target=\"_blank\" href=\"http://aso-bo.com/index.php?1415\">ASOBO</a>",
 			star: "5",
 			category: "育毛トニック",
 			nayami: "抜け毛",
 			tag: ["匿名制","20代女性多数"],
 			description: "・ノリの良い女性が多いと口コミ<br>・掲示板が無料、0円で会える！<br>・合コンオフ会掲示板で多くの人に会える",
-			link: "https://px.a8.net/svt/ejp?a8mat=2ZAUAS+2T7PMA+2UOE+1HL85U"
+			link: "http://aso-bo.com/index.php?1415"
 		},
 		{
 			id: "happymail",
@@ -24,13 +24,13 @@ $(function() {
 			life: "20代OLが多数",
 			price: "清楚系と会える",
 			warranty: "大手会社が運営",
-			title: "<a target=\"_blank\" href=\"https://link-a.net/gate.php?guid=on&mcode=mxzaz4qn&acode=ujfzlcywjmbz&itemid=0\">ハッピーメール</a>",
+			title: "<a target=\"_blank\" href=\"https://preaf.jp/pa.do?s=v01326&o=38443&guid=ON\">ハッピーメール</a>",
 			star: "5",
 			category: "育毛剤",
 			nayami: "ふけ・かゆみ",
 			tag: ["サクラなし","20代女性多数"],
 			description: "・出会える率がとても高い<br>・若くてきれい系な女性が多いと話題<br>・SNS登録なしでもOK、匿名制",
-			link: "https://link-a.net/gate.php?guid=on&mcode=mxzaz4qn&acode=ujfzlcywjmbz&itemid=0"
+			link: "https://preaf.jp/pa.do?s=v01326&o=38443&guid=ON0"
 		},
 		{
 			id: "wkwkmail",
@@ -38,13 +38,13 @@ $(function() {
 			life: "おしゃれなお嬢様",
 			price: "スタイル良い女性が多い",
 			warranty: "サクラ0運営",
-			title: "<a target=\"_blank\" href=\"https://px.a8.net/svt/ejp?a8mat=2ZAWNH+7TM1WY+2TKE+1BNYOX\">わくわくメール</a>",
+			title: "<a target=\"_blank\" href=\"https://mobee2.jp/ad/p/r?medium=2579&ad=608\">わくわくメール</a>",
 			star: "4.5",
 			category: "育毛トニック",
 			nayami: "抜け毛",
 			tag: ["清楚系","匿名制"],
 			description: "・見た目は黒髪美人が多い<br>・国内最大級の会員数！<br>・メールは24通無料！無料で会えることも！",
-			link: "https://px.a8.net/svt/ejp?a8mat=2ZAWNH+7TM1WY+2TKE+1BNYOX"
+			link: "https://mobee2.jp/ad/p/r?medium=2579&ad=608X"
 		},
 		{
 			id: "mintjc",
@@ -52,13 +52,13 @@ $(function() {
 			life: "女子大生",
 			price: "匿名で安全、SNS登録不要",
 			warranty: "あり",
-			title: "<a target=\"_blank\" href=\"https://px.a8.net/svt/ejp?a8mat=2ZAWNG+F75DPU+1GVC+25DPHV&a8ejpredirect=http%3A%2F%2Fwww.danpatsuryoku.com%2Fa8\">Jメール</a>",
+			title: "<a target=\"_blank\" href=\"https://preaf.jp/pa.do?s=v01326&o=40569&guid=ON\">Jメール</a>",
 			star: "4",
 			category: "育毛剤",
 			nayami: "M字型",
 			tag: ["女子大生","匿名制"],
 			description: "・女子大生から20代前半が登録<br>・ニックネーム制で本名不要<br>・メール無料などの特典がよくある",
-			link: "https://px.a8.net/svt/ejp?a8mat=2ZAWNG+F75DPU+1GVC+25DPHV&a8ejpredirect=http%3A%2F%2Fwww.danpatsuryoku.com%2Fa8"
+			link: "https://preaf.jp/pa.do?s=v01326&o=40569&guid=ON"
 		},
 		{
 			id: "ikukuru",
@@ -66,13 +66,13 @@ $(function() {
 			life:  "ギャル系",
 			price: "ギャル、ギャル男中心",
 			warranty: "あり",
-			title: "<a target=\"_blank\" href=\"https://px.a8.net/svt/ejp?a8mat=2ZAWNG+FG2VSI+1XEW+1NJRXE\">イククル</a>",
+			title: "<a target=\"_blank\" href=\"https://preaf.jp/pa.do?s=v01326&o=39402&guid=ON\">イククル</a>",
 			star: "4",
 			category: "育毛トニック",
 			nayami: "ふけ・かゆみ",
 			tag: ["ギャル系","18歳~20代前半"],
 			description: "・18歳～20歳や20代も多い<br>・掲示板で相手が事前に知れる<br>・出会い800万人突破の実績あり",
-			link: "https://px.a8.net/svt/ejp?a8mat=2ZAWNG+FG2VSI+1XEW+1NJRXE"
+			link: "https://preaf.jp/pa.do?s=v01326&o=39402&guid=ON"
 		},
 		{
 			id: "yyc",
@@ -80,13 +80,13 @@ $(function() {
 			life: "真面目な女性が多い",
 			price: "健全な出会いを求める方向け",
 			warranty: "mixi運営",
-			title: "<a target=\"_blank\" href=\"https://link-a.net/gate.php?guid=on&mcode=mxzaz4qn&acode=4brgdnzvyyw2&itemid=0\">mixiのＹＹＣ</a>",
+			title: "<a target=\"_blank\" href=\"https://mobee2.jp/ad/p/r?medium=2809&ad=145\">mixiのＹＹＣ</a>",
 			star: "4",
 			category: "育毛剤",
 			nayami: "頭頂部",
 			tag: ["まじめ","安全"],
 			description: "・途中まで無料でメールできる<br>・mixiグループ運営で安全<br>・つぶやき、コミュニティなど無料で交流可能",
-			link: "https://link-a.net/gate.php?guid=on&mcode=mxzaz4qn&acode=4brgdnzvyyw2&itemid=0"
+			link: "https://mobee2.jp/ad/p/r?medium=2809&ad=145"
 		},
 		{
 			id: "hananokai",
@@ -94,13 +94,13 @@ $(function() {
 			life: "真面目で大人な女性",
 			price: "30代以上の出会いサイト",
 			warranty: "非常に高い",
-			title: "<a target=\"_blank\" href=\"https://px.a8.net/svt/ejp?a8mat=2ZAUAS+CCQTO2+2TZO+61RIB\">中高年向け華の会メール</a>",
+			title: "<a target=\"_blank\" href=\"https://px.a8.net/svt/ejp?a8mat=2ZIWSG+70FU1M+1T5K+1BV91E\">中高年向け華の会メール</a>",
 			star: "3.5",
 			category: "育毛剤",
 			nayami: "抜け毛",
 			tag: ["大人女性","真剣度"],
 			description: "・30歳から75歳までユーザー<br>・大人向サイトで真剣な人多数<br>・Tポイントがたまる制度あり",
-			link: "https://px.a8.net/svt/ejp?a8mat=2ZAUAS+CCQTO2+2TZO+61RIB"
+			link: "https://px.a8.net/svt/ejp?a8mat=2ZIWSG+70FU1M+1T5K+1BV91E"
 		},
 		{
 			id: "pcmax",
@@ -108,13 +108,13 @@ $(function() {
 			life: 300,
 			price: "出会いマッチングに最適",
 			warranty: "高い",
-			title: "<a target=\"_blank\" href=\"https://link-a.net/gate.php?guid=on&mcode=mxzaz4qn&acode=9rwpvxihecjp&itemid=0\">PC MAX</a>",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=54850&affID=92390&siteID=181045\">PC MAX</a>",
 			star: "3.5",
 			category: "育毛剤",
 			nayami: "抜け毛",
 			tag: ["匿名制","無料"],
 			description: "・登録している女性が多数と有名！<br>・フリーメール・匿名での登録OK<br>・年会費なし・無料 ※年齢認証が必須",
-			link: "https://link-a.net/gate.php?guid=on&mcode=mxzaz4qn&acode=9rwpvxihecjp&itemid=0"
+			link: "https://track.bannerbridge.net/click.php?APID=54850&affID=92390&siteID=181045"
 		}
 	];
 
