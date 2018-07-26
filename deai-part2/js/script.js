@@ -36,7 +36,7 @@ $(function() {
 			id: "wkwkmail",
 			name: "わくわくメール",
 			life: "おしゃれなお嬢様",
-			price: "スタイル良い女性が多い",
+			price: "健全な女性が多い",
 			warranty: "サクラ0運営",
 			title: "<a target=\"_blank\" href=\"https://mobee2.jp/ad/p/r?medium=2579&ad=608\">わくわくメール</a>",
 			star: "4.5",
