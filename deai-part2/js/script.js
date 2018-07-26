@@ -5,7 +5,7 @@ $(function() {
 	var allList = [
 
 		{
-			id: "asobo",
+			id: "asobo2",
 			name: "ASOBO",
 			life: "20代女性が多数",
 			price: "美人OL系が多い",
@@ -19,7 +19,7 @@ $(function() {
 			link: "http://aso-bo.com/index.php?1415"
 		},
 		{
-			id: "happymail",
+			id: "happymail2",
 			name: "ハッピーメール",
 			life: "20代OLが多数",
 			price: "清楚系と会える",
@@ -33,7 +33,7 @@ $(function() {
 			link: "https://preaf.jp/pa.do?s=v01326&o=38443&guid=ON0"
 		},
 		{
-			id: "wkwkmail",
+			id: "wkwkmail2",
 			name: "わくわくメール",
 			life: "おしゃれなお嬢様",
 			price: "健全な女性が多い",
@@ -61,7 +61,7 @@ $(function() {
 			link: "https://preaf.jp/pa.do?s=v01326&o=40569&guid=ON"
 		},
 		{
-			id: "ikukuru",
+			id: "ikukuru2",
 			name: "イククル",
 			life:  "ギャル系",
 			price: "ギャル、ギャル男中心",
@@ -75,7 +75,7 @@ $(function() {
 			link: "https://preaf.jp/pa.do?s=v01326&o=39402&guid=ON"
 		},
 		{
-			id: "yyc",
+			id: "yyc2",
 			name: "mixiのＹＹＣ",
 			life: "真面目な女性が多い",
 			price: "健全な出会いを求める方向け",
@@ -89,7 +89,7 @@ $(function() {
 			link: "https://mobee2.jp/ad/p/r?medium=2809&ad=145"
 		},
 		{
-			id: "hananokai",
+			id: "hananokai2",
 			name: "中高年向け華の会メール",
 			life: "真面目で大人な女性",
 			price: "30代以上の出会いサイト",
@@ -103,7 +103,7 @@ $(function() {
 			link: "https://px.a8.net/svt/ejp?a8mat=2ZIWSG+70FU1M+1T5K+1BV91E"
 		},
 		{
-			id: "pcmax",
+			id: "pcmax2",
 			name: "PC MAX",
 			life: 300,
 			price: "出会いマッチングに最適",
