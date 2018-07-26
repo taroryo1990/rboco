@@ -14,7 +14,7 @@ $(function() {
 			star: "5",
 			category: "育毛トニック",
 			nayami: "抜け毛",
-			tag: ["匿名制","20代女性多数"],
+			tag: ["安全匿名制","20代女性多数"],
 			description: "・ノリの良い女性が多いと口コミ<br>・掲示板が無料、0円で会える！<br>・合コンオフ会掲示板で多くの人に会える",
 			link: "http://aso-bo.com/index.php?1415"
 		},
