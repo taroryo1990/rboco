@@ -5,7 +5,7 @@ $(function() {
 	var allList = [
 
 		{
-			id: "Asobo2",
+			id: "asobo2",
 			name: "ASOBO",
 			life: "20代女性が多数",
 			price: "美人OL系が多い",
