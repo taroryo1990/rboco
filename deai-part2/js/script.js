@@ -80,13 +80,13 @@ $(function() {
 			life: "真面目な女性が多い",
 			price: "健全な出会いを求める方向け",
 			warranty: "mixi運営",
-			title: "<a target=\"_blank\" href=\"https://mobee2.jp/ad/p/r?medium=2809&ad=145\">mixiのＹＹＣ</a>",
+			title: "<a target=\"_blank\" href=\"https://mobee2.jp/ad/p/r?medium=2579&ad=145\">mixiのＹＹＣ</a>",
 			star: "4",
 			category: "育毛剤",
 			nayami: "頭頂部",
 			tag: ["まじめ","安全"],
 			description: "・途中まで無料でメールできる<br>・mixiグループ運営で安全<br>・つぶやき、コミュニティなど無料で交流可能",
-			link: "https://mobee2.jp/ad/p/r?medium=2809&ad=145"
+			link: "https://mobee2.jp/ad/p/r?medium=2579&ad=145"
 		},
 		{
 			id: "hananokai2",
