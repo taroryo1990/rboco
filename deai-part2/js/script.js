@@ -6,11 +6,11 @@ $(function() {
 
 		{
 			id: "asobo3",
-			name: "遊び相手のASOBO",
+			name: "ASOBO",
 			life: "20代女性が多数",
 			price: "遊び相手が作れると評判",
 			warranty: "迷惑メールなし",
-			title: "<a target=\"_blank\" href=\"http://aso-bo.com/index.php?1421\">ASOBO</a>",
+			title: "<a target=\"_blank\" href=\"http://aso-bo.com/index.php?1421\">遊び相手のASOBO</a>",
 			star: "5",
 			category: "育毛トニック",
 			nayami: "抜け毛",
@@ -20,11 +20,11 @@ $(function() {
 		},
 		{
 			id: "happymail2",
-			name: "セ〇レのハッピーメール",
+			name: "ハッピーメール",
 			life: "20代OLが多数",
 			price: "セ〇レが作りやすいと評判",
 			warranty: "大手会社が運営",
-			title: "<a target=\"_blank\" href=\"https://preaf.jp/pa.do?s=v01326&o=38443&guid=ON\">ハッピーメール</a>",
+			title: "<a target=\"_blank\" href=\"https://preaf.jp/pa.do?s=v01326&o=38443&guid=ON\">セ〇レのハッピーメール</a>",
 			star: "5",
 			category: "育毛剤",
 			nayami: "ふけ・かゆみ",
