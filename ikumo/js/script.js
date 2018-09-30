@@ -41,13 +41,13 @@ $(function () {
 			list_price: "10,000円<br class=\"br-400px\">(税込)",
 			price: "4,980円<br class=\"br-400px\">(税込)&nbsp;<br class=\"spbr\"><span>50%OFF!</span>",
 			warranty: "あり",
-			title: "<a target=\"_blank\" href=\"https://shop.nestle.jp/front/contents/petfood/cat/purina_one_teiki/?utm_source=a8net&utm_medium=affiliate&utm_campaign=poc_affiliate_teiki_cat\">ピュリナワン</a>",
+			title: "<a target=\"_blank\" href=\"https://px.a8.net/svt/ejp?a8mat=2ZPT47+6F07HU+357U+1BM18Z&a8ejpredirect=https%3A%2F%2Fshop.nestle.jp%2Ffront%2Fcontents%2FODC_teiki%2F%3Futm_source%3Da8net%26utm_medium%3Daffiliate%26utm_campaign%3Dpoc_affiliate_teiki_cat\">ピュリナワン</a>",
 			star: "3.5",
 			category: "キャットフード",
 			nayami: "抜け毛",
 			tag: ["キャットフード", "抜け毛"],
 			description: "・3年連続モンドセレクション金賞<br>・通常定期10000円→定期初回半額4980円<br>・キャピキシル配合",
-			link: "https://shop.nestle.jp/front/contents/petfood/cat/purina_one_teiki/?utm_source=a8net&utm_medium=affiliate&utm_campaign=poc_affiliate_teiki_cat"
+			link: "https://px.a8.net/svt/ejp?a8mat=2ZPT47+6F07HU+357U+1BM18Z&a8ejpredirect=https%3A%2F%2Fshop.nestle.jp%2Ffront%2Fcontents%2FODC_teiki%2F%3Futm_source%3Da8net%26utm_medium%3Daffiliate%26utm_campaign%3Dpoc_affiliate_teiki_cat"
 		},
 		{
 			id: "id003",
@@ -71,13 +71,13 @@ $(function () {
 			list_price: "9,800円<br class=\"br-400px\">(税抜)",
 			price: "8,800円<br class=\"br-400px\">(税抜)&nbsp;<br class=\"spbr\"><span class=\"discount\">1000円OFF!</span>",
 			warranty: "あり",
-			title: "<a target=\"_blank\" href=\"https://www.mognyancatfood.co.jp/cart\">モグニャン</a>",
+			title: "<a target=\"_blank\" href=\"https://h.accesstrade.net/sp/cc?rk=0100kqdl00i1f6\">モグニャン</a>",
 			star: "5",
 			category: "キャットフード",
 			nayami: "ふけ・かゆみ",
 			tag: ["キャットフード", "ふけ・かゆみ"],
 			description: "・「ISO認証取得済の国内工場で製造」<br>・「大満足レビュー続出」<br>・「返金保証付き」<br>・ノーベル賞受賞成分のフラーレン使用<br>・45日間全額返金保証",
-			link: "https://www.mognyancatfood.co.jp/cart"
+			link: "https://h.accesstrade.net/sp/cc?rk=0100kqdl00i1f6"
 		},
 		{
 			id: "id006",
