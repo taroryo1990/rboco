@@ -86,13 +86,13 @@ $(function () {
 			list_price: "7,560円<br class=\"br-400px\">(税込)",
 			price: "3,780円<br class=\"br-400px\">(税込)&nbsp;<br class=\"spbr\"><span>50%OFF!</span>",
 			warranty: "あり",
-			title: "<a target=\"_blank\" href=\"https://www.mognyancatfood.co.jp/cart\">ねこはぐ</a>",
+			title: "<a target=\"_blank\" href=\"http://pet-hug.com/nekohug_a14/\">ねこはぐ</a>",
 			star: "4.5",
 			category: "キャットフード",
 			nayami: "頭頂部",
 			tag: ["キャットフード", "頭頂部"],
 			description: "・微細なナノ粒子で髪に必要な成分を届ける<br>・全額返金キャンペーン実施中",
-			link: "https://www.mognyancatfood.co.jp/cart"
+			link: "http://pet-hug.com/nekohug_a14/"
 		},
 		{
 			id: "id001",
