@@ -14,8 +14,8 @@ $(function () {
 			title: "<a target=\"_blank\" href=\"https://h.accesstrade.net/sp/cc?rk=0100kmzl00i1f6\">シンプリー</a>",
 			star: "4",
 			category: "キャットフード",
-			nayami: "抜け毛",
-			tag: ["キャットフード", "抜け毛"],
+			nayami: "食いつき",
+			tag: ["キャットフード", "食いつき"],
 			description: "・アンケート調査で実感満足度95％<br>・ノンシリコン<br>・無香料・無着色",
 			link: "https://h.accesstrade.net/sp/cc?rk=0100kmzl00i1f6"
 		},
@@ -29,8 +29,8 @@ $(function () {
 			title: "<a target=\"_blank\" href=\"https://h.accesstrade.net/sp/cc?rk=0100kmyh00i1f6\">カナガンキャットフード</a>",
 			star: "5",
 			category: "キャットフード",
-			nayami: "ふけ・かゆみ",
-			tag: ["キャットフード", "ふけ・かゆみ"],
+			nayami: "健康・値段",
+			tag: ["キャットフード", "健康・値段"],
 			description: "・スカルプケア商品支持率第1位<br>・友人におすすめしたいスカルプケア商品第1位<br>・全額返金制度あり",
 			link: "https://h.accesstrade.net/sp/cc?rk=0100kmyh00i1f6"
 		},
@@ -44,8 +44,8 @@ $(function () {
 			title: "<a target=\"_blank\" href=\"https://px.a8.net/svt/ejp?a8mat=2ZPT47+6F07HU+357U+1BM18Z&a8ejpredirect=https%3A%2F%2Fshop.nestle.jp%2Ffront%2Fcontents%2FODC_teiki%2F%3Futm_source%3Da8net%26utm_medium%3Daffiliate%26utm_campaign%3Dpoc_affiliate_teiki_cat\">ピュリナワン</a>",
 			star: "3.5",
 			category: "キャットフード",
-			nayami: "抜け毛",
-			tag: ["キャットフード", "抜け毛"],
+			nayami: "食いつき",
+			tag: ["キャットフード", "食いつき"],
 			description: "・3年連続モンドセレクション金賞<br>・通常定期10000円→定期初回半額4980円<br>・キャピキシル配合",
 			link: "https://px.a8.net/svt/ejp?a8mat=2ZPT47+6F07HU+357U+1BM18Z&a8ejpredirect=https%3A%2F%2Fshop.nestle.jp%2Ffront%2Fcontents%2FODC_teiki%2F%3Futm_source%3Da8net%26utm_medium%3Daffiliate%26utm_campaign%3Dpoc_affiliate_teiki_cat"
 		},
@@ -74,8 +74,8 @@ $(function () {
 			title: "<a target=\"_blank\" href=\"https://h.accesstrade.net/sp/cc?rk=0100kqdl00i1f6\">モグニャン</a>",
 			star: "5",
 			category: "キャットフード",
-			nayami: "ふけ・かゆみ",
-			tag: ["キャットフード", "ふけ・かゆみ"],
+			nayami: "健康・値段",
+			tag: ["キャットフード", "健康・値段"],
 			description: "・「ISO認証取得済の国内工場で製造」<br>・「大満足レビュー続出」<br>・「返金保証付き」<br>・ノーベル賞受賞成分のフラーレン使用<br>・45日間全額返金保証",
 			link: "https://h.accesstrade.net/sp/cc?rk=0100kqdl00i1f6"
 		},
@@ -104,8 +104,8 @@ $(function () {
 			title: "<a target=\"_blank\" href=\"https://px.a8.net/svt/ejp?a8mat=2ZPT48+5GH2EQ+43TO+BW8O2&a8ejpredirect=http%3A%2F%2Forijenjapan.com%2Flp%2F\">オリジンジャパン</a>",
 			star: "4.5",
 			category: "キャットフード",
-			nayami: "抜け毛",
-			tag: ["キャットフード", "抜け毛"],
+			nayami: "食いつき",
+			tag: ["キャットフード", "食いつき"],
 			description: "・50種類の育毛成分配合<br>・全額返金保証！保証書付き",
 			link: "https://px.a8.net/svt/ejp?a8mat=2ZPT48+5GH2EQ+43TO+BW8O2&a8ejpredirect=http%3A%2F%2Forijenjapan.com%2Flp%2F"
 		},
@@ -119,8 +119,8 @@ $(function () {
 			title: "<a target=\"_blank\" href=\"https://link-a.net/gate.php?guid=on&mcode=mxzaz4qn&acode=9rwpvxihecjp&itemid=0\">リデン（REDEN)</a>",
 			star: "5",
 			category: "キャットフード",
-			nayami: "抜け毛",
-			tag: ["キャットフード", "抜け毛"],
+			nayami: "食いつき",
+			tag: ["キャットフード", "食いつき"],
 			description: "・幹細胞に働きかける新成分リデンシル配合<br>・通常価格12,800円（税抜）⇒【23％OFFの初回9,800円（税抜）】送料無料",
 			link: "https://link-a.net/gate.php?guid=on&mcode=mxzaz4qn&acode=9rwpvxihecjp&itemid=0"
 		}
@@ -311,9 +311,9 @@ $(function () {
 		return _.filter(list, function (item) {
 			switch (value) {
 				case '1':
-					return item.nayami == "抜け毛";
+					return item.nayami == "食いつき";
 				case '2':
-					return item.nayami == "ふけ・かゆみ";
+					return item.nayami == "健康・値段";
 				case '3':
 					return item.nayami == "頭頂部";
 				case '4':
