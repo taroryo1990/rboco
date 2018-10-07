@@ -18,7 +18,6 @@ $(function () {
 			tag: [],
 			description: "・定期で購入すると最大50％OFF（いつでも解約可能）<br>・93.9％ の継続率、 獣医師も推奨している健康フード<br>・ 白身魚、 フルーツなど食いつき良い食材を使用。<br>・ グレインフリー（ 穀類不使用） ",
 			link: "http://ad.aspm.jp/93kQ7n/",
-			reviews: "【20代女性コメント】<br>賞味期限が、開封後約1カ月で、少し短いです。その代わり、 人口添加物不使用とあって、 安全で健康です。うちは子猫を飼っているのですが、 食いつきは間違いないです！ "
 		},
 		{
 			id: "id004",
@@ -29,13 +28,12 @@ $(function () {
 			price: "1,489円&nbsp;<br class=\"spbr\"><span>20%OFF!</span>",
 			warranty: "定期3回縛り（3回で解約可能）",
 			title: "<a target=\"_blank\" href=\"https://px.a8.net/svt/ejp?a8mat=2ZPT47+6F07HU+357U+1BM18Z&a8ejpredirect=https%3A%2F%2Fshop.nestle.jp%2Ffront%2Fcontents%2FODC_teiki%2F%3Futm_source%3Da8net%26utm_medium%3Daffiliate%26utm_campaign%3Dpoc_affiliate_teiki_cat\">2位:ピュリナワン</a>",
-			star: "5",
+			star: "3.5",
 			category: "キャットフード",
 			nayami: "食いつき",
 			tag: [],
 			description: "・元値が安いため、 定期3回購入しても4467円。<br>・送料も0円。 気軽にお試しできる。<br>・ 成長段階（ 子猫、 シニアetc） や室内用、 体重ケア用など猫ちゃんによって適切なフードを選べる ",
 			link: "https://px.a8.net/svt/ejp?a8mat=2ZPT47+6F07HU+357U+1BM18Z&a8ejpredirect=https%3A%2F%2Fshop.nestle.jp%2Ffront%2Fcontents%2FODC_teiki%2F%3Futm_source%3Da8net%26utm_medium%3Daffiliate%26utm_campaign%3Dpoc_affiliate_teiki_cat",
-			reviews: "【30代女性主婦コメント】<br>「風味が選べるのが気に入ってます」ピュリナワン・ キャットフードはラインナップがとても豊富なので、 さまざまな種類をローテーションさせて愛猫に与えています。 健康維持にもなるし、 風味も変わるため愛猫も喜んで食べてくれます。 "
 		},
 		{
 			id: "id005",
@@ -46,13 +44,12 @@ $(function () {
 			price: "3,168円&nbsp;<br class=\"spbr\"><span>定期で最大20％OFF!</span>",
 			warranty: "単品購入or定期縛りなし",
 			title: "<a target=\"_blank\" href=\"https://h.accesstrade.net/sp/cc?rk=0100kmzl00i1f6\">3位:シンプリー</a>",
-			star: "4.5",
+			star: "4",
 			category: "キャットフード",
 			nayami: "食いつき",
 			tag: [],
 			description: "・定期で購入すると最大20％ OFF（ 解約可能）<br>・動物栄養学者と作った子猫からシニアまで食べれる健康フード<br>・ フード用スクーププレゼント ",
 			link: "https://h.accesstrade.net/sp/cc?rk=0100kmzl00i1f6",
-			reviews: "【30代女性主婦コメント】<br>自然とうんちの状態がバナナくらいの良い硬さになってきたんです。開けた時の匂いにはびっくりしましたね、香料を使っているんじゃないかと思って調べてみたんですが無添加ということで安心しました。魚の割合が多いということでアイムスよりも良いフードみたいです。"
 		},
 		{
 			id: "id003",
@@ -63,13 +60,12 @@ $(function () {
 			price: "3,242円&nbsp;<br class=\"spbr\"><span>定期で最大20％OFF!</span>",
 			warranty: "単品購入or定期縛りなし",
 			title: "<a target=\"_blank\" href=\"https://h.accesstrade.net/sp/cc?rk=0100kn1e00i1f6\">4位:ジャガー</a>",
-			star: "4.5",
+			star: "3",
 			category: "キャットフード",
 			nayami: "M字型",
 			tag: [],
 			description: "・とにかく品質重視、上質な肉と新鮮な果物を使用(ヒューマングレード）<br>・安心のグレインフリー<br>・動物性たんぱく質80％以上のプレミア品 ",
 			link: "https://h.accesstrade.net/sp/cc?rk=0100kn1e00i1f6",
-			reviews: "【40代男性コメント】<br>今までのキャットフード史上、 最高の食いつきでした。うんちの匂いが消えました。うんちの色は黒くツヤツヤ、 よく見るとしっかり毛玉も排出できています。 "
 		},
 
 		{
@@ -81,13 +77,12 @@ $(function () {
 			price: "3,168円&nbsp;<br class=\"spbr\"><span>定期で最大20％OFF!</span>",
 			warranty: "単品購入or定期縛りなし",
 			title: "<a target=\"_blank\" href=\"https://h.accesstrade.net/sp/cc?rk=0100kmyh00i1f6\">5位:カナガンキャットフード</a>",
-			star: "4",
+			star: "5",
 			category: "キャットフード",
 			nayami: "値段・健康",
 			tag: [],
 			description: "・新鮮なイギリス産平飼いチキンを60%以上使用<br>・特に子猫の食いつきがよいと評判！<br>・ 缶詰での購入も可能。 ",
 			link: "https://h.accesstrade.net/sp/cc?rk=0100kmyh00i1f6",
-			reviews: "【40代女性コメント】<br>カナガンキャットフードにしてから、たまに起きていた皮膚炎にもならなくなり体調もいいです♪値段は以前あげていたキャットフードより高いですが、 病院通いよりはぜんぜん安上がり。 "
 		},
 		{
 			id: "id006",
@@ -98,13 +93,12 @@ $(function () {
 			price: "3,980円&nbsp;<br class=\"spbr\"><span>43%OFF!</span>",
 			warranty: "なし（解約可能）",
 			title: "<a target=\"_blank\" href=\"http://ad.aspm.jp/5lzT8T/\">6位:ねこはぐ</a>",
-			star: "3.5",
+			star: "4.5",
 			category: "キャットフード",
 			nayami: "頭頂部",
 			tag: [],
 			description: "・国際キャットフード人気No.1<br>・人でも食べられる健康食材<br>・いつでも解約できるので、気軽にお試し可能",
-			link: "http://ad.aspm.jp/5lzT8T/",
-			reviews: "【40代女性コメント】<br>原材料なんかをみてもわかるとおり、 ねこはぐは安心して与えらるし、 すごい食いつきます！価格帯でちょっと高めなのが、気になってますが、国産にこだわるなら、 値段は仕方ないのかな、と思ってます。 "
+			link: "http://ad.aspm.jp/5lzT8T",
 		},
 
 		{
@@ -116,13 +110,12 @@ $(function () {
 			price: "1,300円〜",
 			warranty: "単品購入",
 			title: "<a target=\"_blank\" href=\"https://px.a8.net/svt/ejp?a8mat=2ZPT48+5GH2EQ+43TO+BW8O2&a8ejpredirect=http%3A%2F%2Forijenjapan.com%2Flp%2F\">7位:オリジンジャパン</a>",
-			star: "3.5",
+			star: "4.5",
 			category: "キャットフード",
 			nayami: "食いつき",
 			tag: [],
 			description: "・ペットフードのECサイト<br>・多種のキャットフードから猫ちゃんに合った商品を選べる<br>・全額返金キャンペーン中。 30 日以内であれば、 全額返金。 ",
 			link: "https://px.a8.net/svt/ejp?a8mat=2ZPT48+5GH2EQ+43TO+BW8O2&a8ejpredirect=http%3A%2F%2Forijenjapan.com%2Flp%2F",
-			reviews: "【20代女性コメント】<br>とにかく栄養素が高いから、仔猫や成長期の猫にはおすすめカロリーが高め＋ かなりの高たんぱくなので、中年～ シニア猫にはちょっと消化が大変かもしれない "
 		}
 	];
 
@@ -184,7 +177,6 @@ $(function () {
 				outputHtml += '	</div><div class="clear"></div>';
 				outputHtml += '<div class="description-box"><p class="description">' + line.description + '</p></div>';
 				outputHtml += '<div class=""><a class="myButton hvr-grow-shadow" target="_blank" href="' + line.link + '">この商品の詳細を見る</a></div>';
-				outputHtml += '<div id="accordion" role="tablist"><div class="card mt-2"><div class="btn btn-info p-3" role="tab" id="headingTwo"><h5 class="mb-0"><a class="collapsed text-white" data-toggle="collapse" href="#collapse' + i + '" aria-expanded="false"aria-controls="collapse' + i + '">口コミを見る</a></h5></div><div id="collapse' + i + '" class="collapse" role="tabpanel" aria-labelledby="headingTwo"><div class="card-body">' + line.reviews + '</div></div></div></div>';
 				outputHtml += '<div class="clear"></div></div>';
 				outputHtml += '<!--/.product--></div>';
 			});
