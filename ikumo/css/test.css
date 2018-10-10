@@ -436,11 +436,11 @@ ranking
 }
 
 .product-name a {
-	color: #333;
+	color: #0000ff;
 }
 
-.product-name a:hover {
-	text-decoration: none;
+.product-name a {
+	text-decoration: underline;
 	cursor: pointer;
 }
 
