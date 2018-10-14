@@ -454,8 +454,8 @@ h1 {
 
 h2,
 .home.blog .entry-title {
-    color: #666;
-    font-size: 20px;
+    color: red;
+    font-size: 25px;
     font-size: 1.25rem;
     font-weight: 300;
 }
@@ -1902,7 +1902,7 @@ body:not(.has-header-image):not(.has-header-video) .custom-header-media {
 .page .panel-content .entry-title,
 .page-title,
 body.page:not(.twentyseventeen-front-page) .entry-title {
-    color: #222;
+    color: red;
     font-size: 14px;
     font-size: 0.875rem;
     font-weight: 800;
