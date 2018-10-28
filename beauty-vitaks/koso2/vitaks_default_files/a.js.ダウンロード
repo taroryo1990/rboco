@@ -1,0 +1,3 @@
+var analysis_ref = escape(document.referrer)+"";
+if((analysis_ref=="undefined") || (analysis_ref==""))analysis_ref="";
+document.write( '<img src="/log/access.php?ref='+analysis_ref+'&site='+site+'">');
