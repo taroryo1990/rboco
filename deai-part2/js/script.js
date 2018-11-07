@@ -10,7 +10,7 @@ $(function() {
 			life: "婚活におすすめ",
 			price: "登録無料",
 			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://mobee2.jp/ad/p/r?medium=2579&ad=608\">わくわくメール</a>",
+			title: "<a target=\"_blank\" href=\"https://mobee2.jp/ad/p/r?medium=2579&ad=608\">1位：わくわくメール</a>",
 			star: "4.5",
 			category: "育毛トニック",
 			nayami: "抜け毛",
@@ -19,19 +19,34 @@ $(function() {
 			link: "https://mobee2.jp/ad/p/r?medium=2579&ad=608"
 		},
 		{
-			id: "yyc2",
-			name: "mixiのＹＹＣ",
+			id: "mintjc",
+			name: "Jメール",
 			life: "真面目",
-			price: "健全に婚活する方",
+			price: "パパに夢を叶えてもらえる",
 			warranty: "mixi運営",
-			title: "<a target=\"_blank\" href=\"https://mobee2.jp/ad/p/r?medium=2809&ad=145\">mixiのＹＹＣ</a>",
+			title: "<a target=\"_blank\" href=\"https://mobee2.jp/ad/p/r?medium=2809&ad=145\">2位：夢が叶うJメール</a>",
 			star: "4",
 			category: "育毛剤",
 			nayami: "頭頂部",
 			tag: ["まじめ","安全"],
-			description: "・途中まで無料でメールできる<br>・mixiグループ運営で安全<br>・つぶやき、コミュニティなど無料で交流可能",
+			description: "・途中まで無料でメールできる<br>・大手企業運営で安全<br>・つぶやき、コミュニティなど無料で交流可能",
 			link: "https://mobee2.jp/ad/p/r?medium=2809&ad=145"
 		},
+		{
+			id: "yyc2",
+			name: "イククル",
+			life: "真面目",
+			price: "健全に婚活する方",
+			warranty: "mixi運営",
+			title: "<a target=\"_blank\" href=\"https://mobee2.jp/ad/p/r?medium=2809&ad=145\">3位：イククル</a>",
+			star: "4",
+			category: "育毛剤",
+			nayami: "頭頂部",
+			tag: ["まじめ","安全"],
+			description: "・途中まで無料でメールできる<br>・健全に婚活できる<br>・つぶやき、コミュニティなど無料で交流可能",
+			link: "https://mobee2.jp/ad/p/r?medium=2809&ad=145"
+		},
+
 		{
 			id: "hananokai2",
 			name: "華の会メール",
@@ -46,6 +61,22 @@ $(function() {
 			description: "・30歳から75歳までユーザー<br>・婚活に最適<br>・Tポイントがたまる制度あり",
 			link: "https://px.a8.net/svt/ejp?a8mat=2ZIWSG+5FA7YY+1T5K+15T9TE"
 		},
+		{
+			id: "pocketwork",
+			name: "ユニバース",
+			life: "真面目",
+			price: "健全に活動する方",
+			warranty: "mixi運営",
+			title: "<a target=\"_blank\" href=\"https://mobee2.jp/ad/p/r?medium=2809&ad=145\">ユニバース</a>",
+			star: "4",
+			category: "育毛剤",
+			nayami: "頭頂部",
+			tag: ["まじめ","安全"],
+			description: "・全国展開している<br>・全員面接での入会なのでアプリなどより安心<br>",
+			link: "https://mobee2.jp/ad/p/r?medium=2809&ad=145"
+		},
+
+
 			];
 
 	/*================================================================
