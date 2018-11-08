@@ -7,16 +7,30 @@ $(function() {
 		{
 			id: "wkwkmail2",
 			name: "わくわくメール",
-			life: "婚活におすすめ",
+			life: "稼ぎたい方におすすめ",
 			price: "登録無料",
 			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://mobee2.jp/ad/p/r?medium=2579&ad=608\">1位：わくわくメール</a>",
+			title: "<a target=\"_blank\" href=\"https://mobee2.jp/ad/p/r?medium=3856&ad=608&suid=\">1位:わくわくメール</a>",
 			star: "4.5",
 			category: "育毛トニック",
 			nayami: "抜け毛",
 			tag: ["安全","人気"],
-			description: "・国内最大級の会員数！<br>・メールは24通無料！",
-			link: "https://mobee2.jp/ad/p/r?medium=2579&ad=608"
+			description: "富裕層の独身男性が多いと話題<br>お金持ちのパパが多いので、稼ぎやすい<br>国内最大級の会員数！",
+			link: "https://mobee2.jp/ad/p/r?medium=3856&ad=608&suid="
+		},
+		{
+			id: "ikukuru",
+			name: "イククル",
+			life: "真面目",
+			price: "健全に婚活する方",
+			warranty: "mixi運営",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=19628&affID=92390&siteID=181045\">2位:イククル</a>",
+			star: "4",
+			category: "育毛剤",
+			nayami: "頭頂部",
+			tag: ["稼げる","人気"],
+			description: "・「年収」で検索できるプロフ検索が便利<br>・「すぐ会いたい」など目的にあった相手をカンタンに募集出来る",
+			link: "https://track.bannerbridge.net/click.php?APID=19628&affID=92390&siteID=181045"
 		},
 		{
 			id: "mintjc",
@@ -24,56 +38,70 @@ $(function() {
 			life: "真面目",
 			price: "パパに夢を叶えてもらえる",
 			warranty: "mixi運営",
-			title: "<a target=\"_blank\" href=\"https://mobee2.jp/ad/p/r?medium=2809&ad=145\">2位：夢が叶うJメール</a>",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=152684&affID=92390&siteID=181045\">3位:夢が叶うJメール</a>",
 			star: "4",
 			category: "育毛剤",
 			nayami: "頭頂部",
-			tag: ["まじめ","安全"],
-			description: "・途中まで無料でメールできる<br>・大手企業運営で安全<br>・つぶやき、コミュニティなど無料で交流可能",
-			link: "https://mobee2.jp/ad/p/r?medium=2809&ad=145"
+			tag: ["ハイスペック男子","安全"],
+			description: "・パトロン探しや普通に出会いとしても使える<br>・パパ活女子が意外と多い<br>・掲示板に投稿して理想のパパを見つけられる",
+			link: "https://track.bannerbridge.net/click.php?APID=152684&affID=92390&siteID=181045"
 		},
 		{
-			id: "yyc2",
-			name: "イククル",
+			id: "happymail",
+			name: "",
 			life: "真面目",
 			price: "健全に婚活する方",
 			warranty: "mixi運営",
-			title: "<a target=\"_blank\" href=\"https://mobee2.jp/ad/p/r?medium=2809&ad=145\">3位：イククル</a>",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=92065&affID=92390&siteID=181045\">4位:ハッピーメール</a>",
 			star: "4",
 			category: "育毛剤",
 			nayami: "頭頂部",
 			tag: ["まじめ","安全"],
-			description: "・途中まで無料でメールできる<br>・健全に婚活できる<br>・つぶやき、コミュニティなど無料で交流可能",
-			link: "https://mobee2.jp/ad/p/r?medium=2809&ad=145"
+			description: "・完全匿名制、ばれずに出会える<br>・大手企業の役員や部長などと会えると話題に！<br>・サクラもいないし、匿名で登録OK",
+			link: "https://track.bannerbridge.net/click.php?APID=92065&affID=92390&siteID=181045"
 		},
-
 		{
 			id: "hananokai2",
 			name: "華の会メール",
 			life: "真面目な",
 			price: "30代以上メイン",
 			warranty: "非常に高い",
-			title: "<a target=\"_blank\" href=\"https://px.a8.net/svt/ejp?a8mat=2ZIWSG+5FA7YY+1T5K+15T9TE\">華の会メール</a>",
+			title: "<a target=\"_blank\" href=\"https://px.a8.net/svt/ejp?a8mat=2ZIWSG+70FU1M+1T5K+1CGWCX\">5位:華の会メール</a>",
 			star: "3.5",
 			category: "育毛剤",
 			nayami: "抜け毛",
 			tag: ["大人女性","真剣度"],
-			description: "・30歳から75歳までユーザー<br>・婚活に最適<br>・Tポイントがたまる制度あり",
-			link: "https://px.a8.net/svt/ejp?a8mat=2ZIWSG+5FA7YY+1T5K+15T9TE"
+			description: "・30歳以上限定サイト<br>・男性の年齢が高いため、パパ・パトロン探しに最適<br>・Tポイントがたまる制度あり",
+			link: "https://px.a8.net/svt/ejp?a8mat=2ZIWSG+70FU1M+1T5K+1CGWCX"
 		},
 		{
-			id: "pocketwork",
-			name: "ユニバース",
+			id: "sugar",
+			name: "シュガーダディ",
 			life: "真面目",
-			price: "健全に活動する方",
+			price: "健全に婚活する方",
 			warranty: "mixi運営",
-			title: "<a target=\"_blank\" href=\"https://mobee2.jp/ad/p/r?medium=2809&ad=145\">ユニバース</a>",
+			title: "<a target=\"_blank\" href=\"https://t.afi-b.com/visit.php?guid=ON&a=B83609-r2812046&p=C6609048\">6位:シュガーダディ</a>",
 			star: "4",
 			category: "育毛剤",
 			nayami: "頭頂部",
 			tag: ["まじめ","安全"],
-			description: "・全国展開している<br>・全員面接での入会なのでアプリなどより安心<br>",
-			link: "https://mobee2.jp/ad/p/r?medium=2809&ad=145"
+			description: "・パパ活専用サイトだから、パパしたい男性が集まる<br>・堂々とパパ活が出来ちゃう<br>・ハイレベルな男性が多数登録していると話題",
+			link: "https://t.afi-b.com/visit.php?guid=ON&a=B83609-r2812046&p=C6609048"
+		},
+
+		{
+			id: "universe",
+			name: "ユニバース",
+			life: "真面目",
+			price: "健全に活動する方",
+			warranty: "mixi運営",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=157403&affID=92390&siteID=181045\">7位:ユニバース</a>",
+			star: "4",
+			category: "育毛剤",
+			nayami: "頭頂部",
+			tag: ["パパ専用","金持ち"],
+			description: "・男性がお金を払って登録するから質が高い人が多い<br>・交際倶楽部が運営しているパパ活サイト<br>男性は富裕層チェック面接を合格した人だけ",
+			link: "https://track.bannerbridge.net/click.php?APID=157403&affID=92390&siteID=181045"
 		},
 
 
