@@ -47,7 +47,7 @@ $(function() {
 			link: "https://track.bannerbridge.net/click.php?APID=152684&affID=92390&siteID=181045"
 		},
 		{
-			id: "happymail",
+			id: "happymail2",
 			name: "",
 			life: "真面目",
 			price: "健全に婚活する方",
