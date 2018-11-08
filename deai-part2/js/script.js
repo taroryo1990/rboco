@@ -75,7 +75,7 @@ $(function() {
 			link: "https://px.a8.net/svt/ejp?a8mat=2ZIWSG+70FU1M+1T5K+1CGWCX"
 		},
 		{
-			id: "sugar",
+			id: "sugar2",
 			name: "シュガーダディ",
 			life: "真面目",
 			price: "健全に婚活する方",
@@ -90,7 +90,7 @@ $(function() {
 		},
 
 		{
-			id: "universe",
+			id: "universe2",
 			name: "ユニバース",
 			life: "真面目",
 			price: "健全に活動する方",
