@@ -19,7 +19,7 @@ $(function() {
 			link: "https://mobee2.jp/ad/p/r?medium=3856&ad=608&suid="
 		},
 		{
-			id: "ikukuru",
+			id: "ikukuru2",
 			name: "イククル",
 			life: "真面目",
 			price: "健全に婚活する方",
