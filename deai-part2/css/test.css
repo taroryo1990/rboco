@@ -368,7 +368,7 @@ ranking
 .right {
 	width: 300px;
 	float: left;
-	background-color: #FFEEFF;
+	background-color: #ffeeff;
 	box-sizing: border-box;
 	padding:5px;
 	border-radius: 10px;
@@ -376,7 +376,7 @@ ranking
 }
 .rank-product {
 	margin: 5px;
-	border-top: 2px solid #FFAAFF;
+	border-top: 2px solid #ffeeff;
 }
 .product-img {
 }
