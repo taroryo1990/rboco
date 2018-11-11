@@ -15,7 +15,7 @@ $(function() {
 			category: "育毛トニック",
 			nayami: "抜け毛",
 			tag: ["安全","人気"],
-			description: "富裕層の独身男性が多いと話題<br>お金持ちのパパが多いので、稼ぎやすい<br>国内最大級の会員数！",
+			description: "ご飯デート機能（おねだり機能）でおごってくれるパパを探せる<br>お金持ちのパパが多いので、稼ぎやすい<br>国内最大級の会員数！",
 			link: "https://mobee2.jp/ad/p/r?medium=3856&ad=608&suid="
 		},
 		{
@@ -38,13 +38,13 @@ $(function() {
 			life: "真面目",
 			price: "パパに夢を叶えてもらえる",
 			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=152684&affID=92390&siteID=181045\">3位:夢が叶うJメール</a>",
+			title: "<a target=\"_blank\" href=\"http://preaf.jp/pa.do?s=s98981&o=40569&guid=ON\">3位:夢が叶うJメール</a>",
 			star: "4",
 			category: "育毛剤",
 			nayami: "頭頂部",
 			tag: ["ハイスペック男子","安全"],
 			description: "・パトロン探しや普通に出会いとしても使える<br>・パパ活女子が意外と多い<br>・掲示板に投稿して理想のパパを見つけられる",
-			link: "https://track.bannerbridge.net/click.php?APID=152684&affID=92390&siteID=181045"
+			link: "http://preaf.jp/pa.do?s=s98981&o=40569&guid=ON"
 		},
 		{
 			id: "happymail2",
@@ -103,8 +103,6 @@ $(function() {
 			description: "・男性がお金を払って登録するから質が高い人が多い<br>・交際倶楽部が運営しているパパ活サイト<br>男性は富裕層チェック面接を合格した人だけ",
 			link: "https://track.bannerbridge.net/click.php?APID=157403&affID=92390&siteID=181045"
 		},
-
-
 			];
 
 	/*================================================================
