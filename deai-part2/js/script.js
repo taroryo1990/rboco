@@ -21,7 +21,7 @@ $(function() {
 		{
 			id: "ikukuru2",
 			name: "イククル",
-			life: "真面目",
+			life: "安全",
 			price: "健全に婚活する方",
 			warranty: "大手運営",
 			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=19628&affID=92390&siteID=181045\">2位:イククル</a>",
@@ -35,7 +35,7 @@ $(function() {
 		{
 			id: "mintjc",
 			name: "Jメール",
-			life: "真面目",
+			life: "安全",
 			price: "パパに夢を叶えてもらえる",
 			warranty: "大手運営",
 			title: "<a target=\"_blank\" href=\"http://preaf.jp/pa.do?s=s98981&o=40569&guid=ON\">3位:夢が叶うJメール</a>",
@@ -49,7 +49,7 @@ $(function() {
 		{
 			id: "hananokai2",
 			name: "華の会メール",
-			life: "真面目な",
+			life: "安全な",
 			price: "30代以上メイン",
 			warranty: "非常に高い",
 			title: "<a target=\"_blank\" href=\"https://px.a8.net/svt/ejp?a8mat=2ZIWSG+70FU1M+1T5K+1CGWCX\">4位:華の会メール</a>",
@@ -63,8 +63,8 @@ $(function() {
 		{
 			id: "sugar2",
 			name: "シュガーダディ",
-			life: "真面目",
-			price: "健全に婚活する方",
+			life: "安全",
+			price: "パパ活専用サイト",
 			warranty: "大手運営",
 			title: "<a target=\"_blank\" href=\"https://t.afi-b.com/visit.php?guid=ON&a=B83609-r2812046&p=C6609048\">5位:シュガーダディ</a>",
 			star: "4",
@@ -74,14 +74,29 @@ $(function() {
 			description: "・パパ活専用サイトだから、パパしたい男性が集まる<br>・堂々とパパ活が出来ちゃう<br>・ハイレベルな男性が多数登録していると話題",
 			link: "https://t.afi-b.com/visit.php?guid=ON&a=B83609-r2812046&p=C6609048"
 		},
+		{
+			id: "pocketwork",
+			name: "ポケットワーク",
+			life: "安全",
+			price: "バイトでパパ活",
+			warranty: "会わないから安全",
+			title: "<a target=\"_blank\" https://px.a8.net/svt/ejp?a8mat=2ZD0KZ+FOEZ16+2J9U+61Z81\">6位:会わないパパ活ポケットワーク</a>",
+			star: "4",
+			category: "育毛剤",
+			nayami: "頭頂部",
+			tag: ["まじめ","安全"],
+			description: "・パパたちとチャットや電話でお話するお仕事<br>・大手運営バイト時給最大7500円<br>・日払い可能、確実に稼げる",
+			link: "https://px.a8.net/svt/ejp?a8mat=2ZD0KZ+FOEZ16+2J9U+61Z81"
+		},
+
 
 		{
 			id: "universe2",
 			name: "ユニバース",
-			life: "真面目",
+			life: "安全",
 			price: "健全に活動する方",
 			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=157403&affID=92390&siteID=181045\">6位:ユニバース</a>",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=157403&affID=92390&siteID=181045\">7位:ユニバース</a>",
 			star: "4",
 			category: "育毛剤",
 			nayami: "頭頂部",
