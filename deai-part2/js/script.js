@@ -15,7 +15,7 @@ $(function() {
 			category: "育毛トニック",
 			nayami: "抜け毛",
 			tag: ["安全","人気"],
-			description: "ご飯デート機能（おねだり機能）でおごってくれるパパを探せる<br>お金持ちのパパが多いので、稼ぎやすい<br>国内最大級の会員数！",
+			description: "ご飯デート機能（おねだり機能）でおごってくれる方を探せる<br>お金持ちの男性が多いので、稼ぎやすい<br>国内最大級の会員数！",
 			link: "https://mobee2.jp/ad/p/r?medium=3856&ad=608&suid="
 		},
 		{
@@ -29,7 +29,7 @@ $(function() {
 			category: "育毛剤",
 			nayami: "頭頂部",
 			tag: ["稼げる","人気"],
-			description: "・「年収」で検索できるプロフ検索が便利<br>・「すぐ会いたい」など目的にあった相手をカンタンに募集出来る",
+			description: "・「年収」で検索できるプロフ検索が便利<br>・女性は登録無料で遊べる<br>・パパ活専用サイトではない、お金持ちの男性が多いのでオススメ",
 			link: "https://track.bannerbridge.net/click.php?APID=19628&affID=92390&siteID=181045"
 		},
 		{
@@ -45,20 +45,6 @@ $(function() {
 			tag: ["ハイスペック男子","安全"],
 			description: "・パトロン探しや普通に出会いとしても使える<br>・パパ活女子が意外と多い<br>・掲示板に投稿して理想のパパを見つけられる",
 			link: "http://preaf.jp/pa.do?s=s98981&o=40569&guid=ON"
-		},
-		{
-			id: "happymail2",
-			name: "",
-			life: "真面目",
-			price: "健全に婚活する方",
-			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=92065&affID=92390&siteID=181045\">4位:ハッピーメール</a>",
-			star: "4",
-			category: "育毛剤",
-			nayami: "頭頂部",
-			tag: ["まじめ","安全"],
-			description: "・完全匿名制、ばれずに出会える<br>・大手企業の役員や部長などと会えると話題に！<br>・サクラもいないし、匿名で登録OK",
-			link: "https://track.bannerbridge.net/click.php?APID=92065&affID=92390&siteID=181045"
 		},
 		{
 			id: "hananokai2",
