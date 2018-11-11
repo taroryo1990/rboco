@@ -7,7 +7,7 @@ $(function() {
 		{
 			id: "wkwkmail2",
 			name: "わくわくメール",
-			life: "稼ぎたい方におすすめ",
+			life: "パパ活におすすめ",
 			price: "登録無料",
 			warranty: "大手運営",
 			title: "<a target=\"_blank\" href=\"https://mobee2.jp/ad/p/r?medium=3856&ad=608&suid=\">1位:わくわくメール</a>",
@@ -22,7 +22,7 @@ $(function() {
 			id: "ikukuru2",
 			name: "イククル",
 			life: "安全",
-			price: "健全に婚活する方",
+			price: "健全にパパ活する方",
 			warranty: "大手運営",
 			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=19628&affID=92390&siteID=181045\">2位:イククル</a>",
 			star: "4",
@@ -75,7 +75,7 @@ $(function() {
 			link: "https://t.afi-b.com/visit.php?guid=ON&a=B83609-r2812046&p=C6609048"
 		},
 		{
-			id: "pocketwork",
+			id: "pocketwork3",
 			name: "ポケットワーク",
 			life: "安全",
 			price: "バイトでパパ活",
