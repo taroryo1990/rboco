@@ -80,13 +80,13 @@ $(function() {
 			life: "安全",
 			price: "バイトでパパ活",
 			warranty: "会わないから安全",
-			title: "<a target=\"_blank\" https://px.a8.net/svt/ejp?a8mat=2ZD0KZ+FOEZ16+2J9U+61Z81\">6位:会わないパパ活ポケットワーク</a>",
+			title: "<a target=\"_blank\"https://track.bannerbridge.net/click.php?APID=60192&affID=92390&siteID=180164\">6位:会わないパパ活ポケットワーク</a>",
 			star: "4",
 			category: "育毛剤",
 			nayami: "頭頂部",
 			tag: ["まじめ","安全"],
 			description: "・パパたちとチャットや電話でお話するお仕事<br>・大手運営バイト時給最大7500円<br>・日払い可能、確実に稼げる",
-			link: "https://px.a8.net/svt/ejp?a8mat=2ZD0KZ+FOEZ16+2J9U+61Z81"
+			link: "https://track.bannerbridge.net/click.php?APID=60192&affID=92390&siteID=180164"
 		},
 
 
