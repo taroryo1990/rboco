@@ -75,12 +75,27 @@ $(function() {
 			link: "https://t.afi-b.com/visit.php?guid=ON&a=B83609-r2812046&p=C6609048"
 		},
 		{
+			id: "vivo",
+			name: "VIVO",
+			life: "安全",
+			price: "バイトでパパ活",
+			warranty: "会わないから安全",
+			title: "<a target=\"_blank\"https://track.bannerbridge.net/click.php?APID=136100&affID=92390&siteID=180164\">6位:会わないパパ活のVI-VO</a>",
+			star: "4",
+			category: "育毛剤",
+			nayami: "頭頂部",
+			tag: ["まじめ","安全"],
+			description: "・パパたちとチャットや電話でお話するお仕事<br>・登録ボーナスで8000円もらえる<br>・通話15秒ごとにお金が稼げるお仕事",
+			link: "https://track.bannerbridge.net/click.php?APID=136100&affID=92390&siteID=180164"
+		},
+
+		{
 			id: "pocketwork3",
 			name: "ポケットワーク",
 			life: "安全",
 			price: "バイトでパパ活",
 			warranty: "会わないから安全",
-			title: "<a target=\"_blank\"https://track.bannerbridge.net/click.php?APID=60192&affID=92390&siteID=180164\">6位:会わないパパ活ポケットワーク</a>",
+			title: "<a target=\"_blank\"https://track.bannerbridge.net/click.php?APID=60192&affID=92390&siteID=180164\">7位:会わないパパ活ポケットワーク</a>",
 			star: "4",
 			category: "育毛剤",
 			nayami: "頭頂部",
@@ -88,15 +103,13 @@ $(function() {
 			description: "・パパたちとチャットや電話でお話するお仕事<br>・大手運営バイト時給最大7500円<br>・日払い可能、確実に稼げる",
 			link: "https://track.bannerbridge.net/click.php?APID=60192&affID=92390&siteID=180164"
 		},
-
-
 		{
 			id: "universe2",
 			name: "ユニバース",
 			life: "安全",
 			price: "健全に活動する方",
 			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=157403&affID=92390&siteID=181045\">7位:ユニバース</a>",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=157403&affID=92390&siteID=181045\">8位:ユニバース</a>",
 			star: "4",
 			category: "育毛剤",
 			nayami: "頭頂部",
