@@ -19,20 +19,6 @@ $(function() {
 			link: "https://track.bannerbridge.net/click.php?APID=19628&affID=92390&siteID=181045"
 		},
 		{
-			id: "mintjc",
-			name: "Jメール",
-			life: "安全",
-			price: "パパに夢を叶えてもらえる",
-			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"http://preaf.jp/pa.do?s=s98981&o=40569&guid=ON\">3位:夢が叶うJメール</a>",
-			star: "4",
-			category: "育毛剤",
-			nayami: "頭頂部",
-			tag: ["ハイスペック男子","安全"],
-			description: "・パトロン探しや普通に出会いとしても使える<br>・お金持ちパパが多いと話題<br>・掲示板に投稿して理想のパパを見つけられる",
-			link: "http://preaf.jp/pa.do?s=s98981&o=40569&guid=ON"
-		},
-		{
 			id: "hananokai2",
 			name: "華の会メール",
 			life: "安全な",
