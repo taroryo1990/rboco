@@ -44,7 +44,7 @@ header
 	position: relative;
 	margin-bottom: 20px;
 	height: 180px;
-	background: #E0672C;
+	background: skyblue;
 }
 
 .angle {
@@ -52,7 +52,7 @@ header
 	top: 20px;
 	left: -25px;
 	display: inline-block;
-	background-color: skyblue;
+	background-color: #00FFFF;
 	font-size: 24px;
 	transform: rotate(-26deg);
 }
