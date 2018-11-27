@@ -86,7 +86,7 @@ header
 	position: absolute;
 	top: 15px;
 	right: 0;
-	width: 180px;
+	width: 150px;
 }
 
 .title-logo {
@@ -618,7 +618,7 @@ footer {
 	}
 
 	.logo-img-2 {
-		width: 100px;
+		width: 70px;
 	}
 
 }
@@ -801,7 +801,7 @@ footer {
 		position: absolute;
 		top: 0;
 		right: 0;
-		width: 110px;
+		width: 70px;
 	}
 
 	.ranking-title {
