@@ -29,7 +29,7 @@ $(function() {
 			category: "育毛剤",
 			nayami: "頭頂部",
 			tag: ["女性","人気"],
-			description: "・女性は登録無料で遊べる<br>・出会い専用サイト、メ",
+			description: "・女性は登録無料で遊べる<br>・出会い専用サイト",
 			link: "https://track.bannerbridge.net/click.php?APID=19628&affID=92390&siteID=181045"
 		},
 		{
@@ -43,7 +43,7 @@ $(function() {
 			category: "育毛剤",
 			nayami: "頭頂部",
 			tag: ["ハイスペック男子","安全"],
-			description: "・出会いとしても使える<br>・安全安心、大手畝井題<br>・掲示板に投稿して理想の女性を見つけられる",
+			description: "・出会いとしても使える<br>・安全安心、大手経営<br>・掲示板に投稿して理想の女性を見つけられる",
 			link: "http://preaf.jp/pa.do?s=s98981&o=40569&guid=ON"
 		},
 		{
