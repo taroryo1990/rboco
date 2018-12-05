@@ -1,0 +1,40 @@
+const numFormat = (num) => { return ('0'+num).slice(-2); }
+
+const setStyle = (dl, color, border) => {
+  let child = dl.firstChild;
+  while(child) {
+    switch(child.tagName) {
+      case 'DT':
+        child.style.backgroundColor = color;
+      case 'DD':
+        child.style.border = border;
+    }
+    child = child.nextSibling;
+  }
+}
+
+const countDown = () => {
+  const today=new Date();
+  const tl= new Date(today.getFullYear(), today.getMonth(), today.getDate()+1, 0, 0, 0)
+  const hour=Math.floor(((tl-today)%(24*60*60*1000))/(60*60*1000));
+  const min=Math.floor(((tl-today)%(24*60*60*1000))/(60*1000))%60;
+  const sec=Math.floor(((tl-today)%(24*60*60*1000))/1000)%60%60;
+  const milli=Math.floor(((tl-today)%(24*60*60*1000))/10)%100;
+  const elements = document.getElementsByClassName("cd");
+  for(let element of elements) {
+    element.innerHTML = "<span style='font-size: 1.5rem;'>あと</span><span style='color: red;'>"+hour+"</span><span style='font-size: 1.5rem;'>時間</span><span style='color: red;'>"+numFormat(min)+"</span><span style='font-size: 1.5rem;'>分</span><span style='color: red;'>"+numFormat(sec)+"</span><span style='font-size: 1.5rem;'>秒</span><span style='color: red;'>"+numFormat(milli)+"</span>";
+  }
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+  const cdElements = document.getElementsByClassName("cd");
+  for(let el of cdElements) {
+    const dl = el.parentNode.parentNode
+    const color = el.getAttribute('class').split(' ')[1];
+    setStyle(dl, color, `2px solid ${color}`);
+  }
+  const elements = document.getElementsByClassName("cd");
+  if(elements.length) {
+    setInterval("countDown()", 10);
+  }
+});
