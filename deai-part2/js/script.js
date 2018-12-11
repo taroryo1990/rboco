@@ -3,6 +3,20 @@ $(function() {
 	情報
 	================================================================*/
 	var allList = [
+		{
+			id: "happymail2",
+			name: "ハッピー",
+			life: "安全",
+			price: "健全に出会いする方",
+			warranty: "大手運営",
+			title: "<a target=\"_blank\" href=\"http://www.medipartner.jp/click.php\">2位:イククル</a>",
+			star: "5",
+			category: "育毛剤",
+			nayami: "頭頂部",
+			tag: ["安全","大手運営"],
+			description: "・女性は登録無料で遊べる<br>・20代、30代中心の女性が多数集まる<br>・きれいな女性が多いとの口コミ多数",
+			link: "http://www.medipartner.jp/click.php"
+		},
 
 		{
 			id: "wkwkmail2",
