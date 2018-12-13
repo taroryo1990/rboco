@@ -19,40 +19,56 @@ $(function() {
 			link: "https://mobee2.jp/ad/p/r?medium=3856&ad=608&suid="
 		},
 		{
+			id: "merupara",
+			name: "メルパラ",
+			life: "安全",
+			price: "健全にパパ活する方",
+			warranty: "大手運営",
+			title: "<a target=\"_blank\" href=\"https://meru-para.com/?mdc=4806\">2位:メルパラ</a>",
+			star: "4",
+			category: "育毛剤",
+			nayami: "頭頂部",
+			tag: ["稼げる","人気"],
+			description: "・ハイスペック男性が多数登録<br>・男性は前払いなのでお金持ちが多い<br>・プロフィール検索が細かいので、簡単にお相手を探せる",
+			link: "https://meru-para.com/?mdc=4806"
+		},
+
+		{
 			id: "ikukuru2",
 			name: "イククル",
 			life: "安全",
 			price: "健全にパパ活する方",
 			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=19628&affID=92390&siteID=181045\">2位:イククル</a>",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=19628&affID=92390&siteID=181045\">3位:イククル</a>",
 			star: "4",
 			category: "育毛剤",
 			nayami: "頭頂部",
 			tag: ["稼げる","人気"],
-			description: "・「年収」で検索できるプロフ検索が便利<br>・女性は登録無料で遊べる<br>・パパ活専用サイトではない、お金持ちの男性が多いのでオススメ",
+			description: "・「年収」で検索できるプロフ検索が便利<br>・女性は登録無料で遊べる<br>・パパ活専用サイトではないが、お金持ちの男性が多いのでオススメ",
 			link: "https://track.bannerbridge.net/click.php?APID=19628&affID=92390&siteID=181045"
 		},
 		{
 			id: "mintjc",
 			name: "Jメール",
 			life: "安全",
-			price: "パパに夢を叶えてもらえる",
+			price: "夢を叶える",
 			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"http://preaf.jp/pa.do?s=s98981&o=40569&guid=ON\">3位:夢が叶うJメール</a>",
+			title: "<a target=\"_blank\" href=\"http://preaf.jp/pa.do?s=s98981&o=40569&guid=ON\">4位:夢が叶うJメール</a>",
 			star: "4",
 			category: "育毛剤",
 			nayami: "頭頂部",
 			tag: ["ハイスペック男子","安全"],
-			description: "・パトロン探しや普通に出会いとしても使える<br>・お金持ちパパが多いと話題<br>・掲示板に投稿して理想のパパを見つけられる",
+			description: "・出会いとしても使える<br>・安全安心、大手経営<br>・掲示板に投稿して理想の男性を見つけられる",
 			link: "http://preaf.jp/pa.do?s=s98981&o=40569&guid=ON"
 		},
+
 		{
 			id: "hananokai2",
 			name: "華の会メール",
 			life: "安全な",
 			price: "30代以上メイン",
 			warranty: "非常に高い",
-			title: "<a target=\"_blank\" href=\"https://px.a8.net/svt/ejp?a8mat=2ZIWSG+70FU1M+1T5K+1CGWCX\">4位:華の会メール</a>",
+			title: "<a target=\"_blank\" href=\"https://px.a8.net/svt/ejp?a8mat=2ZIWSG+70FU1M+1T5K+1CGWCX\">5位:華の会メール</a>",
 			star: "3.5",
 			category: "育毛剤",
 			nayami: "抜け毛",
@@ -60,13 +76,14 @@ $(function() {
 			description: "・30歳以上限定サイト<br>・男性の年齢が高いため、パパ・パトロン探しに最適<br>・Tポイントがたまる制度あり",
 			link: "https://px.a8.net/svt/ejp?a8mat=2ZIWSG+70FU1M+1T5K+1CGWCX"
 		},
+
 		{
 			id: "sugar2",
 			name: "シュガーダディ",
 			life: "安全",
 			price: "パパ活専用サイト",
 			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://t.afi-b.com/visit.php?guid=ON&a=B83609-r2812046&p=C6609048\">5位:シュガーダディ</a>",
+			title: "<a target=\"_blank\" href=\"https://t.afi-b.com/visit.php?guid=ON&a=B83609-r2812046&p=C6609048\">6位:シュガーダディ</a>",
 			star: "4",
 			category: "育毛剤",
 			nayami: "頭頂部",
@@ -80,28 +97,13 @@ $(function() {
 			life: "安全",
 			price: "バイトでパパ活",
 			warranty: "会わないから安全",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=136100&affID=92390&siteID=180164\">6位:会わないパパ活のVI-VO</a>",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=136100&affID=92390&siteID=180164\">7位:会わないパパ活のVI-VO</a>",
 			star: "4",
 			category: "育毛剤",
 			nayami: "頭頂部",
 			tag: ["まじめ","安全"],
 			description: "・パパたちとチャットや電話でお話するお仕事<br>・登録ボーナスで8000円もらえる<br>・通話15秒ごとにお金が稼げるお仕事",
 			link: "https://track.bannerbridge.net/click.php?APID=136100&affID=92390&siteID=180164"
-		},
-
-		{
-			id: "pocketwork3",
-			name: "ポケットワーク",
-			life: "安全",
-			price: "バイトでパパ活",
-			warranty: "会わないから安全",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=60192&affID=92390&siteID=180164\">7位:会わないパパ活ポケットワーク</a>",
-			star: "4",
-			category: "育毛剤",
-			nayami: "頭頂部",
-			tag: ["まじめ","安全"],
-			description: "・パパたちとチャットや電話でお話するお仕事<br>・大手運営バイト時給最大7500円<br>・日払い可能、確実に稼げる",
-			link: "https://track.bannerbridge.net/click.php?APID=60192&affID=92390&siteID=180164"
 		},
 		{
 			id: "universe2",
