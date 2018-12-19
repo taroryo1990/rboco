@@ -62,7 +62,7 @@ $(function() {
 			link: "http://preaf.jp/pa.do?s=s98981&o=40569&guid=ON"
 		},
 		{
-			id: "lovesearch",
+			id: "lovesearch2",
 			name: "ラブサーチ",
 			life: "安全",
 			price: "セキュリティ重視",
