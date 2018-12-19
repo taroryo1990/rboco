@@ -58,7 +58,7 @@ $(function() {
 			category: "育毛剤",
 			nayami: "頭頂部",
 			tag: ["ハイスペック男子","安全"],
-			description: "・出会いとしても使える<br>・安全安心、大手経営<br>・掲示板に投稿して理想の男性を見つけられる",
+			description: "・掲示板で投稿して、理想の相手を見つける<br>・足跡機能で気になる男性チェック<br>・男性の本人確認があるため安全",
 			link: "http://preaf.jp/pa.do?s=s98981&o=40569&guid=ON"
 		},
 		{
