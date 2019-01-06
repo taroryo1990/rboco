@@ -22,7 +22,7 @@ $(function() {
 			id: "merupara2",
 			name: "メルパラ",
 			life: "安全",
-			price: "健全にパパ活する方",
+			price: "じっくり探したい方向け",
 			warranty: "大手運営",
 			title: "<a target=\"_blank\" href=\"https://meru-para.com/?mdc=4806\">2位:メルパラ</a>",
 			star: "4",
