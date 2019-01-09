@@ -1,129 +1,128 @@
-$(function() {
+$(function () {
 	/*================================================================
 	情報
 	================================================================*/
 	var allList = [
-
-		{
-			id: "id004",
-			name: "THE SCALP 5.0C",
-			life: 140,
-			list_price: "10,000円<br class=\"br-400px\">(税込)",
-			price: "4,980円<br class=\"br-400px\">(税込)&nbsp;<br class=\"spbr\"><span>50%OFF!</span>",
-			warranty: "あり",
-			title: "<a target=\"_blank\" href=\"https://px.a8.net/svt/ejp?a8mat=2ZAWNH+7TM1WY+2TKE+1BNYOX\">THE SCALP 5.0C</a>",
-			star: "3.5",
-			category: "育毛トニック",
-			nayami: "抜け毛",
-			tag: ["育毛トニック","抜け毛"],
-			description: "・3年連続モンドセレクション金賞<br>・通常定期10000円→定期初回半額4980円<br>・キャピキシル配合",
-			link: "https://px.a8.net/svt/ejp?a8mat=2ZAWNH+7TM1WY+2TKE+1BNYOX"
-		},
-		{
-			id: "id006",
-			name: "ナノインパクト100",
-			life: 240,
-			list_price: "7,560円<br class=\"br-400px\">(税込)",
-			price: "3,780円<br class=\"br-400px\">(税込)&nbsp;<br class=\"spbr\"><span>50%OFF!</span>",
-			warranty: "あり",
-			title: "<a target=\"_blank\" href=\"https://link-a.net/gate.php?guid=on&mcode=mxzaz4qn&acode=4brgdnzvyyw2&itemid=0\">ナノインパクト100</a>",
-			star: "4.5",
-			category: "育毛剤",
-			nayami: "頭頂部",
-			tag: ["育毛剤","頭頂部"],
-			description: "・微細なナノ粒子で髪に必要な成分を届ける<br>・全額返金キャンペーン実施中",
-			link: "https://link-a.net/gate.php?guid=on&mcode=mxzaz4qn&acode=4brgdnzvyyw2&itemid=0"
-		},
 		{
 			id: "id008",
-			name: "BOSTONスカルプエッセンス",
-			life: 230,
-			list_price: "9,800円<br class=\"br-400px\">(税抜)",
-			price: "8,800円<br class=\"br-400px\">(税抜)&nbsp;<br class=\"spbr\"><span class=\"discount\">1000円OFF!</span>",
-			warranty: "あり",
-			title: "<a target=\"_blank\" href=\"https://px.a8.net/svt/ejp?a8mat=2ZAWNG+FG2VSI+1XEW+1NJRXE\">BOSTONスカルプエッセンス</a>",
+			name: "モグニャン",
+			rank: "ranking-1",
+			life: 1.5,
+			list_price: "3,960円",
+			price: "1,980円&nbsp;<br class=\"spbr\"><span>定期で最大50％OFF!</span>",
+			warranty: "単品購入or定期縛りなし",
+			title: "<a target=\"_blank\" href=\"http://ad.aspm.jp/93kQ7n/\">1位:モグニャン</a>",
 			star: "5",
-			category: "育毛トニック",
-			nayami: "ふけ・かゆみ",
-			tag: ["育毛トニック","ふけ・かゆみ"],
-			description: "・「ISO認証取得済の国内工場で製造」<br>・「大満足レビュー続出」<br>・「返金保証付き」<br>・ノーベル賞受賞成分のフラーレン使用<br>・45日間全額返金保証",
-			link: "https://px.a8.net/svt/ejp?a8mat=2ZAWNG+FG2VSI+1XEW+1NJRXE"
+			category: "キャットフード",
+			nayami: "値段・健康",
+			tag: [],
+			description: "・定期で購入すると最大50％OFF（いつでも解約可能）<br>・93.9％ の継続率、 獣医師も推奨している健康フード<br>・ 白身魚、 フルーツなど食いつき良い食材を使用。<br>・ グレインフリー（ 穀類不使用） ",
+			link: "http://ad.aspm.jp/93kQ7n/",
+			reviews: "【20代女性コメント】<br>賞味期限が、開封後約1カ月で、少し短いです。その代わり、 人口添加物不使用とあって、 安全で健康です。うちは子猫を飼っているのですが、 食いつきは間違いないです！ "
+		},
+		{
+			id: "id004",
+			name: "ピュリナワン",
+			rank: "ranking-2",
+			life: 1.6,
+			list_price: "1880円",
+			price: "1,489円&nbsp;<br class=\"spbr\"><span>20%OFF!</span>",
+			warranty: "定期3回縛り（3回で解約可能）",
+			title: "<a target=\"_blank\" href=\"https://px.a8.net/svt/ejp?a8mat=2ZPT47+6F07HU+357U+1BM18Z&a8ejpredirect=https%3A%2F%2Fshop.nestle.jp%2Ffront%2Fcontents%2FODC_teiki%2F%3Futm_source%3Da8net%26utm_medium%3Daffiliate%26utm_campaign%3Dpoc_affiliate_teiki_cat\">2位:ピュリナワン</a>",
+			star: "3.5",
+			category: "キャットフード",
+			nayami: "食いつき",
+			tag: [],
+			description: "・元値が安いため、 定期3回購入しても4467円。<br>・送料も0円。 気軽にお試しできる。<br>・ 成長段階（ 子猫、 シニアetc） や室内用、 体重ケア用など猫ちゃんによって適切なフードを選べる ",
+			link: "https://px.a8.net/svt/ejp?a8mat=2ZPT47+6F07HU+357U+1BM18Z&a8ejpredirect=https%3A%2F%2Fshop.nestle.jp%2Ffront%2Fcontents%2FODC_teiki%2F%3Futm_source%3Da8net%26utm_medium%3Daffiliate%26utm_campaign%3Dpoc_affiliate_teiki_cat",
+			reviews: "【30代女性主婦コメント】<br>「風味が選べるのが気に入ってます」ピュリナワン・ キャットフードはラインナップがとても豊富なので、 さまざまな種類をローテーションさせて愛猫に与えています。 健康維持にもなるし、 風味も変わるため愛猫も喜んで食べてくれます。 "
 		},
 		{
 			id: "id005",
-			name: "MONOVOヘアトニックグロウジェル",
-			life: 70,
-			list_price: "6,600円<br class=\"br-400px\">(税抜)",
-			price: "6,200円<br class=\"br-400px\">(税抜)&nbsp;<br class=\"spbr\"><span>600円OFF！</span>",
-			warranty: "あり",
-			title: "<a target=\"_blank\" href=\"https://px.a8.net/svt/ejp?a8mat=2ZAUAS+2T7PMA+2UOE+1HL85U\">MONOVOヘアトニックグロウジェル</a>",
+			name: "シンプリー",
+			rank: "ranking-3",
+			life: 1.5,
+			list_price: "3,960円",
+			price: "3,168円&nbsp;<br class=\"spbr\"><span>定期で最大20％OFF!</span>",
+			warranty: "単品購入or定期縛りなし",
+			title: "<a target=\"_blank\" href=\"https://h.accesstrade.net/sp/cc?rk=0100kmzl00i1f6\">3位:シンプリー</a>",
 			star: "4",
-			category: "育毛トニック",
-			nayami: "抜け毛",
-			tag: ["育毛トニック","抜け毛"],
-			description: "・アンケート調査で実感満足度95％<br>・抜け毛予防<br>",
-			link: "https://px.a8.net/svt/ejp?a8mat=2ZAUAS+2T7PMA+2UOE+1HL85U"
+			category: "キャットフード",
+			nayami: "食いつき",
+			tag: [],
+			description: "・定期で購入すると最大20％ OFF（ 解約可能）<br>・動物栄養学者と作った子猫からシニアまで食べれる健康フード<br>・ フード用スクーププレゼント ",
+			link: "https://h.accesstrade.net/sp/cc?rk=0100kmzl00i1f6",
+			reviews: "【30代女性主婦コメント】<br>自然とうんちの状態がバナナくらいの良い硬さになってきたんです。開けた時の匂いにはびっくりしましたね、香料を使っているんじゃないかと思って調べてみたんですが無添加ということで安心しました。魚の割合が多いということでアイムスよりも良いフードみたいです。"
 		},
 		{
 			id: "id003",
-			name: "MSTT1",
-			life: 160,
-			list_price: "9,800円<br class=\"br-400px\">(税込)",
-			price: "5,980円<br class=\"br-400px\">(税込)&nbsp;<br class=\"spbr\"><span>38%OFF!</span>",
-			warranty: "あり",
-			title: "<a target=\"_blank\" href=\"https://px.a8.net/svt/ejp?a8mat=2ZAWNG+F75DPU+1GVC+25DPHV&a8ejpredirect=http%3A%2F%2Fwww.danpatsuryoku.com%2Fa8\">MSTT1</a>",
+			name: "ジャガー",
+			rank: "ranking-4",
+			life: 1.5,
+			list_price: "4,280円",
+			price: "3,242円&nbsp;<br class=\"spbr\"><span>定期で最大20％OFF!</span>",
+			warranty: "単品購入or定期縛りなし",
+			title: "<a target=\"_blank\" href=\"https://h.accesstrade.net/sp/cc?rk=0100kn1e00i1f6\">4位:ジャガー</a>",
 			star: "3",
-			category: "育毛剤",
+			category: "キャットフード",
 			nayami: "M字型",
-			tag: ["育毛剤","M字型"],
-			description: "・頭頂部専用の男性用育毛剤",
-			link: "https://px.a8.net/svt/ejp?a8mat=2ZAWNG+F75DPU+1GVC+25DPHV&a8ejpredirect=http%3A%2F%2Fwww.danpatsuryoku.com%2Fa8"
+			tag: [],
+			description: "・とにかく品質重視、上質な肉と新鮮な果物を使用(ヒューマングレード）<br>・安心のグレインフリー<br>・動物性たんぱく質80％以上のプレミア品 ",
+			link: "https://h.accesstrade.net/sp/cc?rk=0100kn1e00i1f6",
+			reviews: "【40代男性コメント】<br>今までのキャットフード史上、 最高の食いつきでした。うんちの匂いが消えました。うんちの色は黒くツヤツヤ、 よく見るとしっかり毛玉も排出できています。 "
 		},
 
 		{
 			id: "id002",
-			name: "フィンジア",
-			life: 210,
-			list_price: "12,800円<br class=\"br-400px\">(税込)",
-			price: "9,980円<br class=\"br-400px\">(税込)&nbsp;<br class=\"spbr\"><span>22%OFF!</span>",
-			warranty: "あり",
-			title: "<a target=\"_blank\" href=\"https://link-a.net/gate.php?guid=on&mcode=mxzaz4qn&acode=ujfzlcywjmbz&itemid=0\">フィンジア</a>",
+			name: "カナガンキャットフード",
+			rank: "ranking-5",
+			life: 1.5,
+			list_price: "3,960円",
+			price: "3,168円&nbsp;<br class=\"spbr\"><span>定期で最大20％OFF!</span>",
+			warranty: "単品購入or定期縛りなし",
+			title: "<a target=\"_blank\" href=\"https://h.accesstrade.net/sp/cc?rk=0100kmyh00i1f6\">5位:カナガンキャットフード</a>",
 			star: "5",
-			category: "育毛トニック",
-			nayami: "ふけ・かゆみ",
-			tag: ["育毛トニック","ふけ・かゆみ"],
-			description: "・スカルプケア商品支持率第1位<br>・友人におすすめしたいスカルプケア商品第1位<br>・全額返金制度あり",
-			link: "https://link-a.net/gate.php?guid=on&mcode=mxzaz4qn&acode=ujfzlcywjmbz&itemid=0"
+			category: "キャットフード",
+			nayami: "値段・健康",
+			tag: [],
+			description: "・新鮮なイギリス産平飼いチキンを60%以上使用<br>・特に子猫の食いつきがよいと評判！<br>・ 缶詰での購入も可能。 ",
+			link: "https://h.accesstrade.net/sp/cc?rk=0100kmyh00i1f6",
+			reviews: "【40代女性コメント】<br>カナガンキャットフードにしてから、たまに起きていた皮膚炎にもならなくなり体調もいいです♪値段は以前あげていたキャットフードより高いですが、 病院通いよりはぜんぜん安上がり。 "
 		},
+		{
+			id: "id006",
+			name: "ねこはぐ",
+			rank: "ranking-6",
+			life: 1.5,
+			list_price: "6,980円",
+			price: "3,980円&nbsp;<br class=\"spbr\"><span>43%OFF!</span>",
+			warranty: "なし（解約可能）",
+			title: "<a target=\"_blank\" href=\"http://ad.aspm.jp/5lzT8T/\">6位:ねこはぐ</a>",
+			star: "4.5",
+			category: "キャットフード",
+			nayami: "頭頂部",
+			tag: [],
+			description: "・国際キャットフード人気No.1<br>・人でも食べられる健康食材<br>・いつでも解約できるので、気軽にお試し可能",
+			link: "http://ad.aspm.jp/5lzT8T",
+			reviews: "【40代女性コメント】<br>原材料なんかをみてもわかるとおり、 ねこはぐは安心して与えらるし、 すごい食いつきます！価格帯でちょっと高めなのが、気になってますが、国産にこだわるなら、 値段は仕方ないのかな、と思ってます。 "
+		},
+
 		{
 			id: "id001",
-			name: "チャップアップ",
-			life: 150,
-			list_price: "13,360円<br class=\"br-400px\">(税込)",
-			price: "9,090円<br class=\"br-400px\">(税込)&nbsp;<br class=\"spbr\"><span>31%OFF!</span>",
-			warranty: "あり",
-			title: "<a target=\"_blank\" href=\"https://px.a8.net/svt/ejp?a8mat=2ZAUAS+CCQTO2+2TZO+61RIB\">チャップアップ</a>",
+			name: "オリジンジャパン",
+			rank: "ranking-7",
+			life: '',
+			list_price: "1,300円〜",
+			price: "1,300円〜",
+			warranty: "単品購入",
+			title: "<a target=\"_blank\" href=\"https://px.a8.net/svt/ejp?a8mat=2ZPT48+5GH2EQ+43TO+BW8O2&a8ejpredirect=http%3A%2F%2Forijenjapan.com%2Flp%2F\">7位:オリジンジャパン</a>",
 			star: "4.5",
-			category: "育毛剤",
-			nayami: "抜け毛",
-			tag: ["育毛剤","抜け毛"],
-			description: "・50種類の育毛成分配合<br>・全額返金保証！保証書付き",
-			link: "https://px.a8.net/svt/ejp?a8mat=2ZAUAS+CCQTO2+2TZO+61RIB"
-		},
-		{
-			id: "id007",
-			name: "リデン（REDEN)",
-			life: 300,
-			list_price: "12,800円<br class=\"br-400px\">(税込)",
-			price: "9,800円<br class=\"br-400px\">(税込)&nbsp;<br class=\"spbr\"><span>23%OFF!</span>",
-			warranty: "あり",
-			title: "<a target=\"_blank\" href=\"https://link-a.net/gate.php?guid=on&mcode=mxzaz4qn&acode=9rwpvxihecjp&itemid=0\">リデン（REDEN)</a>",
-			star: "5",
-			category: "育毛剤",
-			nayami: "抜け毛",
-			tag: ["育毛剤","抜け毛"],
-			description: "・新成分リデンシル配合<br>・通常価格12,800円（税抜）⇒【23％OFFの初回9,800円（税抜）】送料無料",
-			link: "https://link-a.net/gate.php?guid=on&mcode=mxzaz4qn&acode=9rwpvxihecjp&itemid=0"
+			category: "キャットフード",
+			nayami: "食いつき",
+			tag: [],
+			description: "・ペットフードのECサイト<br>・多種のキャットフードから猫ちゃんに合った商品を選べる<br>・全額返金キャンペーン中。 30 日以内であれば、 全額返金。 ",
+			link: "https://px.a8.net/svt/ejp?a8mat=2ZPT48+5GH2EQ+43TO+BW8O2&a8ejpredirect=http%3A%2F%2Forijenjapan.com%2Flp%2F",
+			reviews: "【20代女性コメント】<br>とにかく栄養素が高いから、仔猫や成長期の猫にはおすすめカロリーが高め＋ かなりの高たんぱくなので、中年～ シニア猫にはちょっと消化が大変かもしれない "
 		}
 	];
 
@@ -153,13 +152,13 @@ $(function() {
 
 		//出力する内容をoutputHtmlに格納
 		if (list.length > 0) {
-			_.each(list, function(line, i) {
+			_.each(list, function (line, i) {
 				outputHtml += '<div class="product">';
-				outputHtml += '	<div class="product-left"><div class="photo"><a target="_blank" href="' + line.link + '"><img src="images/' + line.id + '.jpg" alt="' + line.name + '" /></a></div>';
+				outputHtml += '	<div class="product-left"><div class="photo"><a target="_blank" href="' + line.link + '"><img src="images/' + line.id + '.jpg" alt="' + line.name + '" /></a><img class="rank-img" src="images/' + line.rank + '.png"></div>';
 				outputHtml += '		<div class="tag-list-sp">';
 				outputHtml += '			<ul class="tag">';
-				_.each(line.tag, function(tag, i){
-				outputHtml += '				<li><span>' + tag + '</span></li>';
+				_.each(line.tag, function (tag, i) {
+					outputHtml += '				<li><span>' + tag + '</span></li>';
 				});
 				outputHtml += '			</ul>';
 				outputHtml += '		</div>';
@@ -169,22 +168,23 @@ $(function() {
 				outputHtml += '		<p class="product-star">評価　<img class="star-img" src="images/star-' + line.star + '.png"></p>';
 				outputHtml += '		<div class="tag-list">';
 				outputHtml += '			<ul class="tag">';
-				_.each(line.tag, function(tag, i){
-				outputHtml += '				<li><span>' + tag + '</span></li>';
+				_.each(line.tag, function (tag, i) {
+					outputHtml += '				<li><span>' + tag + '</span></li>';
 				});
 				outputHtml += '			</ul>';
 				outputHtml += '		</div>';
 				outputHtml += '		<div class="detail-list">';
 				outputHtml += '			<table>';
-				outputHtml += '				<tr><td class="amount">容量</td><td>:' + line.life + 'ml</td></tr>';
-				outputHtml += '				<tr><td class="warranty">返金保証</td><td>:' + line.warranty + '</td></tr>';
+				outputHtml += '				<tr><td class="amount">1袋容量</td><td>:' + line.life + 'kg</td></tr>';
+				outputHtml += '				<tr><td class="warranty">定期縛り</td><td>:' + line.warranty + '</td></tr>';
 				outputHtml += '				<tr><td class="list_price">定価</td><td>:' + line.list_price + '</td></tr>';
-				outputHtml += '				<tr><td class="price">価格</td><td class="price">:' + line.price + '</td></tr>';
+				outputHtml += '				<tr><td class="price">当サイト価格</td><td class="price">:' + line.price + '</td></tr>';
 				outputHtml += '			</table>';
 				outputHtml += '		</div>';
 				outputHtml += '	</div><div class="clear"></div>';
 				outputHtml += '<div class="description-box"><p class="description">' + line.description + '</p></div>';
-				outputHtml += '<div class="conversion"><a class="myButton hvr-grow-shadow" target="_blank" href="' + line.link + '">この商品の詳細を見る</a></div>';
+				outputHtml += '<div class=""><a class="myButton hvr-grow-shadow" target="_blank" href="' + line.link + '">この商品の詳細を見る</a></div>';
+				outputHtml += '<div id="accordion" role="tablist"><div class="card mt-2"><div class="btn btn-info p-3" role="tab" id="headingTwo"><h5 class="mb-0"><a class="collapsed text-white" data-toggle="collapse" href="#collapse' + i + '" aria-expanded="false"aria-controls="collapse' + i + '">口コミを見る</a></h5></div><div id="collapse' + i + '" class="collapse" role="tabpanel" aria-labelledby="headingTwo"><div class="card-body">' + line.reviews + '</div></div></div></div>';
 				outputHtml += '<div class="clear"></div></div>';
 				outputHtml += '<!--/.product--></div>';
 			});
@@ -194,7 +194,12 @@ $(function() {
 
 		//HTML出力（フェードインアニメーションつき）
 		$('.productArea').html(outputHtml);
-		$('.productArea .product').css({opacity: 0}).each(function(i){$(this).delay(100 * i).animate({opacity:1}, 300);
+		$('.productArea .product').css({
+			opacity: 0
+		}).each(function (i) {
+			$(this).delay(100 * i).animate({
+				opacity: 1
+			}, 300);
 		});
 
 		//検索件数表示
@@ -211,41 +216,41 @@ $(function() {
 
 		//セレクトボックスの値を引数に指定した関数filterByLifeをfilterFuncs配列に格納
 		filterFncs.push(
-			function(list) {
+			function (list) {
 				return filterByLife(list, $('.filter_life select').val());
 			}
 		);
 
 		//セレクトボックスの値を引数に指定した関数filterByCategoryをfilterFuncs配列に格納
 		filterFncs.push(
-			function(list) {
+			function (list) {
 				return filterByCategory(list, $('.filter_category select').val());
 			}
 		);
 
 		//セレクトボックスの値を引数に指定した関数filterByNayamiをfilterFuncs配列に格納
 		filterFncs.push(
-			function(list) {
+			function (list) {
 				return filterByNayami(list, $('.filter_nayami select').val());
 			}
 		);
 
 		//チェックボックスの値を引数に指定した関数filterByTagをfilterFuncs配列に格納
 		filterFncs.push(
-			function(list) {
+			function (list) {
 				return filterByTag(list, $('.filter_tag input:checked'));
 			}
 		);
 
 		//キーワードの値を引数に指定した関数filterByKeywordをfilterFuncs配列に格納
 		filterFncs.push(
-			function(list) {
+			function (list) {
 				return filterByKeyword(list, _.escape($('.filter_keyword input').val()));
 			}
 		);
 
 		//FilterFuncs配列内の関数をバケツリレーみたいに1つずつ実行して結果をresult配列に格納
-		result = _.reduce(filterFncs, function(list, fnc) {
+		result = _.reduce(filterFncs, function (list, fnc) {
 			return fnc(list);
 		}, allList);
 
@@ -264,7 +269,7 @@ $(function() {
 		}
 
 		//選択したセレクトボックスとlifeがマッチするかでフィルタリング
-		return _.filter(list, function(item) {
+		return _.filter(list, function (item) {
 			switch (value) {
 				case '1':
 					return item.life <= 100;
@@ -286,12 +291,12 @@ $(function() {
 		}
 
 		//選択したセレクトボックスとcategoryがマッチするかでフィルタリング
-		return _.filter(list, function(item) {
+		return _.filter(list, function (item) {
 			switch (value) {
 				case '1':
-					return item.category == "育毛剤";
+					return item.category == "キャットフード";
 				case '2':
-					return item.category == "育毛トニック";
+					return item.category == "キャットフード";
 			}
 		});
 	}
@@ -304,12 +309,12 @@ $(function() {
 		}
 
 		//選択したセレクトボックスとnayamiがマッチするかでフィルタリング
-		return _.filter(list, function(item) {
+		return _.filter(list, function (item) {
 			switch (value) {
 				case '1':
-					return item.nayami == "抜け毛";
+					return item.nayami == "食いつき";
 				case '2':
-					return item.nayami == "ふけ・かゆみ";
+					return item.nayami == "値段・健康";
 				case '3':
 					return item.nayami == "頭頂部";
 				case '4':
@@ -329,14 +334,14 @@ $(function() {
 		}
 
 		//選択した属性（チェックボックス）とtagがマッチするかでフィルタリング
-		return _.filter(list, function(item) {
+		return _.filter(list, function (item) {
 
 			var isMatch = false;
 
 			//配列同士の比較
-			_.each(value, function(chkItem, i) {
+			_.each(value, function (chkItem, i) {
 
-				_.each(item.tag, function(tagItem, i) {
+				_.each(item.tag, function (tagItem, i) {
 					if (tagItem === $(chkItem).val()) {
 						isMatch = true;
 					}
@@ -359,16 +364,16 @@ $(function() {
 		}
 
 		//検索キーワードを配列に格納（スペースがある場合は複数格納）
-		var freeAry = [];　
+		var freeAry = [];
 		var val = value.replace(/　/g, " ");
 		searchAry = val.split(" ");
 
 		//入力したキーワードがtitleもしくはdescriptionにマッチするかでフィルタリング
-		return _.filter(list, function(item) {
+		return _.filter(list, function (item) {
 
 			var isMatch = false;
 
-			_.each(searchAry, function(data, i) {
+			_.each(searchAry, function (data, i) {
 				if (item.title.indexOf(data) != -1 || item.category.indexOf(data) != -1 || item.nayami.indexOf(data) != -1 || item.description.indexOf(data) != -1) {
 					isMatch = true;
 				}
@@ -392,54 +397,58 @@ $(function() {
 クリックでスクロール
 ================================================================*/
 
-$(function() {
-  $('div[href^=#]').click(function() {
-      // スクロールの速度
-      var speed = 400; // ミリ秒
-      // アンカーの値取得
-      var href= $(this).attr("href");
-      // 移動先を取得
-      var target = $(href == "#" || href == "" ? 'html' : href);
-      // 移動先を数値で取得
-      var position = target.offset().top;
-      // スムーススクロール
-      $('body,html').animate({scrollTop:position}, speed, 'swing');
-      return false;
-   });
+$(function () {
+	$('div[href^=#]').click(function () {
+		// スクロールの速度
+		var speed = 400; // ミリ秒
+		// アンカーの値取得
+		var href = $(this).attr("href");
+		// 移動先を取得
+		var target = $(href == "#" || href == "" ? 'html' : href);
+		// 移動先を数値で取得
+		var position = target.offset().top;
+		// スムーススクロール
+		$('body,html').animate({
+			scrollTop: position
+		}, speed, 'swing');
+		return false;
+	});
 
-    //ページ内ジャンプ
-    // #で始まるアンカーをクリックした場合に処理
-   $('button[href^=#]').click(function() {
-      // スクロールの速度
-      var speed = 400; // ミリ秒
-      // アンカーの値取得
-      var href= $(this).attr("href");
-      // 移動先を取得
-      var target = $(href == "#" || href == "" ? 'html' : href);
-      // 移動先を数値で取得
-      var position = target.offset().top;
-      // スムーススクロール
-      $('body,html').animate({scrollTop:position}, speed, 'swing');
-      return false;
-   });
+	//ページ内ジャンプ
+	// #で始まるアンカーをクリックした場合に処理
+	$('button[href^=#]').click(function () {
+		// スクロールの速度
+		var speed = 400; // ミリ秒
+		// アンカーの値取得
+		var href = $(this).attr("href");
+		// 移動先を取得
+		var target = $(href == "#" || href == "" ? 'html' : href);
+		// 移動先を数値で取得
+		var position = target.offset().top;
+		// スムーススクロール
+		$('body,html').animate({
+			scrollTop: position
+		}, speed, 'swing');
+		return false;
+	});
 
-   	 //トップへ戻る
-    var topBtn = $('#page-top');
-    topBtn.hide();
-    //スクロールが100に達したらボタン表示
-    $(window).scroll(function () {
-        if ($(this).scrollTop() > 100) {
-            topBtn.fadeIn();
-        } else {
-            topBtn.fadeOut();
-        }
-    });
-    //スクロールしてトップ
-    topBtn.click(function () {
-        $('body,html').animate({
-            scrollTop: 0
-        }, 500);
-        return false;
-    });
+	//トップへ戻る
+	var topBtn = $('#page-top');
+	topBtn.hide();
+	//スクロールが100に達したらボタン表示
+	$(window).scroll(function () {
+		if ($(this).scrollTop() > 100) {
+			topBtn.fadeIn();
+		} else {
+			topBtn.fadeOut();
+		}
+	});
+	//スクロールしてトップ
+	topBtn.click(function () {
+		$('body,html').animate({
+			scrollTop: 0
+		}, 500);
+		return false;
+	});
 
 });
