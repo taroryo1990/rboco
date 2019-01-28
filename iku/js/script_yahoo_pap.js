@@ -48,18 +48,18 @@ $(function() {
 			link: "https://track.bannerbridge.net/click.php?APID=19628&affID=92390&siteID=181045"
 		},
 		{
-			id: "mintjc",
-			name: "Jメール",
+			id: "vivo",
+			name: "VIVO",
 			life: "安全",
-			price: "夢を叶える",
-			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"http://preaf.jp/pa.do?s=s98981&o=40569&guid=ON\">4位:夢が叶うJメール</a>",
+			price: "バイトでパパ活",
+			warranty: "会わないから安全",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=136100&affID=92390&siteID=180164\">4位:会わないパパ活のVI-VO</a>",
 			star: "4",
 			category: "育毛剤",
 			nayami: "頭頂部",
-			tag: ["ハイスペック男子","安全"],
-			description: "・掲示板で投稿して、理想の相手を見つける<br>・足跡機能で気になる男性チェック<br>・男性の本人確認があるため安全",
-			link: "http://preaf.jp/pa.do?s=s98981&o=40569&guid=ON"
+			tag: ["まじめ","安全"],
+			description: "・パパたちとチャットや電話でお話するお仕事<br>・登録ボーナスで8000円もらえる<br>・通話15秒ごとにお金が稼げるお仕事",
+			link: "https://track.bannerbridge.net/click.php?APID=136100&affID=92390&siteID=180164"
 		},
 		{
 			id: "lovesearch2",
