@@ -1,0 +1,20 @@
+document.addEventListener('DOMContentLoaded', () => {
+  const element = document.getElementById("pt");
+
+  if(element) {
+    const rate = element.getAttribute("rate");
+    var rand = Math.floor( Math.random() * 100);
+    if (rand < rate){
+      window._pt_lt = new Date().getTime();
+      window._pt_sp_2 = [];
+      _pt_sp_2.push('setAccount,6bcc6511');
+      var _protocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+      (function() {
+          var atag = document.createElement('script'); atag.type = 'text/javascript'; atag.async = true;
+          atag.src = _protocol + 'js.ptengine.jp/pta.js';
+          var s = document.getElementsByTagName('script')[0];
+          s.parentNode.insertBefore(atag, s);
+      })();
+    }
+  }
+});
