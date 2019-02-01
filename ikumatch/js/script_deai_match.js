@@ -67,7 +67,7 @@ $(function() {
 			life: "安全",
 			price: "健全に出会いする方",
 			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=19628&affID=92390&siteID=181045\">3位:イククル</a>",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=19628&affID=92390&siteID=181045\">5位:イククル</a>",
 			star: "4",
 			category: "育毛剤",
 			nayami: "頭頂部",
@@ -81,12 +81,12 @@ $(function() {
 			life: "安全",
 			price: "健全に出会いする方",
 			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=19628&affID=92390&siteID=181045\">3位:ウィンク</a>",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=19628&affID=92390&siteID=181045\">6位:ウィンク</a>",
 			star: "4",
 			category: "育毛剤",
 			nayami: "頭頂部",
 			tag: ["稼げる","人気"],
-			description: "・「年収」で検索できるプロフ検索が便利<br>・女性は登録無料で遊べる<br>・出会い専用サイトではないが、お金持ちの男性が多いのでオススメ",
+			description: "・30代以上の熟女が中心<br>・女性は登録無料で遊べる<br>・お金持ちの女性が多いのでオススメ",
 			link: "https://track.bannerbridge.net/click.php?APID=19628&affID=92390&siteID=181045"
 		},
 
