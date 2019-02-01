@@ -3,21 +3,21 @@ $(function() {
 	情報
 	================================================================*/
 	var allList = [
-
 		{
-			id: "wkwkmail2",
-			name: "わくわくメール",
-			life: "パパ活におすすめ",
-			price: "登録無料",
+			id: "happymail2",
+			name: "ハッピーメール",
+			life: "安全",
+			price: "じっくり探したい方向け",
 			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://mobee2.jp/ad/p/r?medium=3856&ad=608&suid=\">1位:わくわくメール</a>",
-			star: "4.5",
-			category: "育毛トニック",
-			nayami: "抜け毛",
-			tag: ["安全","人気"],
-			description: "ご飯デート機能（おねだり機能）でおごってくれる方を探せる<br>お金持ちの男性が多いので、稼ぎやすい<br>国内最大級の会員数！",
-			link: "https://mobee2.jp/ad/p/r?medium=3856&ad=608&suid="
+			title: "<a target=\"_blank\" href=\"https://meru-para.com/?mdc=4806\">1位:ハッピーメール</a>",
+			star: "4",
+			category: "育毛剤",
+			nayami: "頭頂部",
+			tag: ["稼げる","人気"],
+			description: "・ハイスペック男性が多数登録<br>・男性は前払いなのでお金持ちが多い<br>・プロフィール検索が細かいので、簡単にお相手を探せる",
+			link: "https://meru-para.com/?mdc=4806"
 		},
+
 		{
 			id: "merupara2",
 			name: "メルパラ",
@@ -32,50 +32,63 @@ $(function() {
 			description: "・ハイスペック男性が多数登録<br>・男性は前払いなのでお金持ちが多い<br>・プロフィール検索が細かいので、簡単にお相手を探せる",
 			link: "https://meru-para.com/?mdc=4806"
 		},
+		{
+			id: "mintjc",
+			name: "Jメール",
+			life: "安全",
+			price: "じっくり探したい方向け",
+			warranty: "大手運営",
+			title: "<a target=\"_blank\" href=\"https://meru-para.com/?mdc=4806\">3位:ミントC-Jメール</a>",
+			star: "4",
+			category: "育毛剤",
+			nayami: "頭頂部",
+			tag: ["稼げる","人気"],
+			description: "・ハイスペック男性が多数登録<br>・男性は前払いなのでお金持ちが多い<br>・プロフィール検索が細かいので、簡単にお相手を探せる",
+			link: "https://meru-para.com/?mdc=4806"
+		},
 
+		{
+			id: "wkwkmail2",
+			name: "わくわくメール",
+			life: "出会いにおすすめ",
+			price: "登録無料",
+			warranty: "大手運営",
+			title: "<a target=\"_blank\" href=\"https://mobee2.jp/ad/p/r?medium=3856&ad=608&suid=\">4位:わくわくメール</a>",
+			star: "4.5",
+			category: "育毛トニック",
+			nayami: "抜け毛",
+			tag: ["安全","人気"],
+			description: "ご飯デート機能（おねだり機能）でおごってくれる方を探せる<br>お金持ちの男性が多いので、稼ぎやすい<br>国内最大級の会員数！",
+			link: "https://mobee2.jp/ad/p/r?medium=3856&ad=608&suid="
+		},
 		{
 			id: "ikukuru2",
 			name: "イククル",
 			life: "安全",
-			price: "健全にパパ活する方",
+			price: "健全に出会いする方",
 			warranty: "大手運営",
 			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=19628&affID=92390&siteID=181045\">3位:イククル</a>",
 			star: "4",
 			category: "育毛剤",
 			nayami: "頭頂部",
 			tag: ["稼げる","人気"],
-			description: "・「年収」で検索できるプロフ検索が便利<br>・女性は登録無料で遊べる<br>・パパ活専用サイトではないが、お金持ちの男性が多いのでオススメ",
+			description: "・「年収」で検索できるプロフ検索が便利<br>・女性は登録無料で遊べる<br>・出会い専用サイトではないが、お金持ちの男性が多いのでオススメ",
 			link: "https://track.bannerbridge.net/click.php?APID=19628&affID=92390&siteID=181045"
 		},
 		{
-			id: "vivo",
-			name: "VIVO",
+			id: "wink",
+			name: "ウィンク",
 			life: "安全",
-			price: "バイトでパパ活",
-			warranty: "会わないから安全",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=136100&affID=92390&siteID=180164\">4位:会わないパパ活のVI-VO</a>",
-			star: "4",
-			category: "育毛剤",
-			nayami: "頭頂部",
-			tag: ["まじめ","安全"],
-			description: "・パパたちとチャットや電話でお話するお仕事<br>・登録ボーナスで8000円もらえる<br>・通話15秒ごとにお金が稼げるお仕事",
-			link: "https://track.bannerbridge.net/click.php?APID=136100&affID=92390&siteID=180164"
-		},
-		{
-			id: "lovesearch2",
-			name: "ラブサーチ",
-			life: "安全",
-			price: "セキュリティ重視",
+			price: "健全に出会いする方",
 			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"http://www.medipartner.jp/click.php?APID=10345&affID=0004571\">5位:ラブサーチ</a>",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=19628&affID=92390&siteID=181045\">3位:ウィンク</a>",
 			star: "4",
 			category: "育毛剤",
 			nayami: "頭頂部",
-			tag: ["まじめ","安全"],
-			description: "・パパ活もできる出会い系<br>・365日監視体制でサポート可能<br>・男性に対して厳しい審査も行っているので安心",
-			link: "http://www.medipartner.jp/click.php?APID=10345&affID=0004571"
+			tag: ["稼げる","人気"],
+			description: "・「年収」で検索できるプロフ検索が便利<br>・女性は登録無料で遊べる<br>・出会い専用サイトではないが、お金持ちの男性が多いのでオススメ",
+			link: "https://track.bannerbridge.net/click.php?APID=19628&affID=92390&siteID=181045"
 		},
-
 
 		{
 			id: "hananokai2",
@@ -92,34 +105,6 @@ $(function() {
 			link: "https://px.a8.net/svt/ejp?a8mat=2ZIWSG+70FU1M+1T5K+1CGWCX"
 		},
 
-		{
-			id: "sugar2",
-			name: "シュガーダディ",
-			life: "安全",
-			price: "パパ活専用サイト",
-			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://t.afi-b.com/visit.php?guid=ON&a=B83609-r2812046&p=C6609048\">7位:シュガーダディ</a>",
-			star: "4",
-			category: "育毛剤",
-			nayami: "頭頂部",
-			tag: ["まじめ","安全"],
-			description: "・パパ活専用サイトだから、パパしたい男性が集まる<br>・堂々とパパ活が出来ちゃう<br>・ハイレベルな男性が多数登録していると話題",
-			link: "https://t.afi-b.com/visit.php?guid=ON&a=B83609-r2812046&p=C6609048"
-		},
-		{
-			id: "universe2",
-			name: "ユニバース",
-			life: "安全",
-			price: "健全に活動する方",
-			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=157403&affID=92390&siteID=181045\">8位:ユニバース</a>",
-			star: "4",
-			category: "育毛剤",
-			nayami: "頭頂部",
-			tag: ["パパ専用","金持ち"],
-			description: "・男性がお金を払って登録するから質が高い人が多い<br>・交際倶楽部が運営しているパパ活サイト<br>男性は富裕層チェック面接を合格した人だけ",
-			link: "https://track.bannerbridge.net/click.php?APID=157403&affID=92390&siteID=181045"
-		},
 			];
 
 	/*================================================================
