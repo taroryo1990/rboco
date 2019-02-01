@@ -76,7 +76,7 @@ $(function() {
 			link: "https://track.bannerbridge.net/click.php?APID=19628&affID=92390&siteID=181045"
 		},
 		{
-			id: "wink",
+			id: "wink2",
 			name: "ウィンク",
 			life: "安全",
 			price: "健全に出会いする方",
