@@ -9,13 +9,13 @@ $(function() {
 			life: "安全",
 			price: "じっくり探したい方向け",
 			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://meru-para.com/?mdc=4806\">1位:ハッピーメール</a>",
+			title: "<a target=\"_blank\" href=\"http://www.medipartner.jp/click.php?APID=22428&affID=0004571\">1位:ハッピーメール</a>",
 			star: "4",
 			category: "育毛剤",
 			nayami: "頭頂部",
 			tag: ["稼げる","人気"],
 			description: "・ハイスペック男性が多数登録<br>・男性は前払いなのでお金持ちが多い<br>・プロフィール検索が細かいので、簡単にお相手を探せる",
-			link: "https://meru-para.com/?mdc=4806"
+			link: "http://www.medipartner.jp/click.php?APID=22428&affID=0004571"
 		},
 
 		{
@@ -38,13 +38,13 @@ $(function() {
 			life: "安全",
 			price: "じっくり探したい方向け",
 			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://meru-para.com/?mdc=4806\">3位:ミントC-Jメール</a>",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=152699&affID=92390&siteID=181045\">3位:ミントC-Jメール</a>",
 			star: "4",
 			category: "育毛剤",
 			nayami: "頭頂部",
 			tag: ["稼げる","人気"],
 			description: "・ハイスペック男性が多数登録<br>・男性は前払いなのでお金持ちが多い<br>・プロフィール検索が細かいので、簡単にお相手を探せる",
-			link: "https://meru-para.com/?mdc=4806"
+			link: "https://track.bannerbridge.net/click.php?APID=152699&affID=92390&siteID=181045"
 		},
 
 		{
@@ -81,13 +81,13 @@ $(function() {
 			life: "安全",
 			price: "健全に出会いする方",
 			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=19628&affID=92390&siteID=181045\">6位:ウィンク</a>",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=156116&affID=92390&siteID=18104\">6位:ウィンク</a>",
 			star: "4",
 			category: "育毛剤",
 			nayami: "頭頂部",
 			tag: ["稼げる","人気"],
 			description: "・30代以上の熟女が中心<br>・女性は登録無料で遊べる<br>・お金持ちの女性が多いのでオススメ",
-			link: "https://track.bannerbridge.net/click.php?APID=19628&affID=92390&siteID=181045"
+			link: "https://track.bannerbridge.net/click.php?APID=156116&affID=92390&siteID=18104"
 		},
 
 		{
