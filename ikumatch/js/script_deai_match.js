@@ -29,21 +29,21 @@ $(function() {
 			category: "育毛剤",
 			nayami: "頭頂部",
 			tag: ["稼げる","人気"],
-			description: "・ハイスペック男性が多数登録<br>・男性は前払いなのでお金持ちが多い<br>・プロフィール検索が細かいので、簡単にお相手を探せる",
+			description: "・遊び相手を探している女性が多いと口コミ<br>・見た目は清楚っぽい女性が多い<br>・掲示板で簡単にお相手を探せる",
 			link: "https://meru-para.com/?mdc=4806"
 		},
 		{
 			id: "mintjc",
 			name: "Jメール",
 			life: "安全",
-			price: "じっくり探したい方向け",
+			price: "複数の方と出会いたい方向け",
 			warranty: "大手運営",
 			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=152699&affID=92390&siteID=181045\">3位:ミントC-Jメール</a>",
 			star: "4",
 			category: "育毛剤",
 			nayami: "頭頂部",
 			tag: ["稼げる","人気"],
-			description: "・ハイスペック男性が多数登録<br>・男性は前払いなのでお金持ちが多い<br>・プロフィール検索が細かいので、簡単にお相手を探せる",
+			description: "・看護師、保育士、OLが多い<br>・掲示板機能を使って多くの人とメッセージのやりとりができる",
 			link: "https://track.bannerbridge.net/click.php?APID=152699&affID=92390&siteID=181045"
 		},
 
@@ -58,7 +58,7 @@ $(function() {
 			category: "育毛トニック",
 			nayami: "抜け毛",
 			tag: ["安全","人気"],
-			description: "ご飯デート機能（おねだり機能）でおごってくれる方を探せる<br>お金持ちの男性が多いので、稼ぎやすい<br>国内最大級の会員数！",
+			description: "ご飯デート機能（おねだり機能）でおごってくれる方を探せる<br>お金持ちの男性・女性が多いので、おごってもらうことが多いとの口コミ！",
 			link: "https://mobee2.jp/ad/p/r?medium=3856&ad=608&suid="
 		},
 		{
@@ -96,7 +96,7 @@ $(function() {
 			life: "安全な",
 			price: "30代以上メイン",
 			warranty: "非常に高い",
-			title: "<a target=\"_blank\" href=\"https://px.a8.net/svt/ejp?a8mat=2ZIWSG+70FU1M+1T5K+1CGWCX\">6位:華の会メール</a>",
+			title: "<a target=\"_blank\" href=\"https://px.a8.net/svt/ejp?a8mat=2ZIWSG+70FU1M+1T5K+1CGWCX\">7位:華の会メール</a>",
 			star: "3.5",
 			category: "育毛剤",
 			nayami: "抜け毛",
