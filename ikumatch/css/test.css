@@ -42,9 +42,9 @@ header
 
 .logo {
 	position: relative;
-	margin-bottom: 20px;
-	height: 180px;
-	background: skyblue;
+	margin-bottom: 30px;
+	height: 200px;
+	background: #00FFFF;
 }
 
 .angle {
@@ -52,7 +52,7 @@ header
 	top: 20px;
 	left: -25px;
 	display: inline-block;
-	background-color: #00FFFF;
+	background-color: #33FF33;
 	font-size: 24px;
 	transform: rotate(-26deg);
 }
@@ -91,11 +91,11 @@ header
 
 .title-logo {
 	position: absolute;
-	top: 50px;
+	top: 40px;
 	left: 20px;
 	color: white;
 	font-weight: bold;
-	font-size: 50px;
+	font-size: 45px;
 }
 
 .title-logo span {
@@ -105,7 +105,7 @@ header
 		2px -2px 1px #383636,
 		-2px -2px 1px #383636,
 		3px 3px 6px #383636;
-	font-size: 60px;
+	font-size: 50px;
 }
 
 .go-to-ranking {
@@ -567,7 +567,7 @@ footer {
 
 	.title-logo,
 	.title-logo span {
-		font-size: 50px;
+		font-size: 40px;
 	}
 
 	.product-name {
@@ -627,7 +627,7 @@ footer {
 
 	.title-logo,
 	.title-logo span {
-		font-size: 30px;
+		font-size: 20px;
 	}
 
 	.logo-img-2 {
@@ -789,7 +789,7 @@ footer {
 	.title-logo span {
 		top: 50px;
 		left: 0;
-		font-size: 22px;
+		font-size: 23px;
 	}
 
 	.angle {
@@ -809,7 +809,7 @@ footer {
 	}
 
 	.logo {
-		height: 100px;
+		height: 120px;
 	}
 
 	.rank-right {
