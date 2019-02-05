@@ -7,14 +7,14 @@ $(function() {
 			id: "happymail2",
 			name: "ハッピーメール",
 			life: "安全",
-			price: "遊び相手探したい方向け",
+			price: "20代女性と会いたい方",
 			warranty: "大手運営",
 			title: "<a target=\"_blank\" href=\"http://www.medipartner.jp/click.php?APID=22428&affID=0004571\">1位:ハッピーメール</a>",
 			star: "4",
 			category: "育毛剤",
 			nayami: "頭頂部",
-			tag: ["稼げる","人気"],
-			description: "・美人の女性が多数登録<br>・女性人数多数。サクラがいない<br>・プロフィール検索が細かいので、簡単にお相手を探せる",
+			tag: ["女性若い","人気"],
+			description: "プロフィール検索が細かい、目的別に検索可能<br>・SNS連携なしで匿名で遊べる<br>・20代女性中心で若い方が多い",
 			link: "http://www.medipartner.jp/click.php?APID=22428&affID=0004571"
 		},
 
@@ -28,22 +28,22 @@ $(function() {
 			star: "4",
 			category: "育毛剤",
 			nayami: "頭頂部",
-			tag: ["稼げる","人気"],
-			description: "・遊び相手を探している女性が多いと口コミ<br>・見た目は清楚っぽい女性が多い<br>・掲示板で簡単にお相手を探せる",
+			tag: ["セ◯レ","人気"],
+			description: "・ア◯ルト掲示板があり、ワンナイトも可能<br>・人妻に会いたい人などオトナ向け<br>・掲示板で簡単にお相手を探せる",
 			link: "https://meru-para.com/?mdc=4806"
 		},
 		{
 			id: "mintjc",
 			name: "Jメール",
 			life: "安全",
-			price: "複数の方と出会いたい方向け",
+			price: "ワンナイト目的も可能",
 			warranty: "大手運営",
 			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=152699&affID=92390&siteID=181045\">3位:ミントC-Jメール</a>",
 			star: "4",
 			category: "育毛剤",
 			nayami: "頭頂部",
-			tag: ["稼げる","人気"],
-			description: "・看護師、保育士、OLが多い<br>・掲示板機能を使って多くの人とメッセージのやりとりができる",
+			tag: ["ワン◯イト","人気"],
+			description: "・看護師、保育士、OLが多い<br>・ニックネーム制で本名不要<br>・黒髪清楚な方が多いと口コミ",
 			link: "https://track.bannerbridge.net/click.php?APID=152699&affID=92390&siteID=181045"
 		},
 
@@ -62,47 +62,48 @@ $(function() {
 			link: "https://mobee2.jp/ad/p/r?medium=3856&ad=608&suid="
 		},
 		{
-			id: "ikukuru2",
-			name: "イククル",
-			life: "安全",
-			price: "健全に出会いする方",
-			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=19628&affID=92390&siteID=181045\">5位:イククル</a>",
-			star: "4",
-			category: "育毛剤",
-			nayami: "頭頂部",
-			tag: ["稼げる","人気"],
-			description: "・「年収」で検索できるプロフ検索が便利<br>・女性は登録無料で遊べる<br>・出会い専用サイトではないが、お金持ちの男性が多いのでオススメ",
-			link: "https://track.bannerbridge.net/click.php?APID=19628&affID=92390&siteID=181045"
-		},
-		{
-			id: "wink2",
-			name: "ウィンク",
-			life: "安全",
-			price: "健全に出会いする方",
-			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=156116&affID=92390&siteID=18104\">6位:ウィンク</a>",
-			star: "4",
-			category: "育毛剤",
-			nayami: "頭頂部",
-			tag: ["稼げる","人気"],
-			description: "・30代以上の熟女が中心<br>・女性は登録無料で遊べる<br>・お金持ちの女性が多いのでオススメ",
-			link: "https://track.bannerbridge.net/click.php?APID=156116&affID=92390&siteID=18104"
-		},
-
-		{
 			id: "hananokai2",
 			name: "華の会メール",
 			life: "安全な",
 			price: "30代以上メイン",
 			warranty: "非常に高い",
-			title: "<a target=\"_blank\" href=\"https://px.a8.net/svt/ejp?a8mat=2ZIWSG+70FU1M+1T5K+1CGWCX\">7位:華の会メール</a>",
+			title: "<a target=\"_blank\" href=\"https://px.a8.net/svt/ejp?a8mat=2ZIWSG+70FU1M+1T5K+1CGWCX\">5位:華の会メール</a>",
 			star: "3.5",
 			category: "育毛剤",
 			nayami: "抜け毛",
 			tag: ["大人女性","真剣度"],
-			description: "・30歳以上限定サイト<br>・男性の年齢が高いため、パパ・パトロン探しに最適<br>・Tポイントがたまる制度あり",
+			description: "・30歳以上限定サイト<br>・男性の年齢が高いため、ハイスペック男性探しに最適<br>・Tポイントがたまる制度あり",
 			link: "https://px.a8.net/svt/ejp?a8mat=2ZIWSG+70FU1M+1T5K+1CGWCX"
+		},
+
+		{
+			id: "wink2",
+			name: "ウィンク",
+			life: "安全",
+			price: "愛人・人妻と出会いたい方",
+			warranty: "大手運営",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=156116&affID=92390&siteID=18104\">6位:ウィンク</a>",
+			star: "4",
+			category: "育毛剤",
+			nayami: "頭頂部",
+			tag: ["熟女","人気"],
+			description: "・30代以上の熟女が中心<br>・女性は登録無料で遊べる<br>・30代以上なので、お金持ちの女性が多い",
+			link: "https://track.bannerbridge.net/click.php?APID=156116&affID=92390&siteID=18104"
+		},
+
+		{
+			id: "ikukuru2",
+			name: "イククル",
+			life: "安全",
+			price: "完全匿名",
+			warranty: "大手運営",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=19628&affID=92390&siteID=181045\">7位:イククル</a>",
+			star: "4",
+			category: "育毛剤",
+			nayami: "頭頂部",
+			tag: ["稼げる","人気"],
+			description: "・「匿名」で秘密の出会いができる<br>・オトナ専用の有料コミュニティサイト<br>・お金持ちの男性が多いのでオススメ",
+			link: "https://track.bannerbridge.net/click.php?APID=19628&affID=92390&siteID=181045"
 		},
 
 			];
