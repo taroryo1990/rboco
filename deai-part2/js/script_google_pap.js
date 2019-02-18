@@ -19,6 +19,21 @@ $(function() {
 			link: "https://mobee2.jp/ad/p/r?medium=3856&ad=608&suid="
 		},
 		{
+			id: "happymail2",
+			name: "ハッピーメール",
+			life: "出会いにおすすめ",
+			price: "女性無料",
+			warranty: "大手運営",
+			title: "<a target=\"_blank\" href=\"https://preaf.jp/pa.do?s=v01327&o=38443&guid=ON\">2位:ハッピーメール</a>",
+			star: "4.5",
+			category: "育毛トニック",
+			nayami: "抜け毛",
+			tag: ["安全","人気"],
+			description: "富裕層の男性を探せる<br>お金持ちの男性が多いので、稼ぎやすい<br>未婚経営者などハイスペック男性多数！",
+			link: "https://preaf.jp/pa.do?s=v01327&o=38443&guid=ON"
+		},
+
+		{
 			id: "merupara2",
 			name: "メルパラ",
 			life: "安全",
