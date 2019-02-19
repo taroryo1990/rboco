@@ -4,27 +4,12 @@ $(function() {
 	================================================================*/
 	var allList = [
 		{
-			id: "happymail2",
-			name: "ハッピーメール",
-			life: "安全",
-			price: "20代女性と会いたい方",
-			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"http://www.medipartner.jp/click.php?APID=22428&affID=0004571\">1位:ハッピーメール</a>",
-			star: "5",
-			category: "育毛剤",
-			nayami: "頭頂部",
-			tag: ["女性若い","人気"],
-			description: "プロフィール検索が細かい、目的別に検索可能<br>・SNS連携なしで匿名で遊べる<br>・20代女性中心で若い方が多い",
-			link: "http://www.medipartner.jp/click.php?APID=22428&affID=0004571"
-		},
-
-		{
 			id: "merupara2",
 			name: "メルパラ",
 			life: "安全",
 			price: "セ◯レを探したい方向け",
 			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=159209&affID=92390&siteID=181045\">2位:メルパラ</a>",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=159209&affID=92390&siteID=181045\">1位:メルパラ</a>",
 			star: "5",
 			category: "育毛剤",
 			nayami: "頭頂部",
@@ -32,25 +17,41 @@ $(function() {
 			description: "・ア◯ルト掲示板があり、ワンナイトも可能<br>・人妻に会いたい人などオトナ向け<br>・掲示板で簡単にお相手を探せる",
 			link: "https://track.bannerbridge.net/click.php?APID=159209&affID=92390&siteID=181045"
 		},
+
+		{
+			id: "happymail2",
+			name: "ハッピーメール",
+			life: "安全",
+			price: "ピュア掲示板がおすすめ",
+			warranty: "大手運営",
+			title: "<a target=\"_blank\" href=\"http://www.medipartner.jp/click.php?APID=22428&affID=0004571\">2位:ハッピーメール</a>",
+			star: "5",
+			category: "育毛剤",
+			nayami: "頭頂部",
+			tag: ["女性若い","人気"],
+			description: "・「今すぐ遊ぼ」ボタンでワンナ◯ト可能<br>・プロフィール検索が細かい、目的別に検索可能<br>・20代女性中心で若い方が多い",
+			link: "http://www.medipartner.jp/click.php?APID=22428&affID=0004571"
+		},
+
 		{
 			id: "mintjc",
 			name: "Jメール",
 			life: "安全",
-			price: "ワンナイト目的も可能",
+			price: "ワンナイト目的のアダ◯ト掲示板",
 			warranty: "大手運営",
 			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=152699&affID=92390&siteID=181045\">3位:ミントC-Jメール</a>",
 			star: "4.5",
 			category: "育毛剤",
 			nayami: "頭頂部",
 			tag: ["ワン◯イト","人気"],
-			description: "・看護師、保育士、OLが多い<br>・ニックネーム制で本名不要<br>・黒髪清楚な方が多いと口コミ",
+			description: "・アダルト掲示板で女性が多い<br>・ニックネーム制で本名不要<br>・パパ活目的で会ってヤレルと口コミ",
 			link: "https://track.bannerbridge.net/click.php?APID=152699&affID=92390&siteID=181045"
 		},
 
 		{
 			id: "wkwkmail2",
 			name: "わくわくメール",
-			life: "出会いにおすすめ",
+			life: "パパ活相手にも",
 			price: "登録無料",
 			warranty: "大手運営",
 			title: "<a target=\"_blank\" href=\"https://mobee2.jp/ad/p/r?medium=3856&ad=608&suid=\">4位:わくわくメール</a>",
@@ -58,7 +59,7 @@ $(function() {
 			category: "育毛トニック",
 			nayami: "抜け毛",
 			tag: ["安全","人気"],
-			description: "ご飯デート機能（おねだり機能）でおごってくれる方を探せる<br>お金持ちの男性・女性が多いので、おごってもらうことが多いとの口コミ！",
+			description: "ご飯デート機能（おねだり機能）で女性と会える<br>体相手してくれる目的の女性多いのでサクラが少ない！",
 			link: "https://mobee2.jp/ad/p/r?medium=3856&ad=608&suid="
 		},
 		{
