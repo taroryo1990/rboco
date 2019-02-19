@@ -29,7 +29,7 @@ $(function() {
 			category: "育毛剤",
 			nayami: "頭頂部",
 			tag: ["稼げる","人気"],
-			description: "・ハイスペック女性が多数登録<br>・女性は前払いなのでお金持ちが多い<br>・プロフィール検索が細かいので、簡単にお相手を探せる",
+			description: "・ハイスペック女性が多数登録<br>・きれいな女性が多数登録<br>・プロフィール検索が細かいので、簡単にお相手を探せる",
 			link: "https://track.bannerbridge.net/click.php?APID=159209&affID=92390&siteID=181045"
 		},
 		{
