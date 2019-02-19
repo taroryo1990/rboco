@@ -7,7 +7,7 @@ $(function() {
 			id: "merupara2",
 			name: "メルパラ",
 			life: "安全",
-			price: "セ◯レを探したい方向け",
+			price: "セ◯レ掲示板がおすすめ",
 			warranty: "大手運営",
 			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=159209&affID=92390&siteID=181045\">1位:メルパラ</a>",
 			star: "5",
