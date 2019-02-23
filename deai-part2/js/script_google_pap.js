@@ -18,13 +18,28 @@ $(function() {
 			description: "ご飯デート機能（おねだり機能）でおごってくれる方を探せる<br>お金持ちの男性が多いので、稼ぎやすい<br>国内最大級の会員数！",
 			link: "https://mobee2.jp/ad/p/r?medium=3856&ad=608&suid="
 		},
+
+		{
+			id: "merupara2",
+			name: "メルパラ",
+			life: "安全",
+			price: "じっくり探したい方向け",
+			warranty: "大手運営",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=159209&affID=92390&siteID=181045\">2位:メルパラ</a>",
+			star: "4",
+			category: "育毛剤",
+			nayami: "頭頂部",
+			tag: ["稼げる","人気"],
+			description: "・ハイスペック男性が多数登録<br>・男性は前払いなのでお金持ちが多い<br>・プロフィール検索が細かいので、簡単にお相手を探せる",
+			link: "https://track.bannerbridge.net/click.php?APID=159209&affID=92390&siteID=181045"
+		},
 		{
 			id: "happymail2",
 			name: "ハッピーメール",
 			life: "出会いにおすすめ",
 			price: "女性無料",
 			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://preaf.jp/pa.do?s=v01327&o=38443&guid=ON\">2位:ハッピーメール</a>",
+			title: "<a target=\"_blank\" href=\"https://preaf.jp/pa.do?s=v01327&o=38443&guid=ON\">3位:ハッピーメール</a>",
 			star: "4.5",
 			category: "育毛トニック",
 			nayami: "抜け毛",
@@ -33,35 +48,7 @@ $(function() {
 			link: "https://preaf.jp/pa.do?s=v01327&o=38443&guid=ON"
 		},
 
-		{
-			id: "merupara2",
-			name: "メルパラ",
-			life: "安全",
-			price: "じっくり探したい方向け",
-			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=159209&affID=92390&siteID=181045\">3位:メルパラ</a>",
-			star: "4",
-			category: "育毛剤",
-			nayami: "頭頂部",
-			tag: ["稼げる","人気"],
-			description: "・ハイスペック男性が多数登録<br>・男性は前払いなのでお金持ちが多い<br>・プロフィール検索が細かいので、簡単にお相手を探せる",
-			link: "https://track.bannerbridge.net/click.php?APID=159209&affID=92390&siteID=181045"
-		},
 
-		{
-			id: "ikukuru2",
-			name: "イククル",
-			life: "安全",
-			price: "健全にパパ活する方",
-			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=19628&affID=92390&siteID=181045\">4位:イククル</a>",
-			star: "4",
-			category: "育毛剤",
-			nayami: "頭頂部",
-			tag: ["稼げる","人気"],
-			description: "・「年収」で検索できるプロフ検索が便利<br>・女性は登録無料で遊べる<br>・パパ活専用サイトではないが、お金持ちの男性が多いのでオススメ",
-			link: "https://track.bannerbridge.net/click.php?APID=19628&affID=92390&siteID=181045"
-		},
 		{
 			id: "vivo",
 			name: "VIVO",
