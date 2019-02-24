@@ -410,7 +410,7 @@ blockquote:after{
 	}
 
 blockquote a{
-	color: #15a5e6;
+	color: #CCFFFF;
 }
 
 blockquote a:hover,
@@ -1919,15 +1919,15 @@ thead tr .w25 {
 
 .btn-detail{
 	width: 95%;
-	color: #4b3a24;
-	background: #FF8C00;
+	color: white;
+	background: #33FFFF;
 	font-size:1.0em;
     font-weight: bold!important;
 	margin: 10px 5px 10px 5px;
 }
 
 .btn-detail:hover{
-	background: #ffc98a !important;
+	background: #00FFFF !important;
 }
 
 .btn-detail span{
@@ -2678,42 +2678,42 @@ html:not(:target) .talker img{
 	padding-left: 45px;
 }
 
-.ranking-list01 .rank01 .rank-title{ background: #fff6a3 url(../images/icon/icon-rank06-01.png) left top no-repeat; }
-.ranking-list01 .rank02 .rank-title{ background: #fff6a3 url(../images/icon/icon-rank06-02.png) left top no-repeat; }
-.ranking-list01 .rank03 .rank-title{ background: #fff6a3 url(../images/icon/icon-rank06-03.png) left top no-repeat; }
-.ranking-list01 .rank04 .rank-title{ background: #fff6a3 url(../images/icon/icon-rank06-04.png) left top no-repeat; }
-.ranking-list01 .rank05 .rank-title{ background: #fff6a3 url(../images/icon/icon-rank06-05.png) left top no-repeat; }
-.ranking-list01 .rank06 .rank-title{ background: #fff6a3 url(../images/icon/icon-rank06-06.png) left top no-repeat; }
-.ranking-list01 .rank07 .rank-title{ background: #fff6a3 url(../images/icon/icon-rank06-07.png) left top no-repeat; }
-.ranking-list01 .rank08 .rank-title{ background: #fff6a3 url(../images/icon/icon-rank06-08.png) left top no-repeat; }
-.ranking-list01 .rank09 .rank-title{ background: #fff6a3 url(../images/icon/icon-rank06-09.png) left top no-repeat; }
-.ranking-list01 .rank010 .rank-title{ background: #fff6a3 url(../images/icon/icon-rank06-10.png) left top no-repeat; }
-.ranking-list01 .rank011 .rank-title{ background: #fff6a3;}
-.ranking-list01 .rank012 .rank-title{ background: #fff6a3;}
-.ranking-list01 .rank013 .rank-title{ background: #fff6a3;}
-.ranking-list01 .rank014 .rank-title{ background: #fff6a3;}
-.ranking-list01 .rank015 .rank-title{ background: #fff6a3;}
-.ranking-list01 .rank016 .rank-title{ background: #fff6a3;}
-.ranking-list01 .rank017 .rank-title{ background: #fff6a3;}
-.ranking-list01 .rank018 .rank-title{ background: #fff6a3;}
-.ranking-list01 .rank019 .rank-title{ background: #fff6a3;}
-.ranking-list01 .rank020 .rank-title{ background: #fff6a3;}
-.ranking-list01 .rank021 .rank-title{ background: #fff6a3;}
-.ranking-list01 .rank-spe .rank-title{ background: #fff6a3;}
+.ranking-list01 .rank01 .rank-title{ background: #0F0 url(../images/icon/icon-rank06-01.png) left top no-repeat; }
+.ranking-list01 .rank02 .rank-title{ background: #0F0 url(../images/icon/icon-rank06-02.png) left top no-repeat; }
+.ranking-list01 .rank03 .rank-title{ background: #0F0 url(../images/icon/icon-rank06-03.png) left top no-repeat; }
+.ranking-list01 .rank04 .rank-title{ background: #0F0 url(../images/icon/icon-rank06-04.png) left top no-repeat; }
+.ranking-list01 .rank05 .rank-title{ background: #0F0 url(../images/icon/icon-rank06-05.png) left top no-repeat; }
+.ranking-list01 .rank06 .rank-title{ background: #0F0 url(../images/icon/icon-rank06-06.png) left top no-repeat; }
+.ranking-list01 .rank07 .rank-title{ background: #0F0 url(../images/icon/icon-rank06-07.png) left top no-repeat; }
+.ranking-list01 .rank08 .rank-title{ background: #0F0 url(../images/icon/icon-rank06-08.png) left top no-repeat; }
+.ranking-list01 .rank09 .rank-title{ background: #0F0 url(../images/icon/icon-rank06-09.png) left top no-repeat; }
+.ranking-list01 .rank010 .rank-title{ background: #0F0 url(../images/icon/icon-rank06-10.png) left top no-repeat; }
+.ranking-list01 .rank011 .rank-title{ background: #0F0;}
+.ranking-list01 .rank012 .rank-title{ background: #0F0;}
+.ranking-list01 .rank013 .rank-title{ background: #0F0;}
+.ranking-list01 .rank014 .rank-title{ background: #0F0;}
+.ranking-list01 .rank015 .rank-title{ background: #0F0;}
+.ranking-list01 .rank016 .rank-title{ background: #0F0;}
+.ranking-list01 .rank017 .rank-title{ background: #0F0;}
+.ranking-list01 .rank018 .rank-title{ background: #0F0;}
+.ranking-list01 .rank019 .rank-title{ background: #0F0;}
+.ranking-list01 .rank020 .rank-title{ background: #0F0;}
+.ranking-list01 .rank021 .rank-title{ background: #0F0;}
+.ranking-list01 .rank-spe .rank-title{ background: #0F0;}
 
 	/*Retina（高解像度）ディスプレイ用*/
 	@media screen and (-webkit-min-device-pixel-ratio:2),
 	(min-resolution: 2dppx){
-		.ranking-list01 .rank01 .rank-title{ background: #fff6a3 url(../images/icon/icon-rank06-01@2x.png) left top no-repeat; }
-		.ranking-list01 .rank02 .rank-title{ background: #fff6a3 url(../images/icon/icon-rank06-02@2x.png) left top no-repeat; }
-		.ranking-list01 .rank03 .rank-title{ background: #fff6a3 url(../images/icon/icon-rank06-03@2x.png) left top no-repeat; }
-		.ranking-list01 .rank04 .rank-title{ background: #fff6a3 url(../images/icon/icon-rank06-04@2x.png) left top no-repeat; }
-		.ranking-list01 .rank05 .rank-title{ background: #fff6a3 url(../images/icon/icon-rank06-05@2x.png) left top no-repeat; }
-		.ranking-list01 .rank06 .rank-title{ background: #fff6a3 url(../images/icon/icon-rank06-06@2x.png) left top no-repeat; }
-		.ranking-list01 .rank07 .rank-title{ background: #fff6a3 url(../images/icon/icon-rank06-07@2x.png) left top no-repeat; }
-		.ranking-list01 .rank08 .rank-title{ background: #fff6a3 url(../images/icon/icon-rank06-08@2x.png) left top no-repeat; }
-		.ranking-list01 .rank09 .rank-title{ background: #fff6a3 url(../images/icon/icon-rank06-09@2x.png) left top no-repeat; }
-		.ranking-list01 .rank10 .rank-title{ background: #fff6a3 url(../images/icon/icon-rank06-10@2x.png) left top no-repeat; }
+		.ranking-list01 .rank01 .rank-title{ background: #0F0 url(../images/icon/icon-rank06-01@2x.png) left top no-repeat; }
+		.ranking-list01 .rank02 .rank-title{ background: #0F0 url(../images/icon/icon-rank06-02@2x.png) left top no-repeat; }
+		.ranking-list01 .rank03 .rank-title{ background: #0F0 url(../images/icon/icon-rank06-03@2x.png) left top no-repeat; }
+		.ranking-list01 .rank04 .rank-title{ background: #0F0 url(../images/icon/icon-rank06-04@2x.png) left top no-repeat; }
+		.ranking-list01 .rank05 .rank-title{ background: #0F0 url(../images/icon/icon-rank06-05@2x.png) left top no-repeat; }
+		.ranking-list01 .rank06 .rank-title{ background: #0F0 url(../images/icon/icon-rank06-06@2x.png) left top no-repeat; }
+		.ranking-list01 .rank07 .rank-title{ background: #0F0 url(../images/icon/icon-rank06-07@2x.png) left top no-repeat; }
+		.ranking-list01 .rank08 .rank-title{ background: #0F0 url(../images/icon/icon-rank06-08@2x.png) left top no-repeat; }
+		.ranking-list01 .rank09 .rank-title{ background: #0F0 url(../images/icon/icon-rank06-09@2x.png) left top no-repeat; }
+		.ranking-list01 .rank10 .rank-title{ background: #0F0 url(../images/icon/icon-rank06-10@2x.png) left top no-repeat; }
 		.ranking-list01 .rank01 .rank-title,
 		.ranking-list01 .rank02 .rank-title,
 		.ranking-list01 .rank03 .rank-title,
@@ -3088,7 +3088,7 @@ html:not(:target) .post-list02 .post-box a{
 	font-weight: normal;
 	font-size: 1.5em;
 	color: #4b3a24;
-	background: #fff6a3;
+	background: #0F0;
 }
 
 
@@ -4441,4 +4441,3 @@ input.submit_button:hover {
 	clear: both;
 	height: 0;
 }
-
