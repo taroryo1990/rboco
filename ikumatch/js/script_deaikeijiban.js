@@ -3,13 +3,29 @@ $(function() {
 	情報
 	================================================================*/
 	var allList = [
+
+		{
+			id: "happymail2",
+			name: "ハッピーメール",
+			life: "安全",
+			price: "20台女性が多い",
+			warranty: "大手運営",
+			title: "<a target=\"_blank\" href=\"http://www.medipartner.jp/click.php?APID=22428&affID=0004571\">1位:ハッピーメール</a>",
+			star: "5",
+			category: "育毛剤",
+			nayami: "頭頂部",
+			tag: ["女性若い","人気"],
+			description: "・「今すぐ遊ぼ」ボタンでワンナ◯ト可能<br>・プロフィール検索が細かい、目的別に検索可能<br>・20代女性中心で若い方が多い",
+			link: "http://www.medipartner.jp/click.php?APID=22428&affID=0004571"
+		},
+
 		{
 			id: "merupara2",
 			name: "メルパラ",
 			life: "安全",
 			price: "セ◯レマッチ掲示板がおすすめ",
 			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=159209&affID=92390&siteID=181045\">1位:メルパラ</a>",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=159209&affID=92390&siteID=181045\">2位:メルパラ</a>",
 			star: "5",
 			category: "育毛剤",
 			nayami: "頭頂部",
@@ -18,20 +34,6 @@ $(function() {
 			link: "https://track.bannerbridge.net/click.php?APID=159209&affID=92390&siteID=181045"
 		},
 
-		{
-			id: "happymail2",
-			name: "ハッピーメール",
-			life: "安全",
-			price: "20台女性が多い",
-			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"http://www.medipartner.jp/click.php?APID=22428&affID=0004571\">2位:ハッピーメール</a>",
-			star: "5",
-			category: "育毛剤",
-			nayami: "頭頂部",
-			tag: ["女性若い","人気"],
-			description: "・「今すぐ遊ぼ」ボタンでワンナ◯ト可能<br>・プロフィール検索が細かい、目的別に検索可能<br>・20代女性中心で若い方が多い",
-			link: "http://www.medipartner.jp/click.php?APID=22428&affID=0004571"
-		},
 
 		{
 			id: "mintjc",
