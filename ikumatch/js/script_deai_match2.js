@@ -9,13 +9,13 @@ $(function() {
 			life: "安全",
 			price: "セ◯レ掲示板がおすすめ",
 			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=159209&affID=92390&siteID=181045\">1位:メルパラ</a>",
+			title: "<a target=\"_blank\" href=\"https://meru-para.com/?mdc=4806\">1位:メルパラ</a>",
 			star: "5",
 			category: "育毛剤",
 			nayami: "頭頂部",
 			tag: ["セ◯レ","人気"],
 			description: "・ア◯ルト掲示板があり、ワンナイトも可能<br>・人妻に会いたい人などオトナ向け<br>・掲示板で簡単にお相手を探せる",
-			link: "https://track.bannerbridge.net/click.php?APID=159209&affID=92390&siteID=181045"
+			link: "https://meru-para.com/?mdc=4806"
 		},
 
 		{
