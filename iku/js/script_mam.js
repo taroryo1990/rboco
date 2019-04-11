@@ -19,33 +19,34 @@ $(function() {
 			link: "https://mobee2.jp/ad/p/r?medium=3856&ad=608&suid="
 		},
 		{
-			id: "merupara2",
-			name: "メルパラ",
+			id: "happymail2",
+			name: "ハッピーメール",
 			life: "安全",
-			price: "ママ活する方",
+			price: "20台女性が多い",
 			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=159209&affID=92390&siteID=181045\">2位:メルパラ</a>",
-			star: "4",
+			title: "<a target=\"_blank\" href=\"https://preaf.jp/pa.do?s=v01326&o=38443&guid=ON\">2位:ハッピーメール</a>",
+			star: "5",
 			category: "育毛剤",
 			nayami: "頭頂部",
-			tag: ["稼げる","人気"],
-			description: "・ハイスペック女性が多数登録<br>・きれいな女性が多数登録<br>・プロフィール検索が細かいので、簡単にお相手を探せる",
-			link: "https://track.bannerbridge.net/click.php?APID=159209&affID=92390&siteID=181045"
+			tag: ["女性若い","人気"],
+			description: "・「今すぐ遊ぼ」ボタンでワンナ◯ト可能<br>・プロフィール検索が細かい、目的別に検索可能<br>・30代女性中心で若い方が多い",
+			link: "https://preaf.jp/pa.do?s=v01326&o=38443&guid=ON"
 		},
 		{
-			id: "ikukuru2",
-			name: "イククル",
+			id: "mintjc",
+			name: "Jメール",
 			life: "安全",
-			price: "健全にママ活する方",
+			price: "ワンナイト目的のアダ◯トマッチング",
 			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=19628&affID=92390&siteID=181045\">3位:イククル</a>",
-			star: "4",
+			title: "<a target=\"_blank\" href=\"https://preaf.jp/pa.do?s=v01326&o=40569&guid=ON\">3位:ミントC-Jメール</a>",
+			star: "4.5",
 			category: "育毛剤",
 			nayami: "頭頂部",
-			tag: ["稼げる","人気"],
-			description: "・「年収」で検索できるプロフ検索が便利<br>・女性は登録無料で遊べる<br>・ママ活専用サイトではない、お金持ちの女性が多いのでオススメ",
-			link: "https://track.bannerbridge.net/click.php?APID=19628&affID=92390&siteID=181045"
+			tag: ["ワン◯イト","人気"],
+			description: "・アダルト掲示板で女性が多い<br>・ニックネーム制で本名不要<br>・パパ活目的で会ってヤレルと口コミ",
+			link: "https://preaf.jp/pa.do?s=v01326&o=40569&guid=ON"
 		},
+
 		{
 			id: "hananokai2",
 			name: "華の会メール",
@@ -61,12 +62,42 @@ $(function() {
 			link: "https://px.a8.net/svt/ejp?a8mat=2ZIWSG+70FU1M+1T5K+1CGWCX"
 		},
 		{
+			id: "merupara2",
+			name: "メルパラ",
+			life: "安全",
+			price: "ママ活する方",
+			warranty: "大手運営",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=159209&affID=92390&siteID=181045\">5位:メルパラ</a>",
+			star: "4",
+			category: "育毛剤",
+			nayami: "頭頂部",
+			tag: ["稼げる","人気"],
+			description: "・ハイスペック女性が多数登録<br>・女性は前払いなのでお金持ちが多い<br>・プロフィール検索が細かいので、簡単にお相手を探せる",
+			link: "https://track.bannerbridge.net/click.php?APID=159209&affID=92390&siteID=181045"
+		},
+
+		{
+			id: "ikukuru2",
+			name: "イククル",
+			life: "安全",
+			price: "健全にママ活する方",
+			warranty: "大手運営",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=19628&affID=92390&siteID=181045\">6位:イククル</a>",
+			star: "4",
+			category: "育毛剤",
+			nayami: "頭頂部",
+			tag: ["稼げる","人気"],
+			description: "・「年収」で検索できるプロフ検索が便利<br>・女性は登録無料で遊べる<br>・ママ活専用サイトではない、お金持ちの女性が多いのでオススメ",
+			link: "https://track.bannerbridge.net/click.php?APID=19628&affID=92390&siteID=181045"
+		},
+
+		{
 			id: "lovesearch2",
 			name: "ラブサーチ",
 			life: "安全",
 			price: "ママ活もできるサイト",
 			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"http://www.medipartner.jp/click.php?APID=10345&affID=0004571\">5位:ラブサーチ</a>",
+			title: "<a target=\"_blank\" href=\"http://www.medipartner.jp/click.php?APID=10345&affID=0004571\">7位:ラブサーチ</a>",
 			star: "4",
 			category: "育毛剤",
 			nayami: "頭頂部",
@@ -74,6 +105,7 @@ $(function() {
 			description: "・ママ活もできるサイトだから、ママしたい女性が集まる<br>・匿名で使えるから安心<br>・富裕層で暇な女性が多数登録していると話題",
 			link: "http://www.medipartner.jp/click.php?APID=10345&affID=0004571"
 		},
+
 
 			];
 
