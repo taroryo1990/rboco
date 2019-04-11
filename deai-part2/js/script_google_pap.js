@@ -48,6 +48,21 @@ $(function() {
 			description: "富裕層の男性を探せる<br>お金持ちの男性が多いので、稼ぎやすい<br>未婚経営者などハイスペック男性多数！",
 			link: "https://preaf.jp/pa.do?s=v01327&o=38443&guid=ON"
 		},
+		{
+			id: "mintjc",
+			name: "Jメール",
+			life: "安全",
+			price: "アダ◯トマッチング",
+			warranty: "大手運営",
+			title: "<a target=\"_blank\" href=\"https://preaf.jp/pa.do?s=v01326&o=40569&guid=ON\">4位:ミントC-Jメール</a>",
+			star: "4.5",
+			category: "育毛剤",
+			nayami: "頭頂部",
+			tag: ["ワン◯イト","人気"],
+			description: "・アダルト掲示板でワンナイトしてお金をもらえる<br>・ニックネーム制で本名不要<br>・お金持ち男性多数と口コミ",
+			link: "https://preaf.jp/pa.do?s=v01326&o=40569&guid=ON"
+		},
+
 
 
 		{
