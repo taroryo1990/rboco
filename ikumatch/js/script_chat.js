@@ -4,33 +4,21 @@ $(function() {
 	================================================================*/
 	var allList = [
 
-		{
-			id: "happymail2",
-			name: "ハッピーメール",
-			life: "安全",
-			price: "ピュア掲示板がおすすめ",
-			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"http://www.medipartner.jp/click.php?APID=22428&affID=0004571\">1位:ハッピーメール</a>",
-			star: "5",
-			category: "育毛剤",
-			nayami: "頭頂部",
-			tag: ["女性若い","人気"],
-			description: "・「今すぐ遊ぼ」ボタンでワンナ◯ト可能<br>・プロフィール検索が細かい、目的別に検索可能<br>・20代女性中心で若い方が多い",
-			link: "http://www.medipartner.jp/click.php?APID=22428&affID=0004571"
-		},
+
+
 
 		{
 			id: "mintjc",
 			name: "Jメール",
 			life: "安全",
-			price: "ワンナイト目的のアダ◯ト掲示板",
+			price: "ワンナイト目的のアダ◯トマッチング",
 			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=152699&affID=92390&siteID=181045\">2位:ミントC-Jメール</a>",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=152699&affID=92390&siteID=181045\">1位:ミントC-Jメール</a>",
 			star: "4.5",
 			category: "育毛剤",
 			nayami: "頭頂部",
 			tag: ["ワン◯イト","人気"],
-			description: "・アダルト掲示板で女性が多い<br>・ニックネーム制で本名不要<br>・パパ活目的で会ってヤレルと口コミ",
+			description: "・アダルトチャット掲示板で女性が多い<br>・ニックネーム制で本名不要<br>・パパ活目的で会ってヤレルと口コミ",
 			link: "https://track.bannerbridge.net/click.php?APID=152699&affID=92390&siteID=181045"
 		},
 
@@ -40,7 +28,7 @@ $(function() {
 			life: "パパ活相手にも",
 			price: "登録無料",
 			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://mobee2.jp/ad/p/r?medium=3856&ad=608&suid=\">3位:わくわくメール</a>",
+			title: "<a target=\"_blank\" href=\"https://mobee2.jp/ad/p/r?medium=3856&ad=608&suid=\">2位:わくわくメール</a>",
 			star: "4.5",
 			category: "育毛トニック",
 			nayami: "抜け毛",
@@ -48,20 +36,61 @@ $(function() {
 			description: "ご飯デート機能（おねだり機能）で女性と会える<br>体相手してくれる目的の女性多いのでサクラが少ない！",
 			link: "https://mobee2.jp/ad/p/r?medium=3856&ad=608&suid="
 		},
-
 		{
-			id: "hananokai2",
-			name: "華の会メール",
-			life: "安全な",
-			price: "30代以上メイン",
-			warranty: "非常に高い",
-			title: "<a target=\"_blank\" href=\"https://px.a8.net/svt/ejp?a8mat=2ZIWSG+70FU1M+1T5K+1CGWCX\">4位:華の会メール</a>",
-			star: "4",
+			id: "happymail2",
+			name: "ハッピーメール",
+			life: "安全",
+			price: "20台女性が多い",
+			warranty: "大手運営",
+			title: "<a target=\"_blank\" href=\"https://preaf.jp/pa.do?s=v01326&o=38443&guid=ON\">3位:ハッピーメール</a>",
+			star: "5",
 			category: "育毛剤",
-			nayami: "抜け毛",
-			tag: ["大人女性","真剣度"],
-			description: "・30歳以上限定サイト<br>・男性の年齢が高いため、ハイスペック男性探しに最適<br>・Tポイントがたまる制度あり",
-			link: "https://px.a8.net/svt/ejp?a8mat=2ZIWSG+70FU1M+1T5K+1CGWCX"
+			nayami: "頭頂部",
+			tag: ["女性若い","人気"],
+			description: "・「今すぐ遊ぼ」ボタンでワンナ◯ト可能<br>・プロフィール検索が細かい、目的別に検索可能<br>・20代女性中心で若い方が多い",
+			link: "https://preaf.jp/pa.do?s=v01326&o=38443&guid=ON"
+		},
+		{
+			id: "kurea_man",
+			name: "クレア",
+			life: "安全",
+			price: "チャットで女性と話せる",
+			warranty: "大手運営",
+			title: "<a target=\"_blank\" href=\"https://preaf.jp/pa.do?s=v02947&o=43247&guid=ON\">4位:クレア</a>",
+			star: "5",
+			category: "育毛剤",
+			nayami: "頭頂部",
+			tag: ["セ◯レ","人気"],
+			description: "・ア◯ルトチャット、チャット内で会話<br>・人妻に話したい人などオトナ向け<br>・チャットでアダルトなことを要求できる",
+			link: "https://preaf.jp/pa.do?s=v02947&o=43247&guid=ON"
+		},
+		{
+			id: "guran",
+			name: "グラン",
+			life: "安全",
+			price: "匿名でアダルトなビデオチャット",
+			warranty: "大手運営",
+			title: "<a target=\"_blank\" href=\"https://preaf.jp/pa.do?s=v02947&o=43248&guid=ON\">5位:グラン</a>",
+			star: "5",
+			category: "育毛剤",
+			nayami: "頭頂部",
+			tag: ["セ◯レ","人気"],
+			description: "・ア◯ルトビデオチャット<br>・アダルト専門。Hな女性と話せる<br>・チャットで安全、匿名で誰にもばれない。",
+			link: "https://preaf.jp/pa.do?s=v02947&o=43248&guid=ON"
+		},
+		{
+			id: "merupara2",
+			name: "メルパラ",
+			life: "安全",
+			price: "セ◯レマッチチャット掲示板がおすすめ",
+			warranty: "大手運営",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=159209&affID=92390&siteID=181045\">6位:メルパラ</a>",
+			star: "5",
+			category: "育毛剤",
+			nayami: "頭頂部",
+			tag: ["セ◯レ","人気"],
+			description: "・ア◯ルトチャット掲示板があり、ワンナイトも可能<br>・人妻に会いたい人などオトナ向け<br>・チャット掲示板で簡単にお相手を探せる",
+			link: "https://track.bannerbridge.net/click.php?APID=159209&affID=92390&siteID=181045"
 		},
 
 		{
@@ -70,7 +99,7 @@ $(function() {
 			life: "安全",
 			price: "愛人・人妻と出会いたい方",
 			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=156116&affID=92390&siteID=18104\">5位:ウィンク</a>",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=156116&affID=92390&siteID=18104\">7位:ウィンク</a>",
 			star: "4",
 			category: "育毛剤",
 			nayami: "頭頂部",
@@ -78,36 +107,7 @@ $(function() {
 			description: "・30代以上の熟女が中心<br>・女性は登録無料で遊べる<br>・30代以上なので、お金持ちの女性が多い",
 			link: "https://track.bannerbridge.net/click.php?APID=156116&affID=92390&siteID=18104"
 		},
-		{
-			id: "merupara2",
-			name: "メルパラ",
-			life: "安全",
-			price: "セ◯レ掲示板がおすすめ",
-			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=159209&affID=92390&siteID=181045\">4位:メルパラ</a>",
-			star: "5",
-			category: "育毛剤",
-			nayami: "頭頂部",
-			tag: ["セ◯レ","人気"],
-			description: "・ア◯ルト掲示板があり、ワンナイトも可能<br>・人妻に会いたい人などオトナ向け<br>・掲示板で簡単にお相手を探せる",
-			link: "https://track.bannerbridge.net/click.php?APID=159209&affID=92390&siteID=181045"
-		},
 
-
-		{
-			id: "ikukuru2",
-			name: "イククル",
-			life: "安全",
-			price: "完全匿名",
-			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=19628&affID=92390&siteID=181045\">7位:イククル</a>",
-			star: "3.5",
-			category: "育毛剤",
-			nayami: "頭頂部",
-			tag: ["稼げる","人気"],
-			description: "・「匿名」で秘密の出会いができる<br>・オトナ専用の有料コミュニティサイト<br>・お金持ちの男性が多いのでオススメ",
-			link: "https://track.bannerbridge.net/click.php?APID=19628&affID=92390&siteID=181045"
-		},
 
 			];
 
