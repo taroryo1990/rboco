@@ -46,8 +46,8 @@ $(function() {
 			star: "5",
 			category: "育毛剤",
 			nayami: "頭頂部",
-			tag: ["女性若い","人気"],
-			description: "・「今すぐ遊ぼ」ボタンでワンナ◯ト可能<br>・プロフィール検索が細かい、目的別に検索可能<br>・20代女性中心で若い方が多い",
+			tag: ["女性若い","チャット"],
+			description: "・「今すぐ遊ぼ」ボタンでワンナ◯ト可能<br>・チャットでLINE交換も！<br>・20代女性中心で若い方が多い",
 			link: "https://preaf.jp/pa.do?s=v01326&o=38443&guid=ON"
 		},
 		{
@@ -65,7 +65,7 @@ $(function() {
 			link: "https://preaf.jp/pa.do?s=v02947&o=43247&guid=ON"
 		},
 		{
-			id: "guran",
+			id: "guran2",
 			name: "グラン",
 			life: "安全",
 			price: "匿名でアダルトなビデオチャット",
@@ -74,8 +74,8 @@ $(function() {
 			star: "5",
 			category: "育毛剤",
 			nayami: "頭頂部",
-			tag: ["セ◯レ","人気"],
-			description: "・ア◯ルトビデオチャット<br>・アダルト専門。Hな女性と話せる<br>・チャットで安全、匿名で誰にもばれない。",
+			tag: ["セ◯レになれる可能性","人気"],
+			description: "・ア◯ルトビデオチャット<br>・Hな女性と話せる、出会いの交渉も！？<br>・チャットで安全、匿名で誰にもばれない。",
 			link: "https://preaf.jp/pa.do?s=v02947&o=43248&guid=ON"
 		},
 		{
