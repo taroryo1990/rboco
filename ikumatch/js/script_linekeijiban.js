@@ -3,28 +3,14 @@ $(function() {
 	情報
 	================================================================*/
 	var allList = [
-		{
-			id: "merupara2",
-			name: "メルパラ",
-			life: "安全",
-			price: "セ◯レLINE掲示板がおすすめ",
-			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=159209&affID=92390&siteID=181045\">1位:メルパラ</a>",
-			star: "5",
-			category: "育毛剤",
-			nayami: "頭頂部",
-			tag: ["セ◯レ","人気"],
-			description: "・ア◯ルト掲示板でのLINE交換、ワンナイトも可能<br>・人妻に会いたい人などオトナ向け<br>・掲示板で簡単にお相手を探せる",
-			link: "https://track.bannerbridge.net/click.php?APID=159209&affID=92390&siteID=181045"
-		},
 
 		{
 			id: "happymail2",
 			name: "ハッピーメール",
 			life: "安全",
-			price: "LINE交換無料",
+			price: "LINE交換かんたん",
 			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"http://www.medipartner.jp/click.php?APID=22428&affID=0004571\">2位:ハッピーメール</a>",
+			title: "<a target=\"_blank\" href=\"http://www.medipartner.jp/click.php?APID=22428&affID=0004571\">1位:ハッピーメール</a>",
 			star: "5",
 			category: "育毛剤",
 			nayami: "頭頂部",
@@ -39,7 +25,7 @@ $(function() {
 			life: "安全",
 			price: "LINEでアダ◯トマッチング",
 			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=152699&affID=92390&siteID=181045\">3位:ミントC-Jメール</a>",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=152699&affID=92390&siteID=181045\">2位:ミントC-Jメール</a>",
 			star: "4.5",
 			category: "育毛剤",
 			nayami: "頭頂部",
@@ -54,7 +40,7 @@ $(function() {
 			life: "パパ活相手にも",
 			price: "登録無料",
 			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://mobee2.jp/ad/p/r?medium=3856&ad=608&suid=\">4位:わくわくメール</a>",
+			title: "<a target=\"_blank\" href=\"https://mobee2.jp/ad/p/r?medium=3856&ad=608&suid=\">3位:わくわくメール</a>",
 			star: "4.5",
 			category: "育毛トニック",
 			nayami: "抜け毛",
@@ -62,6 +48,21 @@ $(function() {
 			description: "ご飯デート機能（おねだり機能）で女性と会える<br>体相手してくれる目的の女性多いのでサクラが少ない！",
 			link: "https://mobee2.jp/ad/p/r?medium=3856&ad=608&suid="
 		},
+		{
+			id: "merupara2",
+			name: "メルパラ",
+			life: "安全",
+			price: "セ◯レLINE掲示板がおすすめ",
+			warranty: "大手運営",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=159209&affID=92390&siteID=181045\">4位:メルパラ</a>",
+			star: "5",
+			category: "育毛剤",
+			nayami: "頭頂部",
+			tag: ["セ◯レ","人気"],
+			description: "・ア◯ルト掲示板でのLINE交換、ワンナイトも可能<br>・人妻に会いたい人などオトナ向け<br>・掲示板で簡単にお相手を探せる",
+			link: "https://track.bannerbridge.net/click.php?APID=159209&affID=92390&siteID=181045"
+		},
+
 		{
 			id: "hananokai2",
 			name: "華の会メール",
