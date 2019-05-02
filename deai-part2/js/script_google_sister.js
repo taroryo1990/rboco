@@ -4,28 +4,14 @@ $(function() {
 	================================================================*/
 	var allList = [
 
-		{
-			id: "merupara2",
-			name: "メルパラ",
-			life: "安全",
-			price: "じっくり探したい方向け",
-			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=159209&affID=92390&siteID=181045\">1位:メルパラ</a>",
-			star: "4",
-			category: "育毛剤",
-			nayami: "頭頂部",
-			tag: ["稼げる","人気"],
-			description: "・ハイスペック男性が多数登録<br>・男性は前払いなのでお金持ちが多い<br>・プロフィール検索が細かいので、簡単にお相手を探せる",
-			link: "https://track.bannerbridge.net/click.php?APID=159209&affID=92390&siteID=181045"
-		},
 
 		{
 			id: "wkwkmail2",
 			name: "わくわくメール",
-			life: "兄活におすすめ",
+			life: "姉活におすすめ",
 			price: "登録無料",
 			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://mobee2.jp/ad/p/r?medium=3856&ad=608&suid=\">2位:わくわくメール</a>",
+			title: "<a target=\"_blank\" href=\"https://mobee2.jp/ad/p/r?medium=3856&ad=608&suid=\">1位:わくわくメール</a>",
 			star: "4.5",
 			category: "育毛トニック",
 			nayami: "抜け毛",
@@ -40,7 +26,7 @@ $(function() {
 			life: "安全",
 			price: "アダ◯トマッチング",
 			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=152699&affID=92390&siteID=181045\">3位:ミントC-Jメール</a>",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=152699&affID=92390&siteID=181045\">2位:ミントC-Jメール</a>",
 			star: "4.5",
 			category: "育毛剤",
 			nayami: "頭頂部",
@@ -52,18 +38,18 @@ $(function() {
 
 
 		{
-			id: "vivo",
-			name: "VIVO",
+			id: "merupara2",
+			name: "メルパラ",
 			life: "安全",
-			price: "バイトで兄活",
-			warranty: "会わないから安全",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=136100&affID=92390&siteID=180164\">4位:会わない兄活のVI-VO</a>",
+			price: "じっくり探したい方向け",
+			warranty: "大手運営",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=159209&affID=92390&siteID=181045\">3位:メルパラ</a>",
 			star: "4",
 			category: "育毛剤",
 			nayami: "頭頂部",
-			tag: ["まじめ","安全"],
-			description: "・お兄さんたちとチャットや電話でお話するお仕事<br>・登録ボーナスで8000円もらえる<br>・通話15秒ごとにお金が稼げるお仕事",
-			link: "https://track.bannerbridge.net/click.php?APID=136100&affID=92390&siteID=180164"
+			tag: ["稼げる","人気"],
+			description: "・ハイスペック男性が多数登録<br>・男性は前払いなのでお金持ちが多い<br>・プロフィール検索が細かいので、簡単にお相手を探せる",
+			link: "https://track.bannerbridge.net/click.php?APID=159209&affID=92390&siteID=181045"
 		},
 
 
@@ -73,41 +59,27 @@ $(function() {
 			life: "安全な",
 			price: "30代以上メイン",
 			warranty: "非常に高い",
-			title: "<a target=\"_blank\" href=\"https://px.a8.net/svt/ejp?a8mat=2ZIWSG+70FU1M+1T5K+1CGWCX\">5位:華の会メール</a>",
+			title: "<a target=\"_blank\" href=\"https://px.a8.net/svt/ejp?a8mat=2ZIWSG+70FU1M+1T5K+1CGWCX\">4位:華の会メール</a>",
 			star: "3.5",
 			category: "育毛剤",
 			nayami: "抜け毛",
 			tag: ["大人女性","真剣度"],
-			description: "・30歳以上限定サイト<br>・男性の年齢が高いため、お兄さん・パトロン探しに最適<br>・Tポイントがたまる制度あり",
+			description: "・30歳以上限定サイト<br>・男性の年齢が高いため、お姉さん・パトロン探しに最適<br>・Tポイントがたまる制度あり",
 			link: "https://px.a8.net/svt/ejp?a8mat=2ZIWSG+70FU1M+1T5K+1CGWCX"
 		},
 
-		{
-			id: "sugar2",
-			name: "シュガーダディ",
-			life: "安全",
-			price: "兄活専用サイト",
-			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://t.afi-b.com/visit.php?guid=ON&a=B83609-r2812046&p=C6609048\">6位:シュガーダディ</a>",
-			star: "4",
-			category: "育毛剤",
-			nayami: "頭頂部",
-			tag: ["まじめ","安全"],
-			description: "・兄活・パパ活専用サイトだから、お兄さん男性が集まる<br>・堂々と兄活が出来ちゃう<br>・ハイレベルな男性が多数登録していると話題",
-			link: "https://t.afi-b.com/visit.php?guid=ON&a=B83609-r2812046&p=C6609048"
-		},
 		{
 			id: "lovesearch2",
 			name: "ラブサーチ",
 			life: "安全",
 			price: "セキュリティ重視",
 			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"http://www.medipartner.jp/click.php?APID=10345&affID=0004571\">7位:ラブサーチ</a>",
+			title: "<a target=\"_blank\" href=\"http://www.medipartner.jp/click.php?APID=10345&affID=0004571\">5位:ラブサーチ</a>",
 			star: "4",
 			category: "育毛剤",
 			nayami: "頭頂部",
 			tag: ["まじめ","安全"],
-			description: "・兄活もできる出会い系<br>・365日監視体制でサポート可能<br>・男性に対して厳しい審査も行っているので安心",
+			description: "・姉活もできる出会い系<br>・365日監視体制でサポート可能<br>・男性に対して厳しい審査も行っているので安心",
 			link: "http://www.medipartner.jp/click.php?APID=10345&affID=0004571"
 		},
 
