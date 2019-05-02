@@ -16,7 +16,7 @@ $(function() {
 			category: "育毛トニック",
 			nayami: "抜け毛",
 			tag: ["安全","人気"],
-			description: "ご飯デート機能（おねだり機能）でおごってくれる方を探せる<br>お金持ちの男性が多いので、稼ぎやすい<br>国内最大級の会員数！",
+			description: "ご飯デート機能（おねだり機能）でおごってくれる方を探せる<br>お金持ちの女性が多いので、稼ぎやすい<br>国内最大級の会員数！",
 			link: "https://mobee2.jp/ad/p/r?medium=3856&ad=608&suid="
 		},
 
@@ -31,7 +31,7 @@ $(function() {
 			category: "育毛剤",
 			nayami: "頭頂部",
 			tag: ["ワン◯イト","人気"],
-			description: "・アダルト掲示板でワンナイトしてお金をもらえる<br>・ニックネーム制で本名不要<br>・お金持ち男性多数と口コミ",
+			description: "・アダルト掲示板でワンナイトしてお金をもらえる<br>・ニックネーム制で本名不要<br>・お金持ち女性多数と口コミ",
 			link: "https://preaf.jp/pa.do?s=v01326&o=40569&guid=ON"
 		},
 
@@ -48,7 +48,7 @@ $(function() {
 			category: "育毛剤",
 			nayami: "頭頂部",
 			tag: ["稼げる","人気"],
-			description: "・ハイスペック男性が多数登録<br>・男性は前払いなのでお金持ちが多い<br>・プロフィール検索が細かいので、簡単にお相手を探せる",
+			description: "・ハイスペック女性が多数登録<br>・プロフィール検索が細かいので、簡単にお相手を探せる",
 			link: "https://track.bannerbridge.net/click.php?APID=159209&affID=92390&siteID=181045"
 		},
 
@@ -64,7 +64,7 @@ $(function() {
 			category: "育毛剤",
 			nayami: "抜け毛",
 			tag: ["大人女性","真剣度"],
-			description: "・30歳以上限定サイト<br>・男性の年齢が高いため、お姉さん・パトロン探しに最適<br>・Tポイントがたまる制度あり",
+			description: "・30歳以上限定サイト<br>・女性の年齢が高いため、お姉さん・パトロン探しに最適<br>・Tポイントがたまる制度あり",
 			link: "https://px.a8.net/svt/ejp?a8mat=2ZIWSG+70FU1M+1T5K+1CGWCX"
 		},
 
@@ -79,7 +79,7 @@ $(function() {
 			category: "育毛剤",
 			nayami: "頭頂部",
 			tag: ["まじめ","安全"],
-			description: "・姉活もできる出会い系<br>・365日監視体制でサポート可能<br>・男性に対して厳しい審査も行っているので安心",
+			description: "・姉活専用サイトではないが、出会える<br>・365日監視体制でサポート可能<br>・登録審査も行っているので安心",
 			link: "http://www.medipartner.jp/click.php?APID=10345&affID=0004571"
 		},
 
