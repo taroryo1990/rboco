@@ -49,18 +49,18 @@ $(function() {
 		},
 
 		{
-			id: "ikukuru2",
-			name: "イククル",
+			id: "lovesearch2",
+			name: "ラブサーチ",
 			life: "安全",
-			price: "健全にママ活する方",
+			price: "ママ活もできるサイト",
 			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=19628&affID=92390&siteID=181045\">4位:イククル</a>",
+			title: "<a target=\"_blank\" href=\"http://www.medipartner.jp/click.php?APID=10345&affID=0004571\">4位:ラブサーチ</a>",
 			star: "4",
 			category: "育毛剤",
 			nayami: "頭頂部",
-			tag: ["稼げる","人気"],
-			description: "・「年収」で検索できるプロフ検索が便利<br>・女性は登録無料で遊べる<br>・ママ活専用サイトではない、お金持ちの女性が多いのでオススメ",
-			link: "https://track.bannerbridge.net/click.php?APID=19628&affID=92390&siteID=181045"
+			tag: ["まじめ","安全"],
+			description: "・ママ活もできるサイトだから、ママしたい女性が集まる<br>・匿名で使えるから安心<br>・富裕層で暇な女性が多数登録していると話題",
+			link: "http://www.medipartner.jp/click.php?APID=10345&affID=0004571"
 		},
 		{
 			id: "merupara2",
@@ -78,20 +78,6 @@ $(function() {
 		},
 
 
-		{
-			id: "lovesearch2",
-			name: "ラブサーチ",
-			life: "安全",
-			price: "ママ活もできるサイト",
-			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"http://www.medipartner.jp/click.php?APID=10345&affID=0004571\">6位:ラブサーチ</a>",
-			star: "4",
-			category: "育毛剤",
-			nayami: "頭頂部",
-			tag: ["まじめ","安全"],
-			description: "・ママ活もできるサイトだから、ママしたい女性が集まる<br>・匿名で使えるから安心<br>・富裕層で暇な女性が多数登録していると話題",
-			link: "http://www.medipartner.jp/click.php?APID=10345&affID=0004571"
-		},
 
 
 			];
