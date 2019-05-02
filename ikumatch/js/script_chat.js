@@ -11,7 +11,7 @@ $(function() {
 			id: "mintjc",
 			name: "Jメール",
 			life: "安全",
-			price: "ワンナイト目的のアダ◯トマッチング",
+			price: "チャットでアダ◯トマッチング",
 			warranty: "大手運営",
 			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=152699&affID=92390&siteID=181045\">1位:ミントC-Jメール</a>",
 			star: "4.5",
@@ -24,8 +24,8 @@ $(function() {
 
 		{
 			id: "wkwkmail2",
-			name: "わくわくメール",
-			life: "パパ活相手にも",
+			name: "チャットでわくわくメール",
+			life: "チャットで出会う",
 			price: "登録無料",
 			warranty: "大手運営",
 			title: "<a target=\"_blank\" href=\"https://mobee2.jp/ad/p/r?medium=3856&ad=608&suid=\">2位:わくわくメール</a>",
@@ -38,7 +38,7 @@ $(function() {
 		},
 		{
 			id: "happymail2",
-			name: "ハッピーメール",
+			name: "チャットでハッピーメール",
 			life: "安全",
 			price: "20台女性が多い",
 			warranty: "大手運営",
