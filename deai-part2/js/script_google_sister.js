@@ -32,7 +32,7 @@ $(function() {
 			nayami: "頭頂部",
 			tag: ["ワン◯イト","人気"],
 			description: "・アダルト掲示板でワンナイトしてお金をもらえる<br>・ニックネーム制で本名不要<br>・お金持ち女性多数と口コミ",
-			link: "https://preaf.jp/pa.do?s=v01326&o=40569&guid=ON"
+			link: "https://track.bannerbridge.net/click.php?APID=152699&affID=92390&siteID=181045"
 		},
 
 
