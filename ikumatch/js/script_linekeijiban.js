@@ -49,7 +49,7 @@ $(function() {
 			link: "https://mobee2.jp/ad/p/r?medium=3856&ad=608&suid="
 		},
 		{
-			id: "gogll",
+			id: "goall",
 			name: "GOALL",
 			life: "安全",
 			price: "500円の恋活イベント",

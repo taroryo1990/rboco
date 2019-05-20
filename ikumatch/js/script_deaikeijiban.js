@@ -80,7 +80,7 @@ $(function() {
 			link: "https://track.bannerbridge.net/click.php?APID=156116&affID=92390&siteID=18104"
 		},
 		{
-			id: "gogll",
+			id: "goall",
 			name: "GOALL",
 			life: "安全",
 			price: "500円の恋活イベント",
