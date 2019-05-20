@@ -63,18 +63,18 @@ $(function() {
 			link: "http://www.medipartner.jp/click.php?APID=10345&affID=0004571"
 		},
 		{
-			id: "merupara2",
-			name: "メルパラ",
+			id: "ikukuru2",
+			name: "イククル",
 			life: "安全",
-			price: "ママ活する方",
+			price: "健全にママ活する方",
 			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=159209&affID=92390&siteID=181045\">5位:メルパラ</a>",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=19628&affID=92390&siteID=181045\">5位:イククル</a>",
 			star: "4",
 			category: "育毛剤",
 			nayami: "頭頂部",
 			tag: ["稼げる","人気"],
-			description: "・ハイスペック女性が多数登録<br>・女性は前払いなのでお金持ちが多い<br>・プロフィール検索が細かいので、簡単にお相手を探せる",
-			link: "https://track.bannerbridge.net/click.php?APID=159209&affID=92390&siteID=181045"
+			description: "・「年収」で検索できるプロフ検索が便利<br>・女性は登録無料で遊べる<br>・ママ活専用サイトではない、お金持ちの女性が多いのでオススメ",
+			link: "https://track.bannerbridge.net/click.php?APID=19628&affID=92390&siteID=181045"
 		},
 
 

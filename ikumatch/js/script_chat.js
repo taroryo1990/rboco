@@ -78,20 +78,6 @@ $(function() {
 			description: "・ア◯ルトビデオチャット<br>・Hな女性と話せる、出会いの交渉も！？<br>・チャットで安全、匿名で誰にもばれない。",
 			link: "https://preaf.jp/pa.do?s=v02947&o=43248&guid=ON"
 		},
-		{
-			id: "merupara2",
-			name: "メルパラ",
-			life: "安全",
-			price: "セ◯レマッチチャット掲示板がおすすめ",
-			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=159209&affID=92390&siteID=181045\">6位:メルパラ</a>",
-			star: "5",
-			category: "育毛剤",
-			nayami: "頭頂部",
-			tag: ["セ◯レ","人気"],
-			description: "・ア◯ルトチャット掲示板があり、ワンナイトも可能<br>・人妻に会いたい人などオトナ向け<br>・チャット掲示板で簡単にお相手を探せる",
-			link: "https://track.bannerbridge.net/click.php?APID=159209&affID=92390&siteID=181045"
-		},
 
 		{
 			id: "wink2",
@@ -99,7 +85,7 @@ $(function() {
 			life: "安全",
 			price: "愛人・人妻と出会いたい方",
 			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=156116&affID=92390&siteID=18104\">7位:ウィンク</a>",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=156116&affID=92390&siteID=18104\">6位:ウィンク</a>",
 			star: "4",
 			category: "育毛剤",
 			nayami: "頭頂部",

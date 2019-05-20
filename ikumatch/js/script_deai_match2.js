@@ -78,20 +78,6 @@ $(function() {
 			description: "・30代以上の熟女が中心<br>・女性は登録無料で遊べる<br>・30代以上なので、お金持ちの女性が多い",
 			link: "https://track.bannerbridge.net/click.php?APID=156116&affID=92390&siteID=18104"
 		},
-		{
-			id: "merupara2",
-			name: "メルパラ",
-			life: "安全",
-			price: "セ◯レ掲示板がおすすめ",
-			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=159209&affID=92390&siteID=181045\">6位:メルパラ</a>",
-			star: "5",
-			category: "育毛剤",
-			nayami: "頭頂部",
-			tag: ["セ◯レ","人気"],
-			description: "・ア◯ルト掲示板があり、ワンナイトも可能<br>・人妻に会いたい人などオトナ向け<br>・掲示板で簡単にお相手を探せる",
-			link: "https://track.bannerbridge.net/click.php?APID=159209&affID=92390&siteID=181045"
-		},
 
 
 		{
@@ -100,7 +86,7 @@ $(function() {
 			life: "安全",
 			price: "完全匿名",
 			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=19628&affID=92390&siteID=181045\">7位:イククル</a>",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=19628&affID=92390&siteID=181045\">6位:イククル</a>",
 			star: "3.5",
 			category: "育毛剤",
 			nayami: "頭頂部",

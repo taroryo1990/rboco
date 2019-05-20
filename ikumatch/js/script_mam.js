@@ -47,20 +47,6 @@ $(function() {
 			description: "・30歳以上限定サイト<br>・女性の年齢が高いため、ママ・パトロン探しに最適<br>・Tポイントがたまる制度あり",
 			link: "https://px.a8.net/svt/ejp?a8mat=2ZIWSG+70FU1M+1T5K+1CGWCX"
 		},
-		{
-			id: "merupara2",
-			name: "メルパラ",
-			life: "安全",
-			price: "ママ活する方",
-			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=159209&affID=92390&siteID=181045\">4位:メルパラ</a>",
-			star: "4",
-			category: "育毛剤",
-			nayami: "頭頂部",
-			tag: ["稼げる","人気"],
-			description: "・ハイスペック女性が多数登録<br>・女性は前払いなのでお金持ちが多い<br>・プロフィール検索が細かいので、簡単にお相手を探せる",
-			link: "https://track.bannerbridge.net/click.php?APID=159209&affID=92390&siteID=181045"
-		},
 
 		{
 			id: "ikukuru2",
@@ -68,7 +54,7 @@ $(function() {
 			life: "安全",
 			price: "健全にママ活する方",
 			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=19628&affID=92390&siteID=181045\">5位:イククル</a>",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=19628&affID=92390&siteID=181045\">4位:イククル</a>",
 			star: "4",
 			category: "育毛剤",
 			nayami: "頭頂部",
@@ -83,7 +69,7 @@ $(function() {
 			life: "安全",
 			price: "ママ活もできるサイト",
 			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"http://www.medipartner.jp/click.php?APID=10345&affID=0004571\">6位:ラブサーチ</a>",
+			title: "<a target=\"_blank\" href=\"http://www.medipartner.jp/click.php?APID=10345&affID=0004571\">5位:ラブサーチ</a>",
 			star: "4",
 			category: "育毛剤",
 			nayami: "頭頂部",

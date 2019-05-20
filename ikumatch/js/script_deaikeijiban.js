@@ -19,20 +19,6 @@ $(function() {
 			link: "http://www.medipartner.jp/click.php?APID=22428&affID=0004571"
 		},
 
-		{
-			id: "merupara2",
-			name: "メルパラ",
-			life: "安全",
-			price: "セ◯レマッチ掲示板がおすすめ",
-			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=159209&affID=92390&siteID=181045\">2位:メルパラ</a>",
-			star: "5",
-			category: "育毛剤",
-			nayami: "頭頂部",
-			tag: ["セ◯レ","人気"],
-			description: "・ア◯ルト掲示板があり、ワンナイトも可能<br>・人妻に会いたい人などオトナ向け<br>・掲示板で簡単にお相手を探せる",
-			link: "https://track.bannerbridge.net/click.php?APID=159209&affID=92390&siteID=181045"
-		},
 
 
 		{
@@ -41,7 +27,7 @@ $(function() {
 			life: "安全",
 			price: "ワンナイト目的のアダ◯トマッチング",
 			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=152699&affID=92390&siteID=181045\">3位:ミントC-Jメール</a>",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=152699&affID=92390&siteID=181045\">2位:ミントC-Jメール</a>",
 			star: "4.5",
 			category: "育毛剤",
 			nayami: "頭頂部",
@@ -56,7 +42,7 @@ $(function() {
 			life: "パパ活相手にも",
 			price: "登録無料",
 			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://mobee2.jp/ad/p/r?medium=3856&ad=608&suid=\">4位:わくわくメール</a>",
+			title: "<a target=\"_blank\" href=\"https://mobee2.jp/ad/p/r?medium=3856&ad=608&suid=\">3位:わくわくメール</a>",
 			star: "4.5",
 			category: "育毛トニック",
 			nayami: "抜け毛",
@@ -70,7 +56,7 @@ $(function() {
 			life: "安全な",
 			price: "30代以上メイン",
 			warranty: "非常に高い",
-			title: "<a target=\"_blank\" href=\"https://px.a8.net/svt/ejp?a8mat=2ZIWSG+70FU1M+1T5K+1CGWCX\">5位:華の会メール</a>",
+			title: "<a target=\"_blank\" href=\"https://px.a8.net/svt/ejp?a8mat=2ZIWSG+70FU1M+1T5K+1CGWCX\">4位:華の会メール</a>",
 			star: "4",
 			category: "育毛剤",
 			nayami: "抜け毛",
@@ -85,13 +71,27 @@ $(function() {
 			life: "安全",
 			price: "愛人・人妻と出会いたい方",
 			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=156116&affID=92390&siteID=18104\">6位:ウィンク</a>",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=156116&affID=92390&siteID=18104\">5位:ウィンク</a>",
 			star: "4",
 			category: "育毛剤",
 			nayami: "頭頂部",
 			tag: ["熟女","人気"],
 			description: "・30代以上の熟女が中心<br>・女性は登録無料で遊べる<br>・30代以上なので、お金持ちの女性が多い",
 			link: "https://track.bannerbridge.net/click.php?APID=156116&affID=92390&siteID=18104"
+		},
+		{
+			id: "gogll",
+			name: "GOALL",
+			life: "安全",
+			price: "500円の恋活イベント",
+			warranty: "大手運営",
+			title: "<a target=\"_blank\" href=\"http://www.medipartner.jp/click.php?APID=24059&affID=0004571\">6位:恋活GOALL</a>",
+			star: "5",
+			category: "育毛剤",
+			nayami: "頭頂部",
+			tag: ["真面目","人気"],
+			description: "・今だけたったの500円で1ヶ月参加し放題の恋活イベント<br>・あなたの恋愛傾向診断も可能<br>・イベント後も連絡がとれる。",
+			link: "http://www.medipartner.jp/click.php?APID=24059&affID=0004571"
 		},
 
 		{

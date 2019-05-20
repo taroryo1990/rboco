@@ -35,31 +35,13 @@ $(function() {
 			link: "https://track.bannerbridge.net/click.php?APID=152699&affID=92390&siteID=181045"
 		},
 
-
-
-		{
-			id: "merupara2",
-			name: "メルパラ",
-			life: "安全",
-			price: "じっくり探したい方向け",
-			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=159209&affID=92390&siteID=181045\">3位:メルパラ</a>",
-			star: "4",
-			category: "育毛剤",
-			nayami: "頭頂部",
-			tag: ["稼げる","人気"],
-			description: "・ハイスペック女性が多数登録<br>・プロフィール検索が細かいので、簡単にお相手を探せる",
-			link: "https://track.bannerbridge.net/click.php?APID=159209&affID=92390&siteID=181045"
-		},
-
-
 		{
 			id: "hananokai2",
 			name: "華の会メール",
 			life: "安全な",
 			price: "30代以上メイン",
 			warranty: "非常に高い",
-			title: "<a target=\"_blank\" href=\"https://px.a8.net/svt/ejp?a8mat=2ZIWSG+70FU1M+1T5K+1CGWCX\">4位:華の会メール</a>",
+			title: "<a target=\"_blank\" href=\"https://px.a8.net/svt/ejp?a8mat=2ZIWSG+70FU1M+1T5K+1CGWCX\">3位:華の会メール</a>",
 			star: "3.5",
 			category: "育毛剤",
 			nayami: "抜け毛",
@@ -74,13 +56,27 @@ $(function() {
 			life: "安全",
 			price: "セキュリティ重視",
 			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"http://www.medipartner.jp/click.php?APID=10345&affID=0004571\">5位:ラブサーチ</a>",
+			title: "<a target=\"_blank\" href=\"http://www.medipartner.jp/click.php?APID=10345&affID=0004571\">4位:ラブサーチ</a>",
 			star: "4",
 			category: "育毛剤",
 			nayami: "頭頂部",
 			tag: ["まじめ","安全"],
 			description: "・姉活専用サイトではないが、出会える<br>・365日監視体制でサポート可能<br>・登録審査も行っているので安心",
 			link: "http://www.medipartner.jp/click.php?APID=10345&affID=0004571"
+		},
+		{
+			id: "ikukuru2",
+			name: "イククル",
+			life: "安全",
+			price: "健全に姉活する方",
+			warranty: "大手運営",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=19628&affID=92390&siteID=181045\">5位:イククル</a>",
+			star: "4",
+			category: "育毛剤",
+			nayami: "頭頂部",
+			tag: ["稼げる","人気"],
+			description: "・「年収」で検索できるプロフ検索が便利<br>・女性は登録無料で遊べる<br>・姉活専用サイトではない、お金持ちの女性が多いのでオススメ",
+			link: "https://track.bannerbridge.net/click.php?APID=19628&affID=92390&siteID=181045"
 		},
 
 
