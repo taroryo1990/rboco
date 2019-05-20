@@ -84,7 +84,7 @@ $(function() {
 			life: "安全",
 			price: "セ◯レ掲示板がおすすめ",
 			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=159209&affID=92390&siteID=181045\">4位:メルパラ</a>",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=159209&affID=92390&siteID=181045\">6位:メルパラ</a>",
 			star: "5",
 			category: "育毛剤",
 			nayami: "頭頂部",
