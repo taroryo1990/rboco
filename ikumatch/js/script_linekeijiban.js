@@ -49,18 +49,18 @@ $(function() {
 			link: "https://mobee2.jp/ad/p/r?medium=3856&ad=608&suid="
 		},
 		{
-			id: "merupara2",
-			name: "メルパラ",
+			id: "gogll",
+			name: "GOALL",
 			life: "安全",
-			price: "セ◯レLINE掲示板がおすすめ",
+			price: "500円の恋活イベント",
 			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=159209&affID=92390&siteID=181045\">4位:メルパラ</a>",
+			title: "<a target=\"_blank\" href=\"http://www.medipartner.jp/click.php?APID=24059&affID=0004571\">4位:恋活GOALL</a>",
 			star: "5",
 			category: "育毛剤",
 			nayami: "頭頂部",
-			tag: ["セ◯レ","人気"],
-			description: "・ア◯ルト掲示板でのLINE交換、ワンナイトも可能<br>・人妻に会いたい人などオトナ向け<br>・掲示板で簡単にお相手を探せる",
-			link: "https://track.bannerbridge.net/click.php?APID=159209&affID=92390&siteID=181045"
+			tag: ["真面目","人気"],
+			description: "・今だけたったの500円で1ヶ月参加し放題の恋活イベント<br>・あなたの恋愛傾向診断も可能<br>・イベント後も連絡がとれる。",
+			link: "http://www.medipartner.jp/click.php?APID=24059&affID=0004571"
 		},
 
 		{
