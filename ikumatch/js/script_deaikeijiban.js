@@ -51,12 +51,27 @@ $(function() {
 			link: "https://mobee2.jp/ad/p/r?medium=3856&ad=608&suid="
 		},
 		{
+			id: "koitomo",
+			name: "恋友",
+			life: "安全",
+			price: "愛人・人妻と出会いたい方",
+			warranty: "大手運営",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=155579&affID=92390&siteID=180164\">4位:恋友</a>",
+			star: "4",
+			category: "育毛剤",
+			nayami: "頭頂部",
+			tag: ["熟女","人気"],
+			description: "・30代以上の熟女が中心<br>・ママ活専用サイトではないが、女性が多いのでおすすめ<br>・お金持ちの方が多い",
+			link: "https://track.bannerbridge.net/click.php?APID=155579&affID=92390&siteID=180164"
+		},
+
+		{
 			id: "hananokai2",
 			name: "華の会メール",
 			life: "安全な",
 			price: "30代以上メイン",
 			warranty: "非常に高い",
-			title: "<a target=\"_blank\" href=\"https://px.a8.net/svt/ejp?a8mat=2ZIWSG+70FU1M+1T5K+1CGWCX\">4位:華の会メール</a>",
+			title: "<a target=\"_blank\" href=\"https://px.a8.net/svt/ejp?a8mat=2ZIWSG+70FU1M+1T5K+1CGWCX\">5位:華の会メール</a>",
 			star: "4",
 			category: "育毛剤",
 			nayami: "抜け毛",
@@ -71,7 +86,7 @@ $(function() {
 			life: "安全",
 			price: "愛人・人妻と出会いたい方",
 			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=156116&affID=92390&siteID=18104\">5位:ウィンク</a>",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=156116&affID=92390&siteID=18104\">6位:ウィンク</a>",
 			star: "4",
 			category: "育毛剤",
 			nayami: "頭頂部",
@@ -85,7 +100,7 @@ $(function() {
 			life: "安全",
 			price: "500円の恋活イベント",
 			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"http://www.medipartner.jp/click.php?APID=24059&affID=0004571\">6位:恋活GOALL</a>",
+			title: "<a target=\"_blank\" href=\"http://www.medipartner.jp/click.php?APID=24059&affID=0004571\">7位:恋活GOALL</a>",
 			star: "5",
 			category: "育毛剤",
 			nayami: "頭頂部",
@@ -94,20 +109,6 @@ $(function() {
 			link: "http://www.medipartner.jp/click.php?APID=24059&affID=0004571"
 		},
 
-		{
-			id: "ikukuru2",
-			name: "イククル",
-			life: "安全",
-			price: "完全匿名",
-			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=19628&affID=92390&siteID=181045\">7位:イククル</a>",
-			star: "3.5",
-			category: "育毛剤",
-			nayami: "頭頂部",
-			tag: ["稼げる","人気"],
-			description: "・「匿名」で秘密の出会いができる<br>・オトナ専用の有料コミュニティサイト<br>・お金持ちの男性が多いのでオススメ",
-			link: "https://track.bannerbridge.net/click.php?APID=19628&affID=92390&siteID=181045"
-		},
 
 			];
 
