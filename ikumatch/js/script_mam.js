@@ -19,7 +19,7 @@ $(function() {
 			link: "https://mobee2.jp/ad/p/r?medium=3856&ad=608&suid="
 		},
 		{
-			id: "koitomo",
+			id: "koitomo2",
 			name: "恋友",
 			life: "安全",
 			price: "愛人・人妻と出会いたい方",

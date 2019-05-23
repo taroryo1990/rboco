@@ -51,7 +51,7 @@ $(function() {
 			link: "https://mobee2.jp/ad/p/r?medium=3856&ad=608&suid="
 		},
 		{
-			id: "koitomo",
+			id: "koitomo2",
 			name: "恋友",
 			life: "安全",
 			price: "愛人・人妻と出会いたい方",
@@ -61,7 +61,7 @@ $(function() {
 			category: "育毛剤",
 			nayami: "頭頂部",
 			tag: ["熟女","人気"],
-			description: "・30代以上の熟女が中心<br>・ママ活専用サイトではないが、女性が多いのでおすすめ<br>・お金持ちの方が多い",
+			description: "・30代以上の熟女が中心<br>・きれいな女性が多いのでおすすめ<br>・お金持ちの方が多い",
 			link: "https://track.bannerbridge.net/click.php?APID=155579&affID=92390&siteID=180164"
 		},
 
