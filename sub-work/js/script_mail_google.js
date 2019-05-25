@@ -65,7 +65,7 @@ $(function() {
 			link: "https://track.bannerbridge.net/click.php?APID=60192&affID=92390&siteID=180164"
 		},
 		{
-			id: "telejob",
+			id: "telejob2",
 			name: "テレジョブ",
 			life: "安全",
 			price: "電話でバイト",
