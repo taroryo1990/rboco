@@ -49,19 +49,20 @@ $(function() {
 			link: "https://mobee2.jp/ad/p/r?medium=3856&ad=608&suid="
 		},
 		{
-			id: "koitomo2",
-			name: "恋友",
+			id: "wink2",
+			name: "ウィンク",
 			life: "安全",
 			price: "愛人・人妻と出会いたい方",
 			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=155579&affID=92390&siteID=180164\">4位:恋友</a>",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=156116&affID=92390&siteID=18104\">4位:ウィンク</a>",
 			star: "4",
 			category: "育毛剤",
 			nayami: "頭頂部",
 			tag: ["熟女","人気"],
-			description: "・30代以上の熟女が中心<br>・女性が多いのでおすすめ<br>・きれいでお金持ちの方が多い",
-			link: "https://track.bannerbridge.net/click.php?APID=155579&affID=92390&siteID=180164"
+			description: "・30代以上の熟女が中心<br>・女性は登録無料で遊べる<br>・30代以上なので、お金持ちの女性が多い",
+			link: "https://track.bannerbridge.net/click.php?APID=156116&affID=92390&siteID=18104"
 		},
+
 
 
 		{
@@ -78,20 +79,19 @@ $(function() {
 			description: "・30歳以上限定サイト<br>・男性の年齢が高いため、ハイスペック男性探しに最適<br>・Tポイントがたまる制度あり",
 			link: "https://px.a8.net/svt/ejp?a8mat=2ZIWSG+70FU1M+1T5K+1CGWCX"
 		},
-
 		{
-			id: "wink2",
-			name: "ウィンク",
-			life: "安全",
-			price: "愛人・人妻と出会いたい方",
+			id: "bump",
+			name: "バンプ",
+			life: "パパ活を求めている女性",
+			price: "お金持ちのみ登録",
 			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=156116&affID=92390&siteID=18104\">6位:ウィンク</a>",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=161991&affID=92390&siteID=181045\">6位:BUMP</a>",
 			star: "4",
 			category: "育毛剤",
 			nayami: "頭頂部",
-			tag: ["熟女","人気"],
-			description: "・30代以上の熟女が中心<br>・女性は登録無料で遊べる<br>・30代以上なので、お金持ちの女性が多い",
-			link: "https://track.bannerbridge.net/click.php?APID=156116&affID=92390&siteID=18104"
+			tag: ["まじめ","安全"],
+			description: "・写真での審査もあるため、顔が隠れている女性はいない<br>・出会える率はとても高い。<br>・きれいな女性多数。",
+			link: "https://track.bannerbridge.net/click.php?APID=161991&affID=92390&siteID=181045"
 		},
 
 
