@@ -2,10 +2,131 @@ $(function() {
 	/*================================================================
 	情報
 	================================================================*/
-
 	var allList = [
 
-	];
+		{
+			id: "vivo",
+			name: "VIVO",
+			life: "安全",
+			price: "バイトで兄活",
+			warranty: "会わないから安全",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=136100&affID=92390&siteID=180164\">1位:メールレディVI-VO</a>",
+			star: "4",
+			category: "育毛剤",
+			nayami: "頭頂部",
+			tag: ["登録ボーナス","安全"],
+			description: "・お兄さんたちとチャットや電話でお話するお仕事<br>・登録ボーナスで8000円もらえる<br>・通話15秒ごとにお金が稼げるお仕事",
+			link: "https://track.bannerbridge.net/click.php?APID=136100&affID=92390&siteID=180164"
+		},
+
+
+		{
+			id: "wkwkmail2",
+			name: "わくわくメール",
+			life: "パパ活におすすめ",
+			price: "登録無料",
+			warranty: "大手運営",
+			title: "<a target=\"_blank\" href=\"https://mobee2.jp/ad/p/r?medium=3856&ad=608&suid=\">2位:わくわくメール</a>",
+			star: "4.5",
+			category: "育毛トニック",
+			nayami: "抜け毛",
+			tag: ["安全","人気"],
+			description: "・デートに対してお金の交渉も！<br>・ご飯デート機能（おねだり機能）でおごってくれる方を探せる<br>・国内最大級の会員数！",
+			link: "https://mobee2.jp/ad/p/r?medium=3856&ad=608&suid="
+		},
+		{
+			id: "fanza",
+			name: "FANZA",
+			life: "安全",
+			price: "スマホ副業",
+			warranty: "会わないから安全",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=139593&affID=92390&siteID=180164\">3位:アダルト無し 安心のFANZA</a>",
+			star: "4",
+			category: "育毛剤",
+			nayami: "頭頂部",
+			tag: ["まじめ","安全"],
+			description: "・初心者でも時給7500円以上可能<br>・未経験歓迎、ノルマ無し<br>・ノンアダルトの在宅チャット",
+			link: "https://track.bannerbridge.net/click.php?APID=139593&affID=92390&siteID=180164"
+		},
+
+
+		{
+			id: "pocketwork3",
+			name: "ポケットワーク",
+			life: "安全",
+			price: "チャットでバイト",
+			warranty: "会わないから安全",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=60192&affID=92390&siteID=180164\">4位:在宅可ポケットワーク</a>",
+			star: "4",
+			category: "育毛剤",
+			nayami: "頭頂部",
+			tag: ["メール","通勤も可"],
+			description: "・時給4000~30000円超えも！<br>・月間最高報酬150万超え<br>・今なら特別報酬キャンペーンも！",
+			link: "https://track.bannerbridge.net/click.php?APID=60192&affID=92390&siteID=180164"
+		},
+		{
+			id: "telejob",
+			name: "テレジョブ",
+			life: "安全",
+			price: "電話でバイト",
+			warranty: "会わないから安全",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=64308&affID=92390&siteID=180164\">5位:テレジョブ</a>",
+			star: "4",
+			category: "育毛剤",
+			nayami: "頭頂部",
+			tag: ["電話","安全"],
+			description: "・今だけ！登録お祝い金最大10万円贈呈<br>・電話するだけ、時給3000円以上<br>・未経験歓迎！",
+			link: "https://track.bannerbridge.net/click.php?APID=64308&affID=92390&siteID=180164"
+		},
+
+		{
+			id: "wink2",
+			name: "ウィンク",
+			life: "安全",
+			price: "お金持ちと出会いたい方",
+			warranty: "大手運営",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=160290&affID=92390&siteID=181045\">6位:出会えるし稼げるウィンク</a>",
+			star: "4",
+			category: "育毛剤",
+			nayami: "頭頂部",
+			tag: ["熟女","人気"],
+			description: "・メールするごとにポイントが溜まって換金できる！<br>・モテるし、稼げるサイト<br>・30代以上なので、お金持ちの男性が多い",
+			link: "https://track.bannerbridge.net/click.php?APID=160290&affID=92390&siteID=181045"
+		},
+
+
+		{
+			id: "bump",
+			name: "バンプ",
+			life: "パパ活専用",
+			price: "お金持ちのみ登録",
+			warranty: "大手運営",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=161991&affID=92390&siteID=181045\">7位:BUMP</a>",
+			star: "4",
+			category: "育毛剤",
+			nayami: "頭頂部",
+			tag: ["まじめ","安全"],
+			description: "・経営者、医者、弁護士などお金持ちが登録<br>・大人の男性とデートしてお金をもらう！<br>・男性に対して厳しい審査も行っているので安心",
+			link: "https://track.bannerbridge.net/click.php?APID=160290&affID=92390&siteID=181045"
+		},
+		{
+			id: "mintjc",
+			name: "Jメール",
+			life: "安全",
+			price: "お金持ちマッチング",
+			warranty: "大手運営",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=152699&affID=92390&siteID=181045\">8位:ミントC-Jメール</a>",
+			star: "4.5",
+			category: "育毛剤",
+			nayami: "頭頂部",
+			tag: ["ワン◯イト","人気"],
+			description: "・お金持ちパパとデートしてお金をもらえる<br>・ニックネーム制で本名不要<br>・お金持ち男性多数と口コミ",
+			link: "https://track.bannerbridge.net/click.php?APID=152699&affID=92390&siteID=181045"
+		},
+
+
+
+			];
 
 	/*================================================================
 	スクリプトはじまり
@@ -56,25 +177,28 @@ $(function() {
 				outputHtml += '		</div>';
 				outputHtml += '		<div class="detail-list">';
 				outputHtml += '			<table>';
-				outputHtml += '				<tr><td class="amount">サポート体制</td><td>:' + line.life + '時間</td></tr>';
-				outputHtml += '				<tr><td class="warranty">顔出し</td><td>:' + line.warranty + '</td></tr>';
-				outputHtml += '				<tr><td class="list_price">月額最高</td><td>:' + line.list_price + '</td></tr>';
-				outputHtml += '				<tr><td class="price">時給</td><td class="price">:' + line.price + '</td></tr>';
+				outputHtml += '				<tr><td class="amount">女性</td><td>:' + line.life + '</td></tr>';
+				outputHtml += '				<tr><td class="warranty">安全性</td><td>:' + line.warranty + '</td></tr>';
+				outputHtml += '				<tr><td class="price">特徴</td><td class="price">:' + line.price + '</td></tr>';
 				outputHtml += '			</table>';
 				outputHtml += '		</div>';
 				outputHtml += '	</div><div class="clear"></div>';
 				outputHtml += '<div class="description-box"><p class="description">' + line.description + '</p></div>';
-				outputHtml += '<div class="conversion"><a class="myButton hvr-grow-shadow" target="_blank" href="' + line.link + '">詳しくはこちら</a></div>';
+				outputHtml += '<div class="conversion"><a class="myButton hvr-grow-shadow" target="_blank" href="' + line.link + '">詳細はこちら</a></div>';
 				outputHtml += '<div class="clear"></div></div>';
 				outputHtml += '<!--/.product--></div>';
 			});
-		} else 
+		} else {
+			outputHtml += '<div class="noproduct"><p>条件に当てはまる商品を検索できませんでした。</p></div>';
+		}
 
 		//HTML出力（フェードインアニメーションつき）
 		$('.productArea').html(outputHtml);
 		$('.productArea .product').css({opacity: 0}).each(function(i){$(this).delay(100 * i).animate({opacity:1}, 300);
 		});
 
+		//検索件数表示
+		$('.productCntArea').html('<p id="serch-result">' + allList.length + '件中' + list.length + '件を表示しています。</p>');
 	}
 
 	/*================================================================
@@ -165,9 +289,9 @@ $(function() {
 		return _.filter(list, function(item) {
 			switch (value) {
 				case '1':
-					return item.category == "メールレディ";
+					return item.category == "育毛剤";
 				case '2':
-					return item.category == "チャットレディ";
+					return item.category == "育毛トニック";
 			}
 		});
 	}
@@ -183,13 +307,13 @@ $(function() {
 		return _.filter(list, function(item) {
 			switch (value) {
 				case '1':
-					return item.nayami == "顔出しなし";
+					return item.nayami == "抜け毛";
 				case '2':
-					return item.nayami == "通勤";
+					return item.nayami == "ふけ・かゆみ";
 				case '3':
-					return item.nayami == "高時給";
+					return item.nayami == "頭頂部";
 				case '4':
-					return item.nayami == "振込早い";
+					return item.nayami == "M字型";
 			}
 		});
 	}
