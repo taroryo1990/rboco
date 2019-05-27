@@ -4,20 +4,6 @@ $(function() {
 	================================================================*/
 	var allList = [
 
-		{
-			id: "vivo",
-			name: "VIVO",
-			life: "安全",
-			price: "バイトで兄活",
-			warranty: "会わないから安全",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=136100&affID=92390&siteID=180164\">1位:メールレディVI-VO</a>",
-			star: "4",
-			category: "育毛剤",
-			nayami: "頭頂部",
-			tag: ["登録ボーナス","安全"],
-			description: "・お兄さんたちとチャットや電話でお話するお仕事<br>・登録ボーナスで8000円もらえる<br>・通話15秒ごとにお金が稼げるお仕事",
-			link: "https://track.bannerbridge.net/click.php?APID=136100&affID=92390&siteID=180164"
-		},
 
 
 		{
@@ -26,7 +12,7 @@ $(function() {
 			life: "パパ活におすすめ",
 			price: "登録無料",
 			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://mobee2.jp/ad/p/r?medium=3856&ad=608&suid=\">2位:わくわくメール</a>",
+			title: "<a target=\"_blank\" href=\"https://mobee2.jp/ad/p/r?medium=3856&ad=608&suid=\">1位:わくわくメール</a>",
 			star: "4.5",
 			category: "育毛トニック",
 			nayami: "抜け毛",
@@ -35,12 +21,40 @@ $(function() {
 			link: "https://mobee2.jp/ad/p/r?medium=3856&ad=608&suid="
 		},
 		{
+			id: "vivo",
+			name: "VIVO",
+			life: "安全",
+			price: "バイトで兄活",
+			warranty: "会わないから安全",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=136100&affID=92390&siteID=180164\">2位:メールレディVI-VO</a>",
+			star: "4",
+			category: "育毛剤",
+			nayami: "頭頂部",
+			tag: ["登録ボーナス","安全"],
+			description: "・お兄さんたちとチャットや電話でお話するお仕事<br>・登録ボーナスで8000円もらえる<br>・通話15秒ごとにお金が稼げるお仕事",
+			link: "https://track.bannerbridge.net/click.php?APID=136100&affID=92390&siteID=180164"
+		},
+		{
+			id: "wink2",
+			name: "ウィンク",
+			life: "安全",
+			price: "お金持ちと出会いたい方",
+			warranty: "大手運営",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=160290&affID=92390&siteID=181045\">3位:出会えるし稼げるウィンク</a>",
+			star: "4",
+			category: "育毛剤",
+			nayami: "頭頂部",
+			tag: ["熟女","人気"],
+			description: "・メールするごとにポイントが溜まって換金できる！<br>・モテるし、稼げるサイト<br>・30代以上なので、お金持ちの男性が多い",
+			link: "https://track.bannerbridge.net/click.php?APID=160290&affID=92390&siteID=181045"
+		},
+		{
 			id: "fanza",
 			name: "FANZA",
 			life: "安全",
 			price: "スマホ副業",
 			warranty: "会わないから安全",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=139593&affID=92390&siteID=180164\">3位:アダルト無し 安心のFANZA</a>",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=139593&affID=92390&siteID=180164\">4位:アダルト無し 安心のFANZA</a>",
 			star: "4",
 			category: "育毛剤",
 			nayami: "頭頂部",
@@ -56,7 +70,7 @@ $(function() {
 			life: "安全",
 			price: "チャットでバイト",
 			warranty: "会わないから安全",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=60192&affID=92390&siteID=180164\">4位:在宅可ポケットワーク</a>",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=60192&affID=92390&siteID=180164\">5位:在宅可ポケットワーク</a>",
 			star: "4",
 			category: "育毛剤",
 			nayami: "頭頂部",
@@ -70,7 +84,7 @@ $(function() {
 			life: "安全",
 			price: "電話でバイト",
 			warranty: "会わないから安全",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=64308&affID=92390&siteID=180164\">5位:テレジョブ</a>",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=64308&affID=92390&siteID=180164\">6位:テレジョブ</a>",
 			star: "4",
 			category: "育毛剤",
 			nayami: "頭頂部",
@@ -79,20 +93,6 @@ $(function() {
 			link: "https://track.bannerbridge.net/click.php?APID=64308&affID=92390&siteID=180164"
 		},
 
-		{
-			id: "wink2",
-			name: "ウィンク",
-			life: "安全",
-			price: "お金持ちと出会いたい方",
-			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=160290&affID=92390&siteID=181045\">6位:出会えるし稼げるウィンク</a>",
-			star: "4",
-			category: "育毛剤",
-			nayami: "頭頂部",
-			tag: ["熟女","人気"],
-			description: "・メールするごとにポイントが溜まって換金できる！<br>・モテるし、稼げるサイト<br>・30代以上なので、お金持ちの男性が多い",
-			link: "https://track.bannerbridge.net/click.php?APID=160290&affID=92390&siteID=181045"
-		},
 
 
 		{
@@ -109,22 +109,6 @@ $(function() {
 			description: "・経営者、医者、弁護士などお金持ちが登録<br>・大人の男性とデートしてお金をもらう！<br>・男性に対して厳しい審査も行っているので安心",
 			link: "https://track.bannerbridge.net/click.php?APID=160290&affID=92390&siteID=181045"
 		},
-		{
-			id: "mintjc",
-			name: "Jメール",
-			life: "安全",
-			price: "お金持ちマッチング",
-			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=152699&affID=92390&siteID=181045\">8位:ミントC-Jメール</a>",
-			star: "4.5",
-			category: "育毛剤",
-			nayami: "頭頂部",
-			tag: ["ワン◯イト","人気"],
-			description: "・お金持ちパパとデートしてお金をもらえる<br>・ニックネーム制で本名不要<br>・お金持ち男性多数と口コミ",
-			link: "https://track.bannerbridge.net/click.php?APID=152699&affID=92390&siteID=181045"
-		},
-
-
 
 			];
 
