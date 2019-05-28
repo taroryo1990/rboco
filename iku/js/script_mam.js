@@ -62,6 +62,21 @@ $(function() {
 			description: "・30歳以上限定サイト<br>・女性の年齢が高いため、ママ・パトロン探しに最適<br>・Tポイントがたまる制度あり",
 			link: "https://px.a8.net/svt/ejp?a8mat=2ZIWSG+70FU1M+1T5K+1CGWCX"
 		},
+		{
+			id: "bump",
+			name: "バンプ",
+			life: "ママ活にも",
+			price: "お金持ちのみ登録",
+			warranty: "大手運営",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=161991&affID=92390&siteID=181045\">4位:BUMP</a>",
+			star: "4",
+			category: "育毛剤",
+			nayami: "頭頂部",
+			tag: ["まじめ","安全"],
+			description: "・経営者、医者、弁護士などお金持ちが登録<br>・ママ活・パパ活ができるサイト！<br>・厳しい審査も行っているので安心",
+			link: "https://track.bannerbridge.net/click.php?APID=160290&affID=92390&siteID=181045"
+		},
+
 
 		{
 			id: "merupara2",
@@ -79,20 +94,6 @@ $(function() {
 		},
 
 
-		{
-			id: "ikukuru2",
-			name: "イククル",
-			life: "安全",
-			price: "健全にママ活する方",
-			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=19628&affID=92390&siteID=181045\">6位:イククル</a>",
-			star: "4",
-			category: "育毛剤",
-			nayami: "頭頂部",
-			tag: ["稼げる","人気"],
-			description: "・「年収」で検索できるプロフ検索が便利<br>・女性は登録無料で遊べる<br>・ママ活専用サイトではない、お金持ちの女性が多いのでオススメ",
-			link: "https://track.bannerbridge.net/click.php?APID=19628&affID=92390&siteID=181045"
-		},
 
 		{
 			id: "lovesearch2",

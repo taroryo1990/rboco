@@ -34,6 +34,36 @@ $(function() {
 			description: "・アダルト掲示板でワンナイトしてお金をもらえる<br>・ニックネーム制で本名不要<br>・お金持ち女性多数と口コミ",
 			link: "https://track.bannerbridge.net/click.php?APID=152699&affID=92390&siteID=181045"
 		},
+		{
+			id: "koitomo2",
+			name: "恋友",
+			life: "安全",
+			price: "愛人・人妻と出会いたい方",
+			warranty: "大手運営",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=155579&affID=92390&siteID=180164\">4位:恋友</a>",
+			star: "4",
+			category: "育毛剤",
+			nayami: "頭頂部",
+			tag: ["熟女","人気"],
+			description: "・30代以上の熟女が中心<br>・ママ活専用サイトではないが、女性が多いのでおすすめ<br>・お金持ちの方が多い",
+			link: "https://track.bannerbridge.net/click.php?APID=155579&affID=92390&siteID=180164"
+		},
+		{
+			id: "bump",
+			name: "バンプ",
+			life: "ママ活にも",
+			price: "お金持ちのみ登録",
+			warranty: "大手運営",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=161991&affID=92390&siteID=181045\">5位:BUMP</a>",
+			star: "4",
+			category: "育毛剤",
+			nayami: "頭頂部",
+			tag: ["まじめ","安全"],
+			description: "・経営者、医者、弁護士などお金持ちが登録<br>・姉活、ママ活・パパ活ができるサイト！<br>・厳しい審査も行っているので安心",
+			link: "https://track.bannerbridge.net/click.php?APID=160290&affID=92390&siteID=181045"
+		},
+
+
 
 		{
 			id: "hananokai2",
@@ -41,7 +71,7 @@ $(function() {
 			life: "安全な",
 			price: "30代以上メイン",
 			warranty: "非常に高い",
-			title: "<a target=\"_blank\" href=\"https://px.a8.net/svt/ejp?a8mat=2ZIWSG+70FU1M+1T5K+1CGWCX\">3位:華の会メール</a>",
+			title: "<a target=\"_blank\" href=\"https://px.a8.net/svt/ejp?a8mat=2ZIWSG+70FU1M+1T5K+1CGWCX\">6位:華の会メール</a>",
 			star: "3.5",
 			category: "育毛剤",
 			nayami: "抜け毛",
@@ -56,27 +86,13 @@ $(function() {
 			life: "安全",
 			price: "セキュリティ重視",
 			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"http://www.medipartner.jp/click.php?APID=10345&affID=0004571\">4位:ラブサーチ</a>",
+			title: "<a target=\"_blank\" href=\"http://www.medipartner.jp/click.php?APID=10345&affID=0004571\">7位:ラブサーチ</a>",
 			star: "4",
 			category: "育毛剤",
 			nayami: "頭頂部",
 			tag: ["まじめ","安全"],
 			description: "・姉活専用サイトではないが、出会える<br>・365日監視体制でサポート可能<br>・登録審査も行っているので安心",
 			link: "http://www.medipartner.jp/click.php?APID=10345&affID=0004571"
-		},
-		{
-			id: "ikukuru2",
-			name: "イククル",
-			life: "安全",
-			price: "健全に姉活する方",
-			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=19628&affID=92390&siteID=181045\">5位:イククル</a>",
-			star: "4",
-			category: "育毛剤",
-			nayami: "頭頂部",
-			tag: ["稼げる","人気"],
-			description: "・「年収」で検索できるプロフ検索が便利<br>・女性は登録無料で遊べる<br>・姉活専用サイトではない、お金持ちの女性が多いのでオススメ",
-			link: "https://track.bannerbridge.net/click.php?APID=19628&affID=92390&siteID=181045"
 		},
 
 

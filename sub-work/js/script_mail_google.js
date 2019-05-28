@@ -21,12 +21,28 @@ $(function() {
 			link: "https://mobee2.jp/ad/p/r?medium=3856&ad=608&suid="
 		},
 		{
+			id: "telejob2",
+			name: "テレジョブ",
+			life: "安全",
+			price: "電話でバイト",
+			warranty: "会わないから安全",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=64308&affID=92390&siteID=180164\">2位:テレジョブ</a>",
+			star: "4",
+			category: "育毛剤",
+			nayami: "頭頂部",
+			tag: ["電話","安全"],
+			description: "・今だけ！登録お祝い金最大10万円贈呈<br>・電話するだけ、時給3000円以上<br>・未経験歓迎！",
+			link: "https://track.bannerbridge.net/click.php?APID=64308&affID=92390&siteID=180164"
+		},
+
+
+		{
 			id: "vivo",
 			name: "VIVO",
 			life: "安全",
 			price: "バイトで兄活",
 			warranty: "会わないから安全",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=136100&affID=92390&siteID=180164\">2位:メールレディVI-VO</a>",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=136100&affID=92390&siteID=180164\">3位:メールレディVI-VO</a>",
 			star: "4",
 			category: "育毛剤",
 			nayami: "頭頂部",
@@ -40,7 +56,7 @@ $(function() {
 			life: "安全",
 			price: "お金持ちと出会いたい方",
 			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=160290&affID=92390&siteID=181045\">3位:出会えるし稼げるウィンク</a>",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=160290&affID=92390&siteID=181045\">4位:出会えるし稼げるウィンク</a>",
 			star: "4",
 			category: "育毛剤",
 			nayami: "頭頂部",
@@ -54,7 +70,7 @@ $(function() {
 			life: "安全",
 			price: "スマホ副業",
 			warranty: "会わないから安全",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=139593&affID=92390&siteID=180164\">4位:アダルト無し 安心のFANZA</a>",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=139593&affID=92390&siteID=180164\">5位:アダルト無し 安心のFANZA</a>",
 			star: "4",
 			category: "育毛剤",
 			nayami: "頭頂部",
@@ -70,7 +86,7 @@ $(function() {
 			life: "安全",
 			price: "チャットでバイト",
 			warranty: "会わないから安全",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=60192&affID=92390&siteID=180164\">5位:在宅可ポケットワーク</a>",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=60192&affID=92390&siteID=180164\">6位:在宅可ポケットワーク</a>",
 			star: "4",
 			category: "育毛剤",
 			nayami: "頭頂部",
@@ -78,21 +94,6 @@ $(function() {
 			description: "・時給4000~30000円超えも！<br>・月間最高報酬150万超え<br>・今なら特別報酬キャンペーンも！",
 			link: "https://track.bannerbridge.net/click.php?APID=60192&affID=92390&siteID=180164"
 		},
-		{
-			id: "telejob2",
-			name: "テレジョブ",
-			life: "安全",
-			price: "電話でバイト",
-			warranty: "会わないから安全",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=64308&affID=92390&siteID=180164\">6位:テレジョブ</a>",
-			star: "4",
-			category: "育毛剤",
-			nayami: "頭頂部",
-			tag: ["電話","安全"],
-			description: "・今だけ！登録お祝い金最大10万円贈呈<br>・電話するだけ、時給3000円以上<br>・未経験歓迎！",
-			link: "https://track.bannerbridge.net/click.php?APID=64308&affID=92390&siteID=180164"
-		},
-
 
 
 		{
