@@ -51,47 +51,61 @@ $(function() {
 			link: "https://preaf.jp/pa.do?s=v01326&o=38443&guid=ON"
 		},
 		{
-			id: "kurea_man",
-			name: "クレア",
-			life: "安全",
-			price: "チャットで女性と話せる",
-			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://preaf.jp/pa.do?s=v02947&o=43247&guid=ON\">4位:クレア</a>",
-			star: "5",
-			category: "育毛剤",
-			nayami: "頭頂部",
-			tag: ["セ◯レ","人気"],
-			description: "・ア◯ルトチャット、チャット内で会話<br>・人妻に話したい人などオトナ向け<br>・チャットでアダルトなことを要求できる",
-			link: "https://preaf.jp/pa.do?s=v02947&o=43247&guid=ON"
-		},
-		{
-			id: "guran2",
-			name: "グラン",
-			life: "安全",
-			price: "匿名でアダルトなビデオチャット",
-			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://preaf.jp/pa.do?s=v02947&o=43248&guid=ON\">5位:グラン</a>",
-			star: "5",
-			category: "育毛剤",
-			nayami: "頭頂部",
-			tag: ["セ◯レになれる可能性","人気"],
-			description: "・ア◯ルトビデオチャット<br>・Hな女性と話せる、出会いの交渉も！？<br>・チャットで安全、匿名で誰にもばれない。",
-			link: "https://preaf.jp/pa.do?s=v02947&o=43248&guid=ON"
-		},
-
-		{
 			id: "wink2",
 			name: "ウィンク",
 			life: "安全",
 			price: "愛人・人妻と出会いたい方",
 			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=156905&affID=92390&siteID=181045\">6位:ウィンク</a>",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=156905&affID=92390&siteID=181045\">4位:ウィンク</a>",
 			star: "4",
 			category: "育毛剤",
 			nayami: "頭頂部",
 			tag: ["熟女","人気"],
 			description: "・30代以上の熟女が中心<br>・女性は登録無料で遊べる<br>・30代以上なので、お金持ちの女性が多い",
 			link: "https://track.bannerbridge.net/click.php?APID=156905&affID=92390&siteID=181045"
+		},
+		{
+			id: "merupara2",
+			name: "メルパラ",
+			life: "安全",
+			price: "じっくり探したい方向け",
+			warranty: "大手運営",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=21614&affID=92390&siteID=181045\">5位:メルパラ</a>",
+			star: "4",
+			category: "育毛剤",
+			nayami: "頭頂部",
+			tag: ["稼げる","人気"],
+			description: "・ハイスペック女性が多数登録<br>・お金持ち女性が多い<br>・プロフィール検索が細かいので、簡単にお相手を探せる",
+			link: "https://track.bannerbridge.net/click.php?APID=21614&affID=92390&siteID=181045"
+		},
+
+		{
+			id: "hananokai2",
+			name: "華の会メール",
+			life: "安全な",
+			price: "30代以上メイン",
+			warranty: "非常に高い",
+			title: "<a target=\"_blank\" href=\"https://px.a8.net/svt/ejp?a8mat=2ZIWSG+70FU1M+1T5K+1CGWCX\">6位:華の会メール</a>",
+			star: "4",
+			category: "育毛剤",
+			nayami: "抜け毛",
+			tag: ["大人女性","真剣度"],
+			description: "・30歳以上限定サイト<br>・男性の年齢が高いため、ハイスペック男性探しに最適<br>・Tポイントがたまる制度あり",
+			link: "https://px.a8.net/svt/ejp?a8mat=2ZIWSG+70FU1M+1T5K+1CGWCX"
+		},
+		{
+			id: "bump",
+			name: "バンプ",
+			life: "パパ活を求めている女性",
+			price: "お金持ちのみ登録",
+			warranty: "大手運営",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=161991&affID=92390&siteID=181045\">7位:BUMP</a>",
+			star: "4",
+			category: "育毛剤",
+			nayami: "頭頂部",
+			tag: ["まじめ","安全"],
+			description: "・写真での審査もあるため、顔が隠れている女性はいない<br>・出会える率はとても高い。<br>・きれいな女性多数。",
+			link: "https://track.bannerbridge.net/click.php?APID=161991&affID=92390&siteID=181045"
 		},
 
 
