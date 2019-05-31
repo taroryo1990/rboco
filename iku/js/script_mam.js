@@ -68,7 +68,7 @@ $(function() {
 			life: "ママ活にも",
 			price: "お金持ちのみ登録",
 			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=161991&affID=92390&siteID=181045\">4位:BUMP</a>",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=161991&affID=92390&siteID=181045\">5位:BUMP</a>",
 			star: "4",
 			category: "育毛剤",
 			nayami: "頭頂部",
