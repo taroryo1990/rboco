@@ -40,7 +40,7 @@ $(function() {
 			life: "安全",
 			price: "愛人・人妻と出会いたい方",
 			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=155579&affID=92390&siteID=180164\">4位:恋友</a>",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=155579&affID=92390&siteID=180164\">3位:恋友</a>",
 			star: "4",
 			category: "育毛剤",
 			nayami: "頭頂部",
@@ -54,13 +54,27 @@ $(function() {
 			life: "ママ活にも",
 			price: "お金持ちのみ登録",
 			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=161991&affID=92390&siteID=181045\">5位:BUMP</a>",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=161991&affID=92390&siteID=181045\">4位:BUMP</a>",
 			star: "4",
 			category: "育毛剤",
 			nayami: "頭頂部",
 			tag: ["まじめ","安全"],
 			description: "・経営者、医者、弁護士などお金持ちが登録<br>・姉活、ママ活・パパ活ができるサイト！<br>・厳しい審査も行っているので安心",
 			link: "https://track.bannerbridge.net/click.php?APID=160290&affID=92390&siteID=181045"
+		},
+		{
+			id: "merupara2",
+			name: "メルパラ",
+			life: "安全",
+			price: "じっくり探したい方向け",
+			warranty: "大手運営",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=21614&affID=92390&siteID=181045\">5位:メルパラ</a>",
+			star: "4",
+			category: "育毛剤",
+			nayami: "頭頂部",
+			tag: ["稼げる","人気"],
+			description: "・ハイスペック女性が多数登録<br>・お金持ち女性が多い<br>・プロフィール検索が細かいので、簡単にお相手を探せる",
+			link: "https://track.bannerbridge.net/click.php?APID=21614&affID=92390&siteID=181045"
 		},
 
 
