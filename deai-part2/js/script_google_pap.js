@@ -64,6 +64,20 @@ $(function() {
 			description: "・パパたちとチャットや電話でお話するお仕事<br>・登録ボーナスで8000円もらえる<br>・通話15秒ごとにお金が稼げるお仕事",
 			link: "https://track.bannerbridge.net/click.php?APID=136100&affID=92390&siteID=180164"
 		},
+		{
+			id: "merupara2",
+			name: "メルパラ",
+			life: "安全",
+			price: "じっくり探したい方向け",
+			warranty: "大手運営",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=21614&affID=92390&siteID=181045\">5位:メルパラ</a>",
+			star: "4",
+			category: "育毛剤",
+			nayami: "頭頂部",
+			tag: ["稼げる","人気"],
+			description: "・ハイスペック女性が多数登録<br>・お金持ち女性が多い<br>・プロフィール検索が細かいので、簡単にお相手を探せる",
+			link: "https://track.bannerbridge.net/click.php?APID=21614&affID=92390&siteID=181045"
+		},
 
 
 		{
@@ -72,7 +86,7 @@ $(function() {
 			life: "安全な",
 			price: "30代以上メイン",
 			warranty: "非常に高い",
-			title: "<a target=\"_blank\" href=\"https://px.a8.net/svt/ejp?a8mat=2ZIWSG+70FU1M+1T5K+1CGWCX\">5位:華の会メール</a>",
+			title: "<a target=\"_blank\" href=\"https://px.a8.net/svt/ejp?a8mat=2ZIWSG+70FU1M+1T5K+1CGWCX\">6位:華の会メール</a>",
 			star: "3.5",
 			category: "育毛剤",
 			nayami: "抜け毛",
@@ -87,7 +101,7 @@ $(function() {
 			life: "安全",
 			price: "パパ活専用サイト",
 			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://t.afi-b.com/visit.php?guid=ON&a=B83609-r2812046&p=C6609048\">6位:シュガーダディ</a>",
+			title: "<a target=\"_blank\" href=\"https://t.afi-b.com/visit.php?guid=ON&a=B83609-r2812046&p=C6609048\">7位:シュガーダディ</a>",
 			star: "4",
 			category: "育毛剤",
 			nayami: "頭頂部",
@@ -101,7 +115,7 @@ $(function() {
 			life: "安全",
 			price: "セキュリティ重視",
 			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"http://www.medipartner.jp/click.php?APID=10345&affID=0004571\">7位:ラブサーチ</a>",
+			title: "<a target=\"_blank\" href=\"http://www.medipartner.jp/click.php?APID=10345&affID=0004571\">8位:ラブサーチ</a>",
 			star: "4",
 			category: "育毛剤",
 			nayami: "頭頂部",
