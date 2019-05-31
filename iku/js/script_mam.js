@@ -84,7 +84,7 @@ $(function() {
 			life: "安全",
 			price: "じっくり探したい方向け",
 			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=21614&affID=92390&siteID=181045\">5位:メルパラ</a>",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=21614&affID=92390&siteID=181045\">6位:メルパラ</a>",
 			star: "4",
 			category: "育毛剤",
 			nayami: "頭頂部",
