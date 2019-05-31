@@ -15,7 +15,7 @@ $(function() {
 			category: "育毛剤",
 			nayami: "頭頂部",
 			tag: ["女性若い","人気"],
-			description: "・「今すぐ遊ぼ」ボタンでワンナ◯ト可能<br>・プロフィール検索が細かい、目的別に検索可能<br>・20代女性中心で若い方が多い",
+			description: "・「今すぐ遊ぼ」ボタンですぐに会うこと可能<br>・プロフィール検索が細かい、目的別に検索可能<br>・20代女性中心で若い方が多い",
 			link: "http://www.medipartner.jp/click.php?APID=22428&affID=0004571"
 		},
 
@@ -23,21 +23,21 @@ $(function() {
 			id: "mintjc",
 			name: "Jメール",
 			life: "安全",
-			price: "LINEでアダ◯トマッチング",
+			price: "LINEでマッチング",
 			warranty: "大手運営",
 			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=152699&affID=92390&siteID=181045\">2位:ミントC-Jメール</a>",
 			star: "4.5",
 			category: "育毛剤",
 			nayami: "頭頂部",
-			tag: ["ワン◯イト","人気"],
-			description: "・アダルト掲示板で女性が多い<br>・ニックネーム制、LINE交換<br>・パパ活目的で会ってヤレルと口コミ",
+			tag: ["女性無料","人気"],
+			description: "・掲示板で女性が多い<br>・ニックネーム制、LINE交換<br>・評判良い口コミ多数",
 			link: "https://track.bannerbridge.net/click.php?APID=152699&affID=92390&siteID=181045"
 		},
 
 		{
 			id: "wkwkmail2",
 			name: "わくわくメール",
-			life: "パパ活相手にも",
+			life: "より良い相手を！",
 			price: "登録無料",
 			warranty: "大手運営",
 			title: "<a target=\"_blank\" href=\"https://mobee2.jp/ad/p/r?medium=3856&ad=608&suid=\">3位:わくわくメール</a>",
@@ -45,7 +45,7 @@ $(function() {
 			category: "育毛トニック",
 			nayami: "抜け毛",
 			tag: ["安全","人気"],
-			description: "ご飯デート機能（おねだり機能）で女性と会える<br>体相手してくれる目的の女性多いのでサクラが少ない！",
+			description: "ご飯デート機能（おねだり機能）で女性と会える<br>女性も多いのでサクラが少ない！",
 			link: "https://mobee2.jp/ad/p/r?medium=3856&ad=608&suid="
 		},
 		{
@@ -82,7 +82,7 @@ $(function() {
 			id: "wink2",
 			name: "ウィンク",
 			life: "安全",
-			price: "愛人・人妻とLINEしたい方",
+			price: "年上とLINEしたい方",
 			warranty: "大手運営",
 			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=156905&affID=92390&siteID=181045\">6位:ウィンク</a>",
 			star: "4",
