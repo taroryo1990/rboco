@@ -24,13 +24,13 @@ $(function() {
 			life: "出会いにおすすめ",
 			price: "登録無料",
 			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://mobee2.jp/ad/p/r?medium=3856&ad=608&suid=\">2位:わくわくメール</a>",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=88002&affID=92390&siteID=181045\">2位:わくわくメール</a>",
 			star: "4.5",
 			category: "育毛トニック",
 			nayami: "抜け毛",
 			tag: ["安全","人気"],
 			description: "ご飯デート機能（おねだり機能）でおごってくれる方を探せる<br>お金持ちの女性が多い<br>国内最大級の会員数！",
-			link: "https://mobee2.jp/ad/p/r?medium=3856&ad=608&suid="
+			link: "https://track.bannerbridge.net/click.php?APID=88002&affID=92390&siteID=181045"
 		},
 		{
 			id: "ikukuru2",
