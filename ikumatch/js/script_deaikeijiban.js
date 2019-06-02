@@ -78,19 +78,32 @@ $(function() {
 			description: "・ハイスペック女性が多数登録<br>・お金持ち女性が多い<br>・プロフィール検索が細かいので、簡単にお相手を探せる",
 			link: "https://track.bannerbridge.net/click.php?APID=21614&affID=92390&siteID=181045"
 		},
-
+		{
+			id: "pcmax2",
+			name: "PCMAX",
+			life: "安全な",
+			price: "遊び目的",
+			warranty: "非常に高い",
+			title: "<a target=\"_blank\" href=\"https://mobee2.jp/ad/p/r?medium=2579&ad=141&creative=205&suid=\">6位:PCMAX</a>",
+			star: "4",
+			category: "育毛剤",
+			nayami: "抜け毛",
+			tag: ["大人女性","真剣度"],
+			description: "・セフレをつくりやすいと話題<br>・ハイスペック女性探しに最適<br>・美人が多くて、会いやすいと話題",
+			link: "https://mobee2.jp/ad/p/r?medium=2579&ad=141&creative=205&suid="
+		},
 		{
 			id: "hananokai2",
 			name: "華の会メール",
 			life: "安全な",
 			price: "30代以上メイン",
 			warranty: "非常に高い",
-			title: "<a target=\"_blank\" href=\"https://px.a8.net/svt/ejp?a8mat=2ZIWSG+70FU1M+1T5K+1CGWCX\">6位:華の会メール</a>",
+			title: "<a target=\"_blank\" href=\"https://px.a8.net/svt/ejp?a8mat=2ZIWSG+70FU1M+1T5K+1CGWCX\">7位:華の会メール</a>",
 			star: "4",
 			category: "育毛剤",
 			nayami: "抜け毛",
 			tag: ["大人女性","真剣度"],
-			description: "・30歳以上限定サイト<br>・男性の年齢が高いため、ハイスペック男性探しに最適<br>・Tポイントがたまる制度あり",
+			description: "・30歳以上限定サイト<br>・女性の年齢が高いため、ハイスペック男性探しに最適<br>・Tポイントがたまる制度あり",
 			link: "https://px.a8.net/svt/ejp?a8mat=2ZIWSG+70FU1M+1T5K+1CGWCX"
 		},
 
@@ -100,7 +113,7 @@ $(function() {
 			life: "安全",
 			price: "愛人・人妻と出会いたい方",
 			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=156905&affID=92390&siteID=181045\">7位:ウィンク</a>",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=156905&affID=92390&siteID=181045\">8位:ウィンク</a>",
 			star: "4",
 			category: "育毛剤",
 			nayami: "頭頂部",
@@ -108,21 +121,6 @@ $(function() {
 			description: "・30代以上の熟女が中心<br>・女性は登録無料で遊べる<br>・30代以上なので、お金持ちの女性が多い",
 			link: "https://track.bannerbridge.net/click.php?APID=156905&affID=92390&siteID=181045"
 		},
-		{
-			id: "goall",
-			name: "GOALL",
-			life: "安全",
-			price: "500円の恋活イベント",
-			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"http://www.medipartner.jp/click.php?APID=24059&affID=0004571\">8位:恋活GOALL</a>",
-			star: "5",
-			category: "育毛剤",
-			nayami: "頭頂部",
-			tag: ["真面目","人気"],
-			description: "・今だけたったの500円で1ヶ月参加し放題の恋活イベント<br>・あなたの恋愛傾向診断も可能<br>・イベント後も連絡がとれる。",
-			link: "http://www.medipartner.jp/click.php?APID=24059&affID=0004571"
-		},
-
 
 			];
 

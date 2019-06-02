@@ -77,6 +77,20 @@ $(function() {
 			link: "https://track.bannerbridge.net/click.php?APID=21614&affID=92390&siteID=181045"
 		},
 
+		{
+			id: "pcmax2",
+			name: "PCMAX",
+			life: "安全な",
+			price: "遊び目的",
+			warranty: "非常に高い",
+			title: "<a target=\"_blank\" href=\"https://mobee2.jp/ad/p/r?medium=2579&ad=141&creative=205&suid=\">6位:PCMAX</a>",
+			star: "4",
+			category: "育毛剤",
+			nayami: "抜け毛",
+			tag: ["大人女性","真剣度"],
+			description: "・セフレをつくりやすいと話題<br>・ハイスペック女性探しに最適<br>・美人が多くて、会いやすいと話題",
+			link: "https://mobee2.jp/ad/p/r?medium=2579&ad=141&creative=205&suid="
+		},
 
 
 		{
@@ -85,7 +99,7 @@ $(function() {
 			life: "安全な",
 			price: "30代以上メイン",
 			warranty: "非常に高い",
-			title: "<a target=\"_blank\" href=\"https://px.a8.net/svt/ejp?a8mat=2ZIWSG+70FU1M+1T5K+1CGWCX\">6位:華の会メール</a>",
+			title: "<a target=\"_blank\" href=\"https://px.a8.net/svt/ejp?a8mat=2ZIWSG+70FU1M+1T5K+1CGWCX\">7位:華の会メール</a>",
 			star: "4",
 			category: "育毛剤",
 			nayami: "抜け毛",
@@ -99,7 +113,7 @@ $(function() {
 			life: "パパ活を求めている女性",
 			price: "お金持ちのみ登録",
 			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=161991&affID=92390&siteID=181045\">7位:BUMP</a>",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=161991&affID=92390&siteID=181045\">8位:BUMP</a>",
 			star: "4",
 			category: "育毛剤",
 			nayami: "頭頂部",
@@ -115,7 +129,7 @@ $(function() {
 			life: "安全",
 			price: "完全匿名",
 			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=19628&affID=92390&siteID=181045\">8位:イククル</a>",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=19628&affID=92390&siteID=181045\">9位:イククル</a>",
 			star: "3.5",
 			category: "育毛剤",
 			nayami: "頭頂部",
