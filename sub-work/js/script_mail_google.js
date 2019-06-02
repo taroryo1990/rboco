@@ -7,32 +7,47 @@ $(function() {
 
 
 		{
-			id: "wkwkmail2",
-			name: "わくわくメール",
-			life: "パパ活におすすめ",
-			price: "登録無料",
-			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=88002&affID=92390&siteID=181045\">1位:わくわくメール</a>",
-			star: "4.5",
-			category: "育毛トニック",
-			nayami: "抜け毛",
-			tag: ["安全","人気"],
-			description: "・デートに対してお金の交渉も！<br>・ご飯デート機能（おねだり機能）でおごってくれる方を探せる<br>・国内最大級の会員数！",
-			link: "https://track.bannerbridge.net/click.php?APID=88002&affID=92390&siteID=181045"
-		},
-		{
 			id: "telejob2",
 			name: "テレジョブ",
 			life: "安全",
 			price: "電話でバイト",
 			warranty: "会わないから安全",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=64308&affID=92390&siteID=180164\">2位:テレジョブ</a>",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=64308&affID=92390&siteID=180164\">1位:テレジョブ</a>",
 			star: "4",
 			category: "育毛剤",
 			nayami: "頭頂部",
 			tag: ["電話","安全"],
 			description: "・今だけ！登録お祝い金最大10万円贈呈<br>・電話するだけ、時給3000円以上<br>・未経験歓迎！",
 			link: "https://track.bannerbridge.net/click.php?APID=64308&affID=92390&siteID=180164"
+		},
+		{
+			id: "wink2",
+			name: "ウィンク",
+			life: "安全",
+			price: "お金持ちと出会いたい方",
+			warranty: "大手運営",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=160290&affID=92390&siteID=181045\">2位:出会えるし稼げるウィンク</a>",
+			star: "4",
+			category: "育毛剤",
+			nayami: "頭頂部",
+			tag: ["熟女","人気"],
+			description: "・メールするごとにポイントが溜まって換金できる！<br>・モテるし、稼げるサイト<br>・30代以上なので、お金持ちの男性が多い",
+			link: "https://track.bannerbridge.net/click.php?APID=160290&affID=92390&siteID=181045"
+		},
+
+		{
+			id: "wkwkmail2",
+			name: "わくわくメール",
+			life: "パパ活におすすめ",
+			price: "登録無料",
+			warranty: "大手運営",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=88002&affID=92390&siteID=181045\">3位:わくわくメール</a>",
+			star: "4.5",
+			category: "育毛トニック",
+			nayami: "抜け毛",
+			tag: ["安全","人気"],
+			description: "・デートに対してお金の交渉も！<br>・ご飯デート機能（おねだり機能）でおごってくれる方を探せる<br>・国内最大級の会員数！",
+			link: "https://track.bannerbridge.net/click.php?APID=88002&affID=92390&siteID=181045"
 		},
 
 
@@ -42,27 +57,13 @@ $(function() {
 			life: "安全",
 			price: "バイトで兄活",
 			warranty: "会わないから安全",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=136100&affID=92390&siteID=180164\">3位:メールレディVI-VO</a>",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=136100&affID=92390&siteID=180164\">4位:メールレディVI-VO</a>",
 			star: "4",
 			category: "育毛剤",
 			nayami: "頭頂部",
 			tag: ["登録ボーナス","安全"],
 			description: "・お兄さんたちとチャットや電話でお話するお仕事<br>・登録ボーナスで8000円もらえる<br>・通話15秒ごとにお金が稼げるお仕事",
 			link: "https://track.bannerbridge.net/click.php?APID=136100&affID=92390&siteID=180164"
-		},
-		{
-			id: "wink2",
-			name: "ウィンク",
-			life: "安全",
-			price: "お金持ちと出会いたい方",
-			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=160290&affID=92390&siteID=181045\">4位:出会えるし稼げるウィンク</a>",
-			star: "4",
-			category: "育毛剤",
-			nayami: "頭頂部",
-			tag: ["熟女","人気"],
-			description: "・メールするごとにポイントが溜まって換金できる！<br>・モテるし、稼げるサイト<br>・30代以上なので、お金持ちの男性が多い",
-			link: "https://track.bannerbridge.net/click.php?APID=160290&affID=92390&siteID=181045"
 		},
 		{
 			id: "fanza",
