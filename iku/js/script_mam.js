@@ -3,33 +3,34 @@ $(function() {
 	情報
 	================================================================*/
 	var allList = [
-		{
-			id: "mintjc",
-			name: "Jメール",
-			life: "安全",
-			price: "ワンナイト目的のアダ◯トマッチング",
-			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=152699&affID=92390&siteID=181045\">1位:ミントC-Jメール</a>",
-			star: "4.5",
-			category: "育毛剤",
-			nayami: "頭頂部",
-			tag: ["ワン◯イト","人気"],
-			description: "・アダルト掲示板で女性が多い<br>・ニックネーム制で本名不要<br>・ママ活目的で会ってヤレルと口コミ",
-			link: "https://track.bannerbridge.net/click.php?APID=152699&affID=92390&siteID=181045"
-		},
+
 		{
 			id: "wkwkmail2",
 			name: "わくわくメール",
 			life: "ママ活におすすめ",
 			price: "登録無料",
 			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=88002&affID=92390&siteID=181045\">2位:わくわくメール</a>",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=88002&affID=92390&siteID=181045\">1位:わくわくメール</a>",
 			star: "4.5",
 			category: "育毛トニック",
 			nayami: "抜け毛",
 			tag: ["安全","人気"],
 			description: "ご飯デート機能（おねだり機能）でおごってくれる方を探せる<br>お金持ちの女性が多いので、稼ぎやすい<br>国内最大級の会員数！",
 			link: "https://track.bannerbridge.net/click.php?APID=88002&affID=92390&siteID=181045"
+		},
+	{
+			id: "mintjc",
+			name: "Jメール",
+			life: "安全",
+			price: "ワンナイト目的のアダ◯トマッチング",
+			warranty: "大手運営",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=152699&affID=92390&siteID=181045\">2位:ミントC-Jメール</a>",
+			star: "4.5",
+			category: "育毛剤",
+			nayami: "頭頂部",
+			tag: ["ワン◯イト","人気"],
+			description: "・アダルト掲示板で女性が多い<br>・ニックネーム制で本名不要<br>・ママ活目的で会ってヤレルと口コミ",
+			link: "https://track.bannerbridge.net/click.php?APID=152699&affID=92390&siteID=181045"
 		},
 		{
 			id: "koitomo2",
