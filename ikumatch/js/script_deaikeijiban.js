@@ -84,13 +84,13 @@ $(function() {
 			life: "安全な",
 			price: "遊び目的",
 			warranty: "非常に高い",
-			title: "<a target=\"_blank\" href=\"https://mobee2.jp/ad/p/r?medium=2579&ad=141&creative=205&suid=\">6位:PCMAX</a>",
+			title: "<a target=\"_blank\" href=\"http://www.rentracks.jp/adx/r.html?idx=0.30992.247010.1362.2192&dna=35767\">6位:PCMAX</a>",
 			star: "4",
 			category: "育毛剤",
 			nayami: "抜け毛",
 			tag: ["大人女性","真剣度"],
 			description: "・セフレをつくりやすいと話題<br>・ハイスペック女性探しに最適<br>・美人が多くて、会いやすいと話題",
-			link: "https://mobee2.jp/ad/p/r?medium=2579&ad=141&creative=205&suid="
+			link: "http://www.rentracks.jp/adx/r.html?idx=0.30992.247010.1362.2192&dna=35767"
 		},
 		{
 			id: "hananokai2",
@@ -98,13 +98,13 @@ $(function() {
 			life: "安全な",
 			price: "30代以上メイン",
 			warranty: "非常に高い",
-			title: "<a target=\"_blank\" href=\"https://px.a8.net/svt/ejp?a8mat=2ZIWSG+70FU1M+1T5K+1CGWCX\">7位:華の会メール</a>",
+			title: "<a target=\"_blank\" href=\"http://www.rentracks.jp/adx/r.html?idx=0.30992.247010.1461.3360&dna=52754\">7位:華の会メール</a>",
 			star: "4",
 			category: "育毛剤",
 			nayami: "抜け毛",
 			tag: ["大人女性","真剣度"],
 			description: "・30歳以上限定サイト<br>・女性の年齢が高いため、ハイスペック男性探しに最適<br>・Tポイントがたまる制度あり",
-			link: "https://px.a8.net/svt/ejp?a8mat=2ZIWSG+70FU1M+1T5K+1CGWCX"
+			link: "http://www.rentracks.jp/adx/r.html?idx=0.30992.247010.1461.3360&dna=52754"
 		},
 
 		{
