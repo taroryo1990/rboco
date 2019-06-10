@@ -51,32 +51,33 @@ $(function() {
 			link: "https://track.bannerbridge.net/click.php?APID=88002&affID=92390&siteID=181045"
 		},
 		{
-			id: "koitomo2",
-			name: "恋友",
-			life: "安全",
-			price: "愛人・人妻と出会いたい方",
-			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=155579&affID=92390&siteID=180164\">4位:恋友</a>",
-			star: "4",
-			category: "育毛剤",
-			nayami: "頭頂部",
-			tag: ["熟女","人気"],
-			description: "・30代以上の熟女が中心<br>・きれいな女性が多いのでおすすめ<br>・お金持ちの方が多い",
-			link: "https://track.bannerbridge.net/click.php?APID=155579&affID=92390&siteID=180164"
-		},
-		{
 			id: "merupara2",
 			name: "メルパラ",
 			life: "安全",
 			price: "じっくり探したい方向け",
 			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=21614&affID=92390&siteID=181045\">5位:メルパラ</a>",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=21614&affID=92390&siteID=181045\">4位:メルパラ</a>",
 			star: "4",
 			category: "育毛剤",
 			nayami: "頭頂部",
 			tag: ["稼げる","人気"],
 			description: "・ハイスペック女性が多数登録<br>・お金持ち女性が多い<br>・プロフィール検索が細かいので、簡単にお相手を探せる",
 			link: "https://track.bannerbridge.net/click.php?APID=21614&affID=92390&siteID=181045"
+		},
+
+		{
+			id: "koitomo2",
+			name: "恋友",
+			life: "安全",
+			price: "愛人・人妻と出会いたい方",
+			warranty: "大手運営",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=155586&affID=92390&siteID=181045\">5位:恋友</a>",
+			star: "4",
+			category: "育毛剤",
+			nayami: "頭頂部",
+			tag: ["熟女","人気"],
+			description: "・30代以上の熟女が中心<br>・きれいな女性が多いのでおすすめ<br>・お金持ちの方が多い",
+			link: "https://track.bannerbridge.net/click.php?APID=155586&affID=92390&siteID=181045"
 		},
 		{
 			id: "pcmax2",
