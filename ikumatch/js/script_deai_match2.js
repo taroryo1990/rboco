@@ -77,30 +77,13 @@ $(function() {
 			description: "・30代以上の熟女が中心<br>・女性は登録無料で遊べる<br>・30代以上なので、お金持ちの女性が多い",
 			link: "https://track.bannerbridge.net/click.php?APID=156905&affID=92390&siteID=181045"
 		},
-
-		{
-			id: "pcmax2",
-			name: "PCMAX",
-			life: "安全な",
-			price: "遊び目的",
-			warranty: "非常に高い",
-			title: "<a target=\"_blank\" href=\"http://www.rentracks.jp/adx/r.html?idx=0.30992.247010.1362.2192&dna=35767\">6位:PCMAX</a>",
-			star: "4",
-			category: "育毛剤",
-			nayami: "抜け毛",
-			tag: ["大人女性","真剣度"],
-			description: "・セフレをつくりやすいと話題<br>・ハイスペック女性探しに最適<br>・美人が多くて、会いやすいと話題",
-			link: "http://www.rentracks.jp/adx/r.html?idx=0.30992.247010.1362.2192&dna=35767"
-		},
-
-
 		{
 			id: "hananokai2",
 			name: "華の会メール",
 			life: "安全な",
 			price: "30代以上メイン",
 			warranty: "非常に高い",
-			title: "<a target=\"_blank\" href=\"http://www.rentracks.jp/adx/r.html?idx=0.30992.247010.1461.3360&dna=52754\">7位:華の会メール</a>",
+			title: "<a target=\"_blank\" href=\"http://www.rentracks.jp/adx/r.html?idx=0.30992.247010.1461.3360&dna=52754\">6位:華の会メール</a>",
 			star: "4",
 			category: "育毛剤",
 			nayami: "抜け毛",
@@ -108,6 +91,24 @@ $(function() {
 			description: "・30歳以上限定サイト<br>・男性の年齢が高いため、ハイスペック男性探しに最適<br>・Tポイントがたまる制度あり",
 			link: "http://www.rentracks.jp/adx/r.html?idx=0.30992.247010.1461.3360&dna=52754"
 		},
+
+
+		{
+			id: "pcmax2",
+			name: "PCMAX",
+			life: "安全な",
+			price: "遊び目的",
+			warranty: "非常に高い",
+			title: "<a target=\"_blank\" href=\"https://mobee2.jp/ad/p/r?medium=2579&ad=141&creative=205&suid=\">7位:PCMAX</a>",
+			star: "4",
+			category: "育毛剤",
+			nayami: "抜け毛",
+			tag: ["大人女性","真剣度"],
+			description: "・セフレをつくりやすいと話題<br>・ハイスペック女性探しに最適<br>・美人が多くて、会いやすいと話題",
+			link: "https://mobee2.jp/ad/p/r?medium=2579&ad=141&creative=205&suid="
+		},
+
+
 		{
 			id: "bump",
 			name: "バンプ",
@@ -121,22 +122,6 @@ $(function() {
 			tag: ["まじめ","安全"],
 			description: "・写真での審査もあるため、顔が隠れている女性はいない<br>・出会える率はとても高い。<br>・きれいな女性多数。",
 			link: "https://track.bannerbridge.net/click.php?APID=161991&affID=92390&siteID=181045"
-		},
-
-
-		{
-			id: "ikukuru2",
-			name: "イククル",
-			life: "安全",
-			price: "完全匿名",
-			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=19628&affID=92390&siteID=181045\">9位:イククル</a>",
-			star: "3.5",
-			category: "育毛剤",
-			nayami: "頭頂部",
-			tag: ["稼げる","人気"],
-			description: "・「匿名」で秘密の出会いができる<br>・オトナ専用の有料コミュニティサイト<br>・お金持ちの男性が多いのでオススメ",
-			link: "https://track.bannerbridge.net/click.php?APID=19628&affID=92390&siteID=181045"
 		},
 
 			];
