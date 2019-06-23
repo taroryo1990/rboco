@@ -78,20 +78,6 @@ $(function() {
 			description: "・30歳以上限定サイト<br>・女性の年齢が高いため、ママ・パトロン探しに最適<br>・Tポイントがたまる制度あり",
 			link: "https://px.a8.net/svt/ejp?a8mat=2ZIWSG+70FU1M+1T5K+1CGWCX"
 		},
-		{
-			id: "bump",
-			name: "バンプ",
-			life: "ママ活にも",
-			price: "お金持ちのみ登録",
-			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=161991&affID=92390&siteID=181045\">6位:BUMP</a>",
-			star: "4",
-			category: "育毛剤",
-			nayami: "頭頂部",
-			tag: ["まじめ","安全"],
-			description: "・経営者、医者、弁護士などお金持ちが登録<br>・ママ活・パパ活ができるサイト！<br>・厳しい審査も行っているので安心",
-			link: "https://track.bannerbridge.net/click.php?APID=160290&affID=92390&siteID=181045"
-		},
 
 
 
@@ -102,7 +88,7 @@ $(function() {
 			life: "安全",
 			price: "ママ活もできるサイト",
 			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"http://www.medipartner.jp/click.php?APID=10345&affID=0004571\">7位:ラブサーチ</a>",
+			title: "<a target=\"_blank\" href=\"http://www.medipartner.jp/click.php?APID=10345&affID=0004571\">6位:ラブサーチ</a>",
 			star: "4",
 			category: "育毛剤",
 			nayami: "頭頂部",
