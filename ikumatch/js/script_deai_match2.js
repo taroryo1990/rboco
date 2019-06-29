@@ -33,20 +33,6 @@ $(function() {
 			description: "・アダルト掲示板で女性が多い<br>・ニックネーム制で本名不要<br>・パパ活目的で会ってヤレルと口コミ",
 			link: "https://track.bannerbridge.net/click.php?APID=152699&affID=92390&siteID=181045"
 		},
-		{
-			id: "merupara2",
-			name: "メルパラ",
-			life: "安全",
-			price: "じっくり探したい方向け",
-			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=21614&affID=92390&siteID=181045\">3位:メルパラ</a>",
-			star: "4",
-			category: "育毛剤",
-			nayami: "頭頂部",
-			tag: ["稼げる","人気"],
-			description: "・ハイスペック女性が多数登録<br>・お金持ち女性が多い<br>・プロフィール検索が細かいので、簡単にお相手を探せる",
-			link: "https://track.bannerbridge.net/click.php?APID=21614&affID=92390&siteID=181045"
-		},
 
 		{
 			id: "wkwkmail2",
@@ -54,7 +40,7 @@ $(function() {
 			life: "パパ活相手にも",
 			price: "登録無料",
 			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=88002&affID=92390&siteID=181045\">4位:わくわくメール</a>",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=88002&affID=92390&siteID=181045\">3位:わくわくメール</a>",
 			star: "4.5",
 			category: "育毛トニック",
 			nayami: "抜け毛",
@@ -62,28 +48,13 @@ $(function() {
 			description: "ご飯デート機能（おねだり機能）で女性と会える<br>体相手してくれる目的の女性多いのでサクラが少ない！",
 			link: "https://track.bannerbridge.net/click.php?APID=88002&affID=92390&siteID=181045"
 		},
-
-		{
-			id: "wink2",
-			name: "ウィンク",
-			life: "安全",
-			price: "愛人・人妻と出会いたい方",
-			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=156905&affID=92390&siteID=181045\">5位:ウィンク</a>",
-			star: "4",
-			category: "育毛剤",
-			nayami: "頭頂部",
-			tag: ["熟女","人気"],
-			description: "・30代以上の熟女が中心<br>・女性は登録無料で遊べる<br>・30代以上なので、お金持ちの女性が多い",
-			link: "https://track.bannerbridge.net/click.php?APID=156905&affID=92390&siteID=181045"
-		},
 		{
 			id: "hananokai2",
 			name: "華の会メール",
 			life: "安全な",
 			price: "30代以上メイン",
 			warranty: "非常に高い",
-			title: "<a target=\"_blank\" href=\"http://www.rentracks.jp/adx/r.html?idx=0.30992.247010.1461.3360&dna=52754\">6位:華の会メール</a>",
+			title: "<a target=\"_blank\" href=\"http://www.rentracks.jp/adx/r.html?idx=0.30992.247010.1461.3360&dna=52754\">4位:華の会メール</a>",
 			star: "4",
 			category: "育毛剤",
 			nayami: "抜け毛",
@@ -99,7 +70,7 @@ $(function() {
 			life: "安全な",
 			price: "遊び目的",
 			warranty: "非常に高い",
-			title: "<a target=\"_blank\" href=\"https://mobee2.jp/ad/p/r?medium=2579&ad=141&creative=205&suid=\">7位:PCMAX</a>",
+			title: "<a target=\"_blank\" href=\"https://mobee2.jp/ad/p/r?medium=2579&ad=141&creative=205&suid=\">5位:PCMAX</a>",
 			star: "4",
 			category: "育毛剤",
 			nayami: "抜け毛",
@@ -110,19 +81,21 @@ $(function() {
 
 
 		{
-			id: "bump",
-			name: "バンプ",
-			life: "パパ活を求めている女性",
-			price: "お金持ちのみ登録",
+			id: "wink2",
+			name: "ウィンク",
+			life: "安全",
+			price: "愛人・人妻と出会いたい方",
 			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=161991&affID=92390&siteID=181045\">8位:BUMP</a>",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=156905&affID=92390&siteID=181045\">6位:ウィンク</a>",
 			star: "4",
 			category: "育毛剤",
 			nayami: "頭頂部",
-			tag: ["まじめ","安全"],
-			description: "・写真での審査もあるため、顔が隠れている女性はいない<br>・出会える率はとても高い。<br>・きれいな女性多数。",
-			link: "https://track.bannerbridge.net/click.php?APID=161991&affID=92390&siteID=181045"
+			tag: ["熟女","人気"],
+			description: "・30代以上の熟女が中心<br>・女性は登録無料で遊べる<br>・30代以上なので、お金持ちの女性が多い",
+			link: "https://track.bannerbridge.net/click.php?APID=156905&affID=92390&siteID=181045"
 		},
+
+
 
 			];
 
