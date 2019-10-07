@@ -40,13 +40,27 @@ $(function() {
 			life: "安全",
 			price: "愛人・人妻と出会いたい方",
 			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=155586&affID=92390&siteID=181045\">3位:恋友</a>",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=160590&affID=92390&siteID=180164\">3位:恋友</a>",
 			star: "4",
 			category: "育毛剤",
 			nayami: "頭頂部",
 			tag: ["熟女","人気"],
 			description: "・30代以上の熟女が中心<br>・ママ活専用サイトではないが、女性が多いのでおすすめ<br>・お金持ちの方が多い",
-			link: "https://track.bannerbridge.net/click.php?APID=155586&affID=92390&siteID=181045"
+			link: "https://track.bannerbridge.net/click.php?APID=160590&affID=92390&siteID=180164"
+		},
+		{
+			id: "wink2",
+			name: "ウィンク",
+			life: "安全",
+			price: "愛人・人妻と出会いたい方",
+			warranty: "大手運営",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=156905&affID=92390&siteID=181045\">4位:ウィンク</a>",
+			star: "4",
+			category: "育毛剤",
+			nayami: "頭頂部",
+			tag: ["熟女","人気"],
+			description: "・30代以上の熟女が中心<br>・女性は登録無料で遊べる<br>・30代以上なので、お金持ちの女性が多い",
+			link: "https://track.bannerbridge.net/click.php?APID=156905&affID=92390&siteID=181045"
 		},
 
 
@@ -56,7 +70,7 @@ $(function() {
 			life: "安全な",
 			price: "30代以上メイン",
 			warranty: "非常に高い",
-			title: "<a target=\"_blank\" href=\"https://px.a8.net/svt/ejp?a8mat=2ZIWSG+70FU1M+1T5K+1CGWCX\">4位:華の会メール</a>",
+			title: "<a target=\"_blank\" href=\"https://px.a8.net/svt/ejp?a8mat=2ZIWSG+70FU1M+1T5K+1CGWCX\">5位:華の会メール</a>",
 			star: "3.5",
 			category: "育毛剤",
 			nayami: "抜け毛",
@@ -74,7 +88,7 @@ $(function() {
 			life: "安全",
 			price: "ママ活もできるサイト",
 			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"http://www.medipartner.jp/click.php?APID=10345&affID=0004571\">5位:ラブサーチ</a>",
+			title: "<a target=\"_blank\" href=\"http://www.medipartner.jp/click.php?APID=10345&affID=0004571\">6位:ラブサーチ</a>",
 			star: "4",
 			category: "育毛剤",
 			nayami: "頭頂部",
