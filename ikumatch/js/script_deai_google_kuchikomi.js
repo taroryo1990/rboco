@@ -176,8 +176,8 @@ $(function () {
 				outputHtml += '		</div>';
 				outputHtml += '		<div class="detail-list">';
 				outputHtml += '			<table>';
-				outputHtml += '				<tr><td class="warranty">定期縛り</td><td>:' + line.warranty + '</td></tr>';
-				outputHtml += '				<tr><td class="price">当サイト</td><td class="price">:' + line.price + '</td></tr>';
+				outputHtml += '				<tr><td class="warranty">運営レベル</td><td>:' + line.warranty + '</td></tr>';
+				outputHtml += '				<tr><td class="price">ポイント</td><td class="price">:' + line.price + '</td></tr>';
 				outputHtml += '			</table>';
 				outputHtml += '		</div>';
 				outputHtml += '	</div><div class="clear"></div>';
