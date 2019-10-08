@@ -176,10 +176,8 @@ $(function () {
 				outputHtml += '		</div>';
 				outputHtml += '		<div class="detail-list">';
 				outputHtml += '			<table>';
-				outputHtml += '				<tr><td class="amount">1袋容量</td><td>:' + line.life + 'kg</td></tr>';
 				outputHtml += '				<tr><td class="warranty">定期縛り</td><td>:' + line.warranty + '</td></tr>';
-				outputHtml += '				<tr><td class="list_price">定価</td><td>:' + line.list_price + '</td></tr>';
-				outputHtml += '				<tr><td class="price">当サイト価格</td><td class="price">:' + line.price + '</td></tr>';
+				outputHtml += '				<tr><td class="price">当サイト</td><td class="price">:' + line.price + '</td></tr>';
 				outputHtml += '			</table>';
 				outputHtml += '		</div>';
 				outputHtml += '	</div><div class="clear"></div>';
