@@ -37,7 +37,7 @@ $(function () {
 			id: "merupara2",
 			name: "課金すると出会えるメルパラ",
 			life: "出会いやすさは過去1",
-			price: "登録無料",
+			price: "課金が大事",
 			warranty: "大手運営",
 			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=147545&affID=92390&siteID=181045\">3位:セフレできるメルパラ</a>",
 			star: "5",
