@@ -184,7 +184,7 @@ $(function () {
 				outputHtml += '		</div>';
 				outputHtml += '	</div><div class="clear"></div>';
 				outputHtml += '<div class="description-box"><p class="description">' + line.description + '</p></div>';
-				outputHtml += '<div class=""><a class="myButton hvr-grow-shadow" target="_blank" href="' + line.link + '">この商品の詳細を見る</a></div>';
+				outputHtml += '<div class=""><a class="myButton hvr-grow-shadow" target="_blank" href="' + line.link + '">無料登録はこちら</a></div>';
 				outputHtml += '<div id="accordion" role="tablist"><div class="card mt-2"><div class="btn btn-info p-3" role="tab" id="headingTwo"><h5 class="mb-0"><a class="collapsed text-white" data-toggle="collapse" href="#collapse' + i + '" aria-expanded="false"aria-controls="collapse' + i + '">Twitter口コミ</a></h5></div><div id="collapse' + i + '" class="collapse" role="tabpanel" aria-labelledby="headingTwo"><div class="card-body">' + line.reviews + '</div></div></div></div>';
 				outputHtml += '<div class="clear"></div></div>';
 				outputHtml += '<!--/.product--></div>';
