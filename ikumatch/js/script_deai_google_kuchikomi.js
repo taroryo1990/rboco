@@ -44,7 +44,7 @@ $(function () {
 			category: "キャットフード",
 			nayami: "値段・健康",
 			tag: [],
-			description: "・課金ができる方にはとてもおすすめ<br>・<br>・とにかくきれいな女性が多いと話題<br>・誰にもばれずに出会える ",
+			description: "・課金ができる方にはとてもおすすめ<br>・とにかくきれいな女性が多いと話題<br>・誰にもばれずに出会える ",
 			link: "https://track.bannerbridge.net/click.php?APID=147545&affID=92390&siteID=181045",
 			reviews: "【30代男性コメント】<br>既婚ですがセフレ作れた！課金しないと出会えないので、お金に余裕のある方におすすめかも "
 		},
