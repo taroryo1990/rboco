@@ -3,44 +3,13 @@ $(function() {
 	情報
 	================================================================*/
 	var allList = [
-
-		{
-			id: "wkwkmail2",
-			name: "わくわくメール",
-			life: "ママ活におすすめ",
-			price: "登録無料",
-			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=88002&affID=92390&siteID=181045\">1位:わくわくメール</a>",
-			star: "4.5",
-			category: "育毛トニック",
-			nayami: "抜け毛",
-			tag: ["安全","人気"],
-			description: "ご飯デート機能（おねだり機能）でおごってくれる方を探せる<br>お金持ちの女性が多いので、稼ぎやすい<br>国内最大級の会員数！",
-			link: "https://track.bannerbridge.net/click.php?APID=88002&affID=92390&siteID=181045"
-		},
-	{
-			id: "mintjc",
-			name: "Jメール",
-			life: "安全",
-			price: "ワンナイト目的のアダ◯トマッチング",
-			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=152699&affID=92390&siteID=181045\">2位:ミントC-Jメール</a>",
-			star: "4.5",
-			category: "育毛剤",
-			nayami: "頭頂部",
-			tag: ["ワン◯イト","人気"],
-			description: "・アダルト掲示板で女性が多い<br>・ニックネーム制で本名不要<br>・ママ活目的で会ってヤレルと口コミ",
-			link: "https://track.bannerbridge.net/click.php?APID=152699&affID=92390&siteID=181045"
-		},
-
-
 		{
 			id: "koitomo2",
 			name: "恋友",
 			life: "安全",
 			price: "愛人・人妻と出会いたい方",
 			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=160590&affID=92390&siteID=180164\">3位:恋友</a>",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=160590&affID=92390&siteID=180164\">1位:恋友</a>",
 			star: "4",
 			category: "育毛剤",
 			nayami: "頭頂部",
@@ -49,12 +18,27 @@ $(function() {
 			link: "https://track.bannerbridge.net/click.php?APID=160590&affID=92390&siteID=180164"
 		},
 		{
+				id: "mintjc",
+				name: "Jメール",
+				life: "安全",
+				price: "ワンナイト目的のアダ◯トマッチング",
+				warranty: "大手運営",
+				title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=20196&affID=92390&siteID=180164\">2位:ミントC-Jメール</a>",
+				star: "4.5",
+				category: "育毛剤",
+				nayami: "頭頂部",
+				tag: ["ワン◯イト","人気"],
+				description: "・アダルト掲示板で女性が多い<br>・ニックネーム制で本名不要<br>・ママ活目的で会ってヤレルと口コミ",
+				link: "https://track.bannerbridge.net/click.php?APID=20196&affID=92390&siteID=180164"
+			},
+
+		{
 			id: "wink2",
 			name: "ウィンク",
 			life: "安全",
 			price: "愛人・人妻と出会いたい方",
 			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=156905&affID=92390&siteID=181045\">4位:ウィンク</a>",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=156905&affID=92390&siteID=181045\">3位:ウィンク</a>",
 			star: "4",
 			category: "育毛剤",
 			nayami: "頭頂部",
@@ -63,14 +47,13 @@ $(function() {
 			link: "https://track.bannerbridge.net/click.php?APID=156905&affID=92390&siteID=181045"
 		},
 
-
 		{
 			id: "hananokai2",
 			name: "華の会メール",
 			life: "安全な",
 			price: "30代以上メイン",
 			warranty: "非常に高い",
-			title: "<a target=\"_blank\" href=\"https://px.a8.net/svt/ejp?a8mat=2ZIWSG+70FU1M+1T5K+1CGWCX\">5位:華の会メール</a>",
+			title: "<a target=\"_blank\" href=\"https://px.a8.net/svt/ejp?a8mat=2ZIWSG+70FU1M+1T5K+1CGWCX\">4位:華の会メール</a>",
 			star: "3.5",
 			category: "育毛剤",
 			nayami: "抜け毛",
@@ -78,8 +61,20 @@ $(function() {
 			description: "・30歳以上限定サイト<br>・女性の年齢が高いため、ママ・パトロン探しに最適<br>・Tポイントがたまる制度あり",
 			link: "https://px.a8.net/svt/ejp?a8mat=2ZIWSG+70FU1M+1T5K+1CGWCX"
 		},
-
-
+		{
+			id: "ikukuru2",
+			name: "イククル",
+			life: "安全",
+			price: "健全にママ活する方",
+			warranty: "大手運営",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=19690&affID=92390&siteID=181045\">5位:イククル</a>",
+			star: "4",
+			category: "育毛剤",
+			nayami: "頭頂部",
+			tag: ["稼げる","人気"],
+			description: "・「年収」で検索できるプロフ検索が便利<br>・女性は登録無料で遊べるので女性が多い<br>・ママ活専用サイトではないが、お金持ちの女性が多いのでオススメ",
+			link: "https://track.bannerbridge.net/click.php?APID=19690&affID=92390&siteID=181045"
+		},
 
 
 		{
@@ -88,7 +83,7 @@ $(function() {
 			life: "安全",
 			price: "ママ活もできるサイト",
 			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"http://www.medipartner.jp/click.php?APID=10345&affID=0004571\">6位:ラブサーチ</a>",
+			title: "<a target=\"_blank\" href=\"http://www.medipartner.jp/click.php?APID=10345&affID=0004571\">5位:ラブサーチ</a>",
 			star: "4",
 			category: "育毛剤",
 			nayami: "頭頂部",
