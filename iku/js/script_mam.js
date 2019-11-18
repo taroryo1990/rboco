@@ -24,13 +24,13 @@ $(function() {
 			life: "安全",
 			price: "愛人・人妻と出会いたい方",
 			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=156905&affID=92390&siteID=181045\">2位:ウィンク</a>",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=156890&affID=92390&siteID=181045\">2位:ウィンク</a>",
 			star: "4",
 			category: "育毛剤",
 			nayami: "頭頂部",
 			tag: ["熟女","人気"],
 			description: "・30代以上の熟女が中心<br>・女性は登録無料で遊べる<br>・30代以上なので、お金持ちの女性が多い",
-			link: "https://track.bannerbridge.net/click.php?APID=156905&affID=92390&siteID=181045"
+			link: "https://track.bannerbridge.net/click.php?APID=156890&affID=92390&siteID=181045"
 		},
 
 		{
