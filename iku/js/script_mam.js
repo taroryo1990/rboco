@@ -17,20 +17,6 @@ $(function() {
 			description: "・30代以上の熟女が中心<br>・ママ活専用サイトではないが、女性が多いのでおすすめ<br>・お金持ちの方が多い",
 			link: "https://track.bannerbridge.net/click.php?APID=160590&affID=92390&siteID=180164"
 		},
-		{
-				id: "mintjc",
-				name: "Jメール",
-				life: "安全",
-				price: "ワンナイト目的のアダ◯トマッチング",
-				warranty: "大手運営",
-				title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=20196&affID=92390&siteID=180164\">2位:ミントC-Jメール</a>",
-				star: "4.5",
-				category: "育毛剤",
-				nayami: "頭頂部",
-				tag: ["ワン◯イト","人気"],
-				description: "・アダルト掲示板で女性が多い<br>・ニックネーム制で本名不要<br>・ママ活目的で会ってヤレルと口コミ",
-				link: "https://track.bannerbridge.net/click.php?APID=20196&affID=92390&siteID=180164"
-			},
 
 		{
 			id: "wink2",
@@ -38,7 +24,7 @@ $(function() {
 			life: "安全",
 			price: "愛人・人妻と出会いたい方",
 			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=156905&affID=92390&siteID=181045\">3位:ウィンク</a>",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=156905&affID=92390&siteID=181045\">2位:ウィンク</a>",
 			star: "4",
 			category: "育毛剤",
 			nayami: "頭頂部",
@@ -53,7 +39,7 @@ $(function() {
 			life: "安全な",
 			price: "30代以上メイン",
 			warranty: "非常に高い",
-			title: "<a target=\"_blank\" href=\"https://px.a8.net/svt/ejp?a8mat=2ZIWSG+70FU1M+1T5K+1CGWCX\">4位:華の会メール</a>",
+			title: "<a target=\"_blank\" href=\"https://px.a8.net/svt/ejp?a8mat=2ZIWSG+70FU1M+1T5K+1CGWCX\">3位:華の会メール</a>",
 			star: "3.5",
 			category: "育毛剤",
 			nayami: "抜け毛",
@@ -67,7 +53,7 @@ $(function() {
 			life: "安全",
 			price: "健全にママ活する方",
 			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=19690&affID=92390&siteID=181045\">5位:イククル</a>",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=19690&affID=92390&siteID=181045\">4位:イククル</a>",
 			star: "4",
 			category: "育毛剤",
 			nayami: "頭頂部",
