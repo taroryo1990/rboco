@@ -64,27 +64,12 @@ $(function () {
 			reviews: "【30代男性コメント】<br>既婚ですがセフレ作れた！課金で出会いやすいと思う。おすすめかも "
 		},
 		{
-			id: "koitomo2",
-			name: "恋友",
-			life: "安全",
-			price: "無料でかんたんお相手検索",
-			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=160590&affID=92390&siteID=180164\">5位:恋友</a>",
-			star: "4",
-			category: "育毛剤",
-			nayami: "頭頂部",
-			tag: ["熟女","人気"],
-			description: "・遊び相手など目的で検索できる<br>・無料でお試し、最新掲示板チェック<br>・30代以上なので、お金持ちの女性が多い",
-			link: "https://track.bannerbridge.net/click.php?APID=160590&affID=92390&siteID=180164",
-			reviews: "【30代男性コメント】<br>人妻がけっこういるｗｗ "
-		},
-		{
 			id: "hananokai2",
 			name: "華の会メール",
 			life: "安全な",
 			price: "30代以上メイン",
 			warranty: "非常に高い",
-			title: "<a target=\"_blank\" href=\"http://www.rentracks.jp/adx/r.html?idx=0.30992.247010.1461.3360&dna=52754\">6位:華の会メール</a>",
+			title: "<a target=\"_blank\" href=\"http://www.rentracks.jp/adx/r.html?idx=0.30992.247010.1461.3360&dna=52754\">5位:華の会メール</a>",
 			star: "4",
 			category: "育毛剤",
 			nayami: "抜け毛",
@@ -100,7 +85,7 @@ $(function () {
 			life: "安全な",
 			price: "遊び目的",
 			warranty: "非常に高い",
-			title: "<a target=\"_blank\" href=\"https://mobee2.jp/ad/p/r?medium=2579&ad=141&creative=205&suid=\">7位:PCMAX</a>",
+			title: "<a target=\"_blank\" href=\"https://mobee2.jp/ad/p/r?medium=2579&ad=141&creative=205&suid=\">6位:PCMAX</a>",
 			star: "4",
 			category: "育毛剤",
 			nayami: "抜け毛",
@@ -109,22 +94,24 @@ $(function () {
 			link: "https://mobee2.jp/ad/p/r?medium=2579&ad=141&creative=205&suid=",
 			reviews: "【20代女性コメント】<br>やりもくばっかｗ！ "
 		},
-
 		{
-			id: "wink2",
-			name: "ウィンク",
-			life: "安全",
-			price: "愛人・人妻と出会いたい方",
-			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=156905&affID=92390&siteID=181045\">8位:ウィンク</a>",
+			id: "asobo",
+			name: "ASOBO",
+			life: "安全な",
+			price: "遊び目的",
+			warranty: "非常に高い",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=114735&affID=92390&siteID=181045\">7位:アプリASOBO</a>",
 			star: "4",
 			category: "育毛剤",
-			nayami: "頭頂部",
-			tag: ["熟女","人気"],
-			description: "・30代以上の熟女が中心<br>・女性は登録無料で遊べる<br>・30代以上なので、お金持ちの女性が多い",
-			link: "https://track.bannerbridge.net/click.php?APID=156905&affID=92390&siteID=181045",
-			reviews: "【30代男性コメント】<br>熟女が多いので、年上と遊びたい人にはよいかな！若い子がいいなら他サイトがよい "
+			nayami: "抜け毛",
+			tag: ["大人女性","真剣度"],
+			description: "・セフレをつくりやすいアプリ<br>・ギャル系が多い<br>・若い人と遊びやすいアプリと話題",
+			link: "https://track.bannerbridge.net/click.php?APID=114735&affID=92390&siteID=181045",
+			reviews: "【20代女性コメント】<br>やりもくばっかｗ！ "
 		},
+
+
+
 	];
 
 	/*================================================================
