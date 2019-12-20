@@ -94,21 +94,6 @@ $(function () {
 			link: "https://mobee2.jp/ad/p/r?medium=2579&ad=141&creative=205&suid=",
 			reviews: "【20代女性コメント】<br>やりもくばっかｗ！ "
 		},
-		{
-			id: "asobo",
-			name: "ASOBO",
-			life: "安全な",
-			price: "遊び目的",
-			warranty: "非常に高い",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=114735&affID=92390&siteID=181045\">7位:アプリASOBO</a>",
-			star: "4",
-			category: "育毛剤",
-			nayami: "抜け毛",
-			tag: ["大人女性","真剣度"],
-			description: "・セフレをつくりやすいアプリ<br>・ギャル系が多い<br>・若い人と遊びやすいアプリと話題",
-			link: "https://track.bannerbridge.net/click.php?APID=114735&affID=92390&siteID=181045",
-			reviews: "【20代女性コメント】<br>やりもくばっかｗ！ "
-		},
 
 
 
