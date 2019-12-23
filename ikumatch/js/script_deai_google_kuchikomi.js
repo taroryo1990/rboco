@@ -64,6 +64,22 @@ $(function () {
 			reviews: "【30代男性コメント】<br>既婚ですがセフレ作れた！課金で出会いやすいと思う。おすすめかも "
 		},
 		{
+			id: "firstmail",
+			name: "ファーストメール",
+			life: "安全な",
+			price: "目的に合わせて出会える",
+			warranty: "非常に高い",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=156820&affID=92390&siteID=181045\">5位:ファーストメール</a>",
+			star: "4",
+			category: "育毛剤",
+			nayami: "抜け毛",
+			tag: ["大人女性","真剣度"],
+			description: "・恋活、友達探しなどオールジャンルをカバー<br>・メールアドレス登録だけなので安心<br>・30代女性が多いと話題",
+			link: "https://track.bannerbridge.net/click.php?APID=156820&affID=92390&siteID=181045",
+			reviews: "【40代男性コメント】<br>一部サクラがいるので、見極めればいいひとに出会える！ "
+		},
+
+		{
 			id: "hananokai2",
 			name: "華の会メール",
 			life: "安全な",
