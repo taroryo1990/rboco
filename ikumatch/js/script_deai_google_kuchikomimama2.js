@@ -15,7 +15,7 @@ $(function () {
 			category: "育毛剤",
 			nayami: "頭頂部",
 			tag: ["ワン◯イト","人気"],
-			description: "・アダルト掲示板で女性が多い<br>・ニックネーム制で本名不要<br>・30代の女性も多い",
+			description: "・掲示板で独身女性と会える<br>・年収高い女性も多い<br>・30代の女性も多い",
 			link: "https://track.bannerbridge.net/click.php?APID=142622&affID=92390&siteID=181045",
 			reviews: "【30代性別不明コメント】<br>アダルト掲示板がよい！すぐ会える人が募集できるから割と簡単にあえる "
 		},
@@ -30,7 +30,7 @@ $(function () {
 			category: "育毛トニック",
 			nayami: "抜け毛",
 			tag: ["安全","人気"],
-			description: "ご飯デート機能（おねだり機能）で女性と会える<br>体相手してくれる目的の女性多いのでサクラが少ない！",
+			description: "ご飯デート機能（おねだり機能）で女性と会える<br>ごちそうしてでも男性と会いたい目的の女性多い！",
 			link: "https://track.bannerbridge.net/click.php?APID=160234&affID=92390&siteID=181045",
 			reviews: "【20代男性コメント】<br>ごはんおごってもらいたいだけの子もいるから男の腕次第かな！ "
 		},
@@ -60,7 +60,7 @@ $(function () {
 			category: "育毛剤",
 			nayami: "抜け毛",
 			tag: ["大人女性","真剣度"],
-			description: "・恋活、友達探しなどオールジャンルをカバー<br>・メールアドレス登録だけなので安心<br>・30代女性が多いと話題",
+			description: "・恋活などオールジャンルをカバー<br>・メールアドレス登録だけなので安心<br>・30代女性が多いと話題",
 			link: "https://track.bannerbridge.net/click.php?APID=156820&affID=92390&siteID=181045",
 			reviews: "【40代男性コメント】<br>一部サクラがいるので、見極めればいいひとに出会える！ "
 		},
