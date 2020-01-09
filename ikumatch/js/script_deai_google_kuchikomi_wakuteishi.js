@@ -37,7 +37,7 @@ $(function () {
 			id: "merupara2",
 			name: "ワンナイトのメルパラ",
 			life: "出会いやすさは過去1",
-			price: "課金が大事",
+			price: "セフレ向け",
 			warranty: "大手運営",
 			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=147545&affID=92390&siteID=181045\">3位:セフレできるメルパラ</a>",
 			star: "5",
@@ -49,11 +49,11 @@ $(function () {
 			reviews: "【30代男性コメント】<br>既婚ですがセフレ作れた！課金で出会いやすいと思う。おすすめかも "
 		},
 		{
-			id: "yyc",
+			id: "yyc2",
 			name: "YYC",
 			life: "安心の大手運営",
-			price: "課金が大事",
-			warranty: "大手運営",
+			price: "mixi運営",
+			warranty: "健全な出会い",
 			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=121297&affID=92390&siteID=181045\">4位:mixi運営のYYC</a>",
 			star: "4.5",
 			category: "キャットフード",
