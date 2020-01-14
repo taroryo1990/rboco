@@ -122,20 +122,34 @@ $(function () {
 			link: "http://www.rentracks.jp/adx/r.html?idx=0.30992.247010.1461.3360&dna=52754",
 			reviews: "【40代男性コメント】<br>真面目系な人がおおいから、交際目的にはよさげ！ "
 		},
-
+		{
+			id: "dejicafe",
+			name: "デジカフェ",
+			life: "安全な",
+			price: "コミュニティ型",
+			warranty: "非常に高い",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=109311&affID=92390&siteID=181045\">9位:デジカフェ</a>",
+			star: "3.5",
+			category: "育毛剤",
+			nayami: "抜け毛",
+			tag: ["気軽な交流","真剣度"],
+			description: "・日記を読んで趣味や人となりを知ることが出来る<br>・冷やかし・サクラが少ない<br>・日記を読めるので相手のことがよく分かる",
+			link: "https://track.bannerbridge.net/click.php?APID=109311&affID=92390&siteID=181045",
+			reviews: "【40代男性コメント】<br>やらしいHな性格な人なども日記でわかる！ "
+		},
 		{
 			id: "pcmax2",
 			name: "PCMAX",
 			life: "安全な",
 			price: "遊び目的",
 			warranty: "非常に高い",
-			title: "<a target=\"_blank\" href=\"https://mobee2.jp/ad/p/r?medium=2579&ad=141&creative=205&suid=\">9位:PCMAX</a>",
+			title: "<a target=\"_blank\" href=\"https://mobee2.jp/ad/p/r?medium=2579&ad=141&creative=201&suid=\">10位:PCMAX</a>",
 			star: "3.5",
 			category: "育毛剤",
 			nayami: "抜け毛",
 			tag: ["大人女性","真剣度"],
 			description: "・セフレをつくりやすいと話題<br>・ハイスペック女性探しに最適<br>・美人が多くて、会いやすいと話題",
-			link: "https://mobee2.jp/ad/p/r?medium=2579&ad=141&creative=205&suid=",
+			link: "https://mobee2.jp/ad/p/r?medium=2579&ad=141&creative=201&suid=",
 			reviews: "【20代女性コメント】<br>やりもくばっかｗ！ "
 		},
 
