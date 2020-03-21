@@ -22,15 +22,15 @@ $(function () {
 			id: "mintjc",
 			name: "Jメール",
 			life: "安全",
-			price: "ヤリモクのアダ◯ト掲示板",
+			price: "エッ◯できる人募集可能",
 			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=152699&affID=92390&siteID=181045\">2位:ミントC-Jメール</a>",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=169184&affID=92390&siteID=181045\">2位:ミントC-Jメール</a>",
 			star: "4.5",
 			category: "育毛剤",
 			nayami: "頭頂部",
 			tag: ["ワン◯イト","人気"],
 			description: "・アダルト掲示板でヤリモクとして使える<br>・ニックネーム制で本名不要<br>・会ってヤレルと口コミ",
-			link: "https://track.bannerbridge.net/click.php?APID=152699&affID=92390&siteID=181045",
+			link: "https://track.bannerbridge.net/click.php?APID=169184&affID=92390&siteID=181045",
 			reviews: "【30代性別不明コメント】<br>アダルト掲示板がよい！すぐ会える人が募集できるから割と簡単にあえる "
 		},
 		{
