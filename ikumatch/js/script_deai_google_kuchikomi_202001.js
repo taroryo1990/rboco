@@ -64,32 +64,33 @@ $(function () {
 			reviews: "【30代男性コメント】<br>サクラがいなくて、大手運営なので良かった！ "
 		},
 		{
-			id: "koitomo2",
-			name: "恋友",
+			id: "wkwkmail2",
+			name: "わくわく",
 			life: "安全",
-			price: "愛人・人妻と出会いたい方",
+			price: "高収入の男性、美人女性",
 			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=156773&affID=92390&siteID=181045\">5位:恋友</a>",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=160233&affID=92390&siteID=181045\">5位:ワクワクメール</a>",
 			star: "4",
 			category: "育毛剤",
 			nayami: "頭頂部",
 			tag: ["熟女","人気"],
-			description: "・30代以上の熟女が中心<br>・きれいな女性が多いのでおすすめ<br>・お金持ちの方が多い",
-			link: "https://track.bannerbridge.net/click.php?APID=156773&affID=92390&siteID=181045"
+			description: "・気軽にLINE交換しやすい、テレビ電話で仲良くなれる<br>・きれいな女性が多いのでおすすめ<br>・お金持ちの方が多い",
+			link: "https://track.bannerbridge.net/click.php?APID=160233&affID=92390&siteID=181045"
 		},
 		{
-			id: "wink2",
-			name: "ウィンク",
-			life: "安全",
-			price: "愛人・人妻と出会いたい方",
-			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=156899&affID=92390&siteID=181045\">6位:ウィンク</a>",
-			star: "4",
+			id: "pcmax2",
+			name: "PCMAX",
+			life: "安全な",
+			price: "遊び目的",
+			warranty: "非常に高い",
+			title: "<a target=\"_blank\" href=\"https://mobee2.jp/ad/p/r?medium=2579&ad=141&creative=201&suid=\">6位:PCMAX</a>",
+			star: "3.5",
 			category: "育毛剤",
-			nayami: "頭頂部",
-			tag: ["熟女","人気"],
-			description: "・30代以上の熟女が中心<br>・女性は登録無料で遊べる<br>・30代以上なので、お金持ちの女性が多い",
-			link: "https://track.bannerbridge.net/click.php?APID=156899&affID=92390&siteID=181045"
+			nayami: "抜け毛",
+			tag: ["大人女性","真剣度"],
+			description: "・ソフレをつくりやすいと話題<br>・ハイスペック女性探しに最適<br>・美人が多くて、会いやすいと話題",
+			link: "https://mobee2.jp/ad/p/r?medium=2579&ad=141&creative=201&suid=",
+			reviews: "【20代女性コメント】<br>やりもくばっかｗ！ "
 		},
 		{
 			id: "firstmail",
@@ -137,21 +138,7 @@ $(function () {
 			link: "https://track.bannerbridge.net/click.php?APID=109311&affID=92390&siteID=181045",
 			reviews: "【40代男性コメント】<br>やらしいHな性格な人なども日記でわかる！ "
 		},
-		{
-			id: "pcmax2",
-			name: "PCMAX",
-			life: "安全な",
-			price: "遊び目的",
-			warranty: "非常に高い",
-			title: "<a target=\"_blank\" href=\"https://mobee2.jp/ad/p/r?medium=2579&ad=141&creative=201&suid=\">10位:PCMAX</a>",
-			star: "3.5",
-			category: "育毛剤",
-			nayami: "抜け毛",
-			tag: ["大人女性","真剣度"],
-			description: "・セフレをつくりやすいと話題<br>・ハイスペック女性探しに最適<br>・美人が多くて、会いやすいと話題",
-			link: "https://mobee2.jp/ad/p/r?medium=2579&ad=141&creative=201&suid=",
-			reviews: "【20代女性コメント】<br>やりもくばっかｗ！ "
-		},
+
 
 
 
