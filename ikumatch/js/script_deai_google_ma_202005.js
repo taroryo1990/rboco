@@ -4,32 +4,17 @@ $(function () {
 	================================================================*/
 	var allList = [
 		{
-			id: "happymail2",
-			name: "ハッピーメール",
-			life: "安全",
-			price: "熟女出会い向け",
-			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"http://www.medipartner.jp/click.php?APID=22428&affID=0004571\">1位:ハッピーメール</a>",
-			star: "5",
-			category: "育毛剤",
-			nayami: "頭頂部",
-			tag: ["女性熟女","人気"],
-			description: "・「今すぐ遊ぼ」ボタンが熟女と会いやすいと話題<br>・プロフィール検索が細かい、目的別に検索可能<br>・30代以上女性中心",
-			link: "http://www.medipartner.jp/click.php?APID=22428&affID=0004571",
-			reviews: "【20代男性コメント】<br> ワンナイトができたwwハッピーメールというドラマの影響か登録者がとても多い！おごられることもある"
-		},
-		{
 			id: "wkwkmail2",
 			name: "わくわく",
 			life: "安全",
 			price: "高収入、独身女性",
 			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=160233&affID=92390&siteID=181045\">2位:ワクワクメール</a>",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=160233&affID=92390&siteID=181045\">1位:ワクワクメール</a>",
 			star: "4",
 			category: "育毛剤",
 			nayami: "頭頂部",
 			tag: ["熟女","人気"],
-			description: "・パパ活やママ活でも遊べる<br>・独身貴族が多い<br>・お金持ちの方が多い",
+			description: "・パパ活やママ活にも！<br>・お金持ちが多い<br>・おごりたい30代女性も多いのでおすすめ",
 			link: "https://track.bannerbridge.net/click.php?APID=160233&affID=92390&siteID=181045"
 		},
 		{
@@ -38,7 +23,7 @@ $(function () {
 			life: "安全",
 			price: "熟女募集可能",
 			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=169184&affID=92390&siteID=181045\">3位:ミントC-Jメール</a>",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=169184&affID=92390&siteID=181045\">2位:ミントC-Jメール</a>",
 			star: "4.5",
 			category: "育毛剤",
 			nayami: "頭頂部",
@@ -53,7 +38,7 @@ $(function () {
 			life: "出会いやすさは過去1",
 			price: "ヤレルサイト",
 			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=147545&affID=92390&siteID=181045\">4位:メルパラ</a>",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=147545&affID=92390&siteID=181045\">3位:メルパラ</a>",
 			star: "5",
 			category: "キャットフード",
 			nayami: "値段・健康",
@@ -68,7 +53,7 @@ $(function () {
 			life: "安心の大手運営",
 			price: "mixi運営",
 			warranty: "健全な出会い",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=121297&affID=92390&siteID=181045\">5位:mixi運営のYYC</a>",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=121297&affID=92390&siteID=181045\">4位:mixi運営のYYC</a>",
 			star: "4.5",
 			category: "キャットフード",
 			nayami: "値段・会える",
@@ -77,6 +62,22 @@ $(function () {
 			link: "https://track.bannerbridge.net/click.php?APID=121297&affID=92390&siteID=181045",
 			reviews: "【30代男性コメント】<br>サクラがいなくて、大手運営なので良かった！ "
 		},
+		{
+			id: "happymail2",
+			name: "ハッピーメール",
+			life: "安全",
+			price: "熟女出会い向け",
+			warranty: "大手運営",
+			title: "<a target=\"_blank\" href=\"http://www.medipartner.jp/click.php?APID=22428&affID=0004571\">5位:ハッピーメール</a>",
+			star: "5",
+			category: "育毛剤",
+			nayami: "頭頂部",
+			tag: ["女性熟女","人気"],
+			description: "・「今すぐ遊ぼ」ボタンが熟女と会いやすいと話題<br>・プロフィール検索が細かい、目的別に検索可能<br>・30代以上女性中心",
+			link: "http://www.medipartner.jp/click.php?APID=22428&affID=0004571",
+			reviews: "【20代男性コメント】<br> ワンナイトができたwwハッピーメールというドラマの影響か登録者がとても多い！おごられることもある"
+		},
+
 		{
 			id: "pcmax2",
 			name: "PCMAX",
