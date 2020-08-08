@@ -4,27 +4,12 @@ $(function () {
 	================================================================*/
 	var allList = [
 		{
-			id: "happymail2",
-			name: "ハッピーメール",
-			life: "安全",
-			price: "セフレ向け",
-			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"http://www.medipartner.jp/click.php?APID=22428&affID=0004571\">1位:ハッピーメール</a>",
-			star: "5",
-			category: "育毛剤",
-			nayami: "頭頂部",
-			tag: ["女性若い","人気"],
-			description: "・「今すぐ遊ぼ」ボタンがセフレと会いやすいと話題<br>・プロフィール検索が細かい、目的別に検索可能<br>・20代女性中心で若い方が多い",
-			link: "http://www.medipartner.jp/click.php?APID=22428&affID=0004571",
-			reviews: "【20代男性コメント】<br> ワンナイトができたwwハッピーメールというドラマの影響か登録者がとても多い！ただ、おごり目的の人もいたから見極め大事"
-		},
-		{
 			id: "mintjc",
 			name: "Jメール",
 			life: "安全",
 			price: "エッ◯できる人募集可能",
 			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=169184&affID=92390&siteID=181045\">2位:ミントC-Jメール</a>",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=169184&affID=92390&siteID=181045\">1位:ミントC-Jメール</a>",
 			star: "4.5",
 			category: "育毛剤",
 			nayami: "頭頂部",
@@ -39,7 +24,7 @@ $(function () {
 			life: "出会いやすさは過去1",
 			price: "ヤレルサイト",
 			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=147545&affID=92390&siteID=181045\">3位:ヤリやすいメルパラ</a>",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=147545&affID=92390&siteID=181045\">2位:ヤリやすいメルパラ</a>",
 			star: "5",
 			category: "キャットフード",
 			nayami: "値段・健康",
@@ -48,6 +33,22 @@ $(function () {
 			link: "https://track.bannerbridge.net/click.php?APID=147545&affID=92390&siteID=181045",
 			reviews: "【30代男性コメント】<br>既婚ですがセフレ作れた！課金で出会いやすいと思う。おすすめかも "
 		},
+		{
+			id: "happymail2",
+			name: "ハッピーメール",
+			life: "安全",
+			price: "セフレ向け",
+			warranty: "大手運営",
+			title: "<a target=\"_blank\" href=\"http://www.medipartner.jp/click.php?APID=22428&affID=0004571\">3位:ハッピーメール</a>",
+			star: "5",
+			category: "育毛剤",
+			nayami: "頭頂部",
+			tag: ["女性若い","人気"],
+			description: "・「今すぐ遊ぼ」ボタンがセフレと会いやすいと話題<br>・プロフィール検索が細かい、目的別に検索可能<br>・20代女性中心で若い方が多い",
+			link: "http://www.medipartner.jp/click.php?APID=22428&affID=0004571",
+			reviews: "【20代男性コメント】<br> ワンナイトができたwwハッピーメールというドラマの影響か登録者がとても多い！ただ、おごり目的の人もいたから見極め大事"
+		},
+
 		{
 			id: "yyc2",
 			name: "YYC",
