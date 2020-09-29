@@ -92,21 +92,6 @@ $(function () {
 			link: "https://mobee2.jp/ad/p/r?medium=2579&ad=141&creative=201&suid=",
 			reviews: "【20代女性コメント】<br>やりもくばっかｗ！ "
 		},
-		{
-			id: "firstmail",
-			name: "ファーストメール",
-			life: "安全な",
-			price: "目的に合わせて出会える",
-			warranty: "非常に高い",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=156820&affID=92390&siteID=181045\">7位:ファーストメール</a>",
-			star: "4",
-			category: "育毛剤",
-			nayami: "抜け毛",
-			tag: ["大人女性","真剣度"],
-			description: "・恋活、友達探しなどオールジャンルをカバー<br>・メールアドレス登録だけなので安心<br>・30代女性が多いと話題",
-			link: "https://track.bannerbridge.net/click.php?APID=156820&affID=92390&siteID=181045",
-			reviews: "【40代男性コメント】<br>一部サクラがいるので、見極めればいいひとに出会える！ "
-		},
 
 		{
 			id: "hananokai2",
@@ -114,7 +99,7 @@ $(function () {
 			life: "安全な",
 			price: "30代以上メイン",
 			warranty: "非常に高い",
-			title: "<a target=\"_blank\" href=\"http://www.rentracks.jp/adx/r.html?idx=0.30992.247010.1461.3360&dna=52754\">8位:華の会メール</a>",
+			title: "<a target=\"_blank\" href=\"http://www.rentracks.jp/adx/r.html?idx=0.30992.247010.1461.3360&dna=52754\">7位:華の会メール</a>",
 			star: "3.5",
 			category: "育毛剤",
 			nayami: "抜け毛",
@@ -129,7 +114,7 @@ $(function () {
 			life: "安全な",
 			price: "コミュニティ型",
 			warranty: "非常に高い",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=109311&affID=92390&siteID=181045\">9位:デジカフェ</a>",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=109311&affID=92390&siteID=181045\">8位:デジカフェ</a>",
 			star: "3.5",
 			category: "育毛剤",
 			nayami: "抜け毛",
