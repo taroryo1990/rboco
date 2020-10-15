@@ -14,39 +14,39 @@ $(function () {
 			category: "育毛剤",
 			nayami: "頭頂部",
 			tag: ["ワン◯イト","人気"],
-			description: "・アダルト掲示板でヤリモクとして使える<br>・ニックネーム制で本名不要<br>・会ってヤレルと口コミ",
+			description: "・ア◯ルト掲示板でやりモ◯として使える<br>・ニックネーム制で本名不要<br>・会ってヤレルと口コミ",
 			link: "https://track.bannerbridge.net/click.php?APID=169184&affID=92390&siteID=181045",
-			reviews: "【30代性別不明コメント】<br>アダルト掲示板がよい！すぐ会える人が募集できるから割と簡単にあえる "
+			reviews: "【30代性別不明コメント】<br>ア◯ルト掲示板がよい！すぐ会える人が募集できるから割と簡単にあえる "
 		},
 		{
 			id: "merupara2",
-			name: "セフレのメルパラ",
+			name: "セ◯レのメルパラ",
 			life: "出会いやすさは過去1",
-			price: "ヤレルサイト",
+			price: "ヤレ◯サイト",
 			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=147545&affID=92390&siteID=181045\">2位:ヤリやすいメルパラ</a>",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=147545&affID=92390&siteID=181045\">2位:やすいメルパラ</a>",
 			star: "5",
 			category: "キャットフード",
 			nayami: "値段・健康",
 			tag: [],
 			description: "・遊び目的にとてもおすすめ<br>・とにかくきれいな女性が多いと話題<br>・誰にもばれずに出会える ",
 			link: "https://track.bannerbridge.net/click.php?APID=147545&affID=92390&siteID=181045",
-			reviews: "【30代男性コメント】<br>既婚ですがセフレ作れた！課金で出会いやすいと思う。おすすめかも "
+			reviews: "【30代男性コメント】<br>既婚ですがセ◯レ作れた！課金で出会いやすいと思う。おすすめかも "
 		},
 		{
 			id: "happymail2",
 			name: "ハッピーメール",
 			life: "安全",
-			price: "セフレ向け",
+			price: "セ◯レ向け",
 			warranty: "大手運営",
 			title: "<a target=\"_blank\" href=\"http://www.medipartner.jp/click.php?APID=22428&affID=0004571\">3位:ハッピーメール</a>",
 			star: "5",
 			category: "育毛剤",
 			nayami: "頭頂部",
 			tag: ["女性若い","人気"],
-			description: "・「今すぐ遊ぼ」ボタンがセフレと会いやすいと話題<br>・プロフィール検索が細かい、目的別に検索可能<br>・20代女性中心で若い方が多い",
+			description: "・「今すぐ遊ぼ」ボタンがセ◯レと会いやすいと話題<br>・プロフィール検索が細かい、目的別に検索可能<br>・20代女性中心で若い方が多い",
 			link: "http://www.medipartner.jp/click.php?APID=22428&affID=0004571",
-			reviews: "【20代男性コメント】<br> ワンナイトができたwwハッピーメールというドラマの影響か登録者がとても多い！ただ、おごり目的の人もいたから見極め大事"
+			reviews: "【20代男性コメント】<br> ワン◯イトができたwwハッピーメールというドラマの影響か登録者がとても多い！ただ、おごり目的の人もいたから見極め大事"
 		},
 
 		{
@@ -82,16 +82,16 @@ $(function () {
 			id: "pcmax2",
 			name: "PCMAX",
 			life: "安全な",
-			price: "遊び目的",
+			price: "遊び",
 			warranty: "非常に高い",
 			title: "<a target=\"_blank\" href=\"https://mobee2.jp/ad/p/r?medium=2579&ad=141&creative=201&suid=\">6位:PCMAX</a>",
 			star: "3.5",
 			category: "育毛剤",
 			nayami: "抜け毛",
 			tag: ["大人女性","真剣度"],
-			description: "・ソフレをつくりやすいと話題<br>・ハイスペック女性探しに最適<br>・美人が多くて、会いやすいと話題",
+			description: "・セ◯レをつくりやすいと話題<br>・ハイスペック女性探しに最適<br>・美人が多くて、会いやすいと話題",
 			link: "https://mobee2.jp/ad/p/r?medium=2579&ad=141&creative=201&suid=",
-			reviews: "【20代女性コメント】<br>やりもくばっかｗ！ "
+			reviews: "【20代女性コメント】<br>やり◯くばっかｗ！ "
 		},
 
 		{
@@ -122,7 +122,7 @@ $(function () {
 			tag: ["気軽な交流","真剣度"],
 			description: "・日記を読んで趣味や人となりを知ることが出来る<br>・冷やかし・サクラが少ない<br>・日記を読めるので相手のことがよく分かる",
 			link: "https://track.bannerbridge.net/click.php?APID=109311&affID=92390&siteID=181045",
-			reviews: "【40代男性コメント】<br>やらしいHな性格な人なども日記でわかる！ "
+			reviews: "【40代男性コメント】<br>やらしい性格な人なども日記でわかる！ "
 		},
 
 
