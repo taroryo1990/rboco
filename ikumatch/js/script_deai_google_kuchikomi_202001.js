@@ -24,7 +24,7 @@ $(function () {
 			life: "出会いやすさは過去1",
 			price: "ヤレ◯サイト",
 			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=147545&affID=92390&siteID=181045\">2位:やすいメルパラ</a>",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=147545&affID=92390&siteID=181045\">2位:や◯やすいメルパラ</a>",
 			star: "5",
 			category: "キャットフード",
 			nayami: "値段・健康",
