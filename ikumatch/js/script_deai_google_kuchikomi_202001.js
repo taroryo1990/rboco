@@ -78,21 +78,6 @@ $(function () {
 			description: "・気軽にLINE交換しやすい、テレビ電話で仲良くなれる<br>・きれいな女性が多いのでおすすめ<br>・お金持ちの方が多い",
 			link: "https://track.bannerbridge.net/click.php?APID=160233&affID=92390&siteID=181045"
 		},
-		{
-			id: "pcmax2",
-			name: "PCMAX",
-			life: "安全な",
-			price: "遊び",
-			warranty: "非常に高い",
-			title: "<a target=\"_blank\" href=\"https://mobee2.jp/ad/p/r?medium=2579&ad=141&creative=201&suid=\">6位:PCMAX</a>",
-			star: "3.5",
-			category: "育毛剤",
-			nayami: "抜け毛",
-			tag: ["大人女性","真剣度"],
-			description: "・セ◯レをつくりやすいと話題<br>・ハイスペック女性探しに最適<br>・美人が多くて、会いやすいと話題",
-			link: "https://mobee2.jp/ad/p/r?medium=2579&ad=141&creative=201&suid=",
-			reviews: "【20代女性コメント】<br>やり◯くばっかｗ！ "
-		},
 
 		{
 			id: "hananokai2",
@@ -100,7 +85,7 @@ $(function () {
 			life: "安全な",
 			price: "30代以上メイン",
 			warranty: "非常に高い",
-			title: "<a target=\"_blank\" href=\"http://www.rentracks.jp/adx/r.html?idx=0.30992.247010.1461.3360&dna=52754\">7位:華の会メール</a>",
+			title: "<a target=\"_blank\" href=\"http://www.rentracks.jp/adx/r.html?idx=0.30992.247010.1461.3360&dna=52754\">6位:華の会メール</a>",
 			star: "3.5",
 			category: "育毛剤",
 			nayami: "抜け毛",
@@ -115,7 +100,7 @@ $(function () {
 			life: "安全な",
 			price: "コミュニティ型",
 			warranty: "非常に高い",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=109311&affID=92390&siteID=181045\">8位:デジカフェ</a>",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=109311&affID=92390&siteID=181045\">7位:デジカフェ</a>",
 			star: "3.5",
 			category: "育毛剤",
 			nayami: "抜け毛",
