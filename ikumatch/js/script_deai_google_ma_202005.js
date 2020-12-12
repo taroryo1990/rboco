@@ -14,7 +14,7 @@ $(function () {
 			category: "育毛剤",
 			nayami: "頭頂部",
 			tag: ["熟女","人気"],
-			description: "・パパ活やママ活にも！<br>・お金持ちが多い<br>・おごりたい30代女性も多いのでおすすめ",
+			description: "・熟女好きにおすすめ<br>・お金持ちが多い<br>・おごりたい30代女性も多いのでおすすめ",
 			link: "https://track.bannerbridge.net/click.php?APID=160233&affID=92390&siteID=181045"
 		},
 		{
@@ -30,7 +30,7 @@ $(function () {
 			tag: ["熟女","人気"],
 			description: "・掲示板でお金持ち年上女性と会うのに便利<br>・ニックネーム制で本名不要<br>・会ってヤレルと口コミ",
 			link: "https://track.bannerbridge.net/click.php?APID=169184&affID=92390&siteID=181045",
-			reviews: "【30代性別不明コメント】<br>アダルト掲示板がよい！すぐ会える人が募集できるから割と簡単にあえる "
+			reviews: "【30代性別不明コメント】<br>アダ◯ト掲示板がよい！すぐ会える人が募集できるから割と簡単にあえる "
 		},
 		{
 			id: "merupara2",
@@ -75,39 +75,9 @@ $(function () {
 			tag: ["女性熟女","人気"],
 			description: "・「今すぐ遊ぼ」ボタンが熟女と会いやすいと話題<br>・プロフィール検索が細かい、目的別に検索可能<br>・30代以上女性中心",
 			link: "http://www.medipartner.jp/click.php?APID=22428&affID=0004571",
-			reviews: "【20代男性コメント】<br> ワンナイトができたwwハッピーメールというドラマの影響か登録者がとても多い！おごられることもある"
+			reviews: "【20代男性コメント】<br> ワン◯イトができたwwドラマの影響か登録者がとても多い！おごられることもある"
 		},
 
-		{
-			id: "pcmax2",
-			name: "PCMAX",
-			life: "安全な",
-			price: "遊び目的",
-			warranty: "非常に高い",
-			title: "<a target=\"_blank\" href=\"https://mobee2.jp/ad/p/r?medium=2579&ad=141&creative=201&suid=\">6位:PCMAX</a>",
-			star: "3.5",
-			category: "育毛剤",
-			nayami: "抜け毛",
-			tag: ["大人女性","真剣度"],
-			description: "・お金持ち女性と会いやすいと話題<br>・ハイスペック女性探しに最適<br>・美人が多くて、会いやすい",
-			link: "https://mobee2.jp/ad/p/r?medium=2579&ad=141&creative=201&suid=",
-			reviews: "【20代女性コメント】<br>やりもくばっかｗ！ "
-		},
-		{
-			id: "firstmail",
-			name: "ファーストメール",
-			life: "安全な",
-			price: "目的に合わせて出会える",
-			warranty: "非常に高い",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=156820&affID=92390&siteID=181045\">7位:ファーストメール</a>",
-			star: "4",
-			category: "育毛剤",
-			nayami: "抜け毛",
-			tag: ["大人女性","真剣度"],
-			description: "・恋活、友達探しなどオールジャンルをカバー<br>・メールアドレス登録だけなので安心<br>・30代女性が多いと話題",
-			link: "https://track.bannerbridge.net/click.php?APID=156820&affID=92390&siteID=181045",
-			reviews: "【40代男性コメント】<br>一部サクラがいるので、見極めればいいひとに出会える！ "
-		},
 
 		{
 			id: "hananokai2",
@@ -115,7 +85,7 @@ $(function () {
 			life: "安全な",
 			price: "30代以上メイン",
 			warranty: "非常に高い",
-			title: "<a target=\"_blank\" href=\"http://www.rentracks.jp/adx/r.html?idx=0.30992.247010.1461.3360&dna=52754\">8位:華の会メール</a>",
+			title: "<a target=\"_blank\" href=\"http://www.rentracks.jp/adx/r.html?idx=0.30992.247010.1461.3360&dna=52754\">6位:華の会メール</a>",
 			star: "3.5",
 			category: "育毛剤",
 			nayami: "抜け毛",
@@ -130,14 +100,14 @@ $(function () {
 			life: "安全な",
 			price: "コミュニティ型",
 			warranty: "非常に高い",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=109311&affID=92390&siteID=181045\">9位:デジカフェ</a>",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=109311&affID=92390&siteID=181045\">7位:デジカフェ</a>",
 			star: "3.5",
 			category: "育毛剤",
 			nayami: "抜け毛",
 			tag: ["気軽な交流","真剣度"],
 			description: "・日記を読んで趣味や人となりを知ることが出来る<br>・冷やかし・サクラが少ない<br>・日記を読めるので相手のことがよく分かる",
 			link: "https://track.bannerbridge.net/click.php?APID=109311&affID=92390&siteID=181045",
-			reviews: "【40代男性コメント】<br>やらしいHな性格な人なども日記でわかる！ "
+			reviews: "【40代男性コメント】<br>やらしい性格な人なども日記でわかる！ "
 		},
 
 
