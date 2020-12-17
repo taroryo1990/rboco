@@ -4,26 +4,12 @@ $(function () {
 	================================================================*/
 	var allList = [
 		{
-			id: "wkwkmail2",
-			name: "わくわく",
-			life: "安全",
-			price: "高収入、独身女性",
-			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=160233&affID=92390&siteID=181045\">1位:ワクワクメール</a>",
-			star: "4",
-			category: "育毛剤",
-			nayami: "頭頂部",
-			tag: ["熟女","人気"],
-			description: "・熟女好きにおすすめ<br>・お金持ちが多い<br>・おごりたい30代女性も多いのでおすすめ",
-			link: "https://track.bannerbridge.net/click.php?APID=160233&affID=92390&siteID=181045"
-		},
-		{
 			id: "mintjc",
 			name: "Jメール",
 			life: "安全",
 			price: "熟女募集可能",
 			warranty: "大手運営",
-			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=169184&affID=92390&siteID=181045\">2位:ミントC-Jメール</a>",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=169184&affID=92390&siteID=181045\">1位:ミントC-Jメール</a>",
 			star: "4.5",
 			category: "育毛剤",
 			nayami: "頭頂部",
@@ -31,6 +17,21 @@ $(function () {
 			description: "・掲示板でお金持ち年上女性と会うのに便利<br>・ニックネーム制で本名不要<br>・会ってヤレルと口コミ",
 			link: "https://track.bannerbridge.net/click.php?APID=169184&affID=92390&siteID=181045",
 			reviews: "【30代性別不明コメント】<br>アダ◯ト掲示板がよい！すぐ会える人が募集できるから割と簡単にあえる "
+		},
+
+		{
+			id: "wkwkmail2",
+			name: "わくわく",
+			life: "安全",
+			price: "高収入、独身女性",
+			warranty: "大手運営",
+			title: "<a target=\"_blank\" href=\"https://track.bannerbridge.net/click.php?APID=160233&affID=92390&siteID=181045\">2位:ワクワクメール</a>",
+			star: "4",
+			category: "育毛剤",
+			nayami: "頭頂部",
+			tag: ["熟女","人気"],
+			description: "・熟女好きにおすすめ<br>・お金持ちが多い<br>・おごりたい30代女性も多いのでおすすめ",
+			link: "https://track.bannerbridge.net/click.php?APID=160233&affID=92390&siteID=181045"
 		},
 		{
 			id: "merupara2",
